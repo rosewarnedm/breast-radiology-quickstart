@@ -9,8 +9,6 @@ nav_order: 3
 
 # Chapter 3: Image Quality and Technical Pitfalls
 
-> ⚠️ **AI-generated content — requires human review.** This chapter was produced automatically and has not been verified by a clinician. Do not rely on it for clinical decisions until reviewed by a qualified specialist.
-
 ---
 
 ## Why image quality matters
