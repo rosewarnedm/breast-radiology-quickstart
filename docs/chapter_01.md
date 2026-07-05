@@ -91,7 +91,13 @@ Mammography measures **differential x-ray attenuation**. Fat is radiolucent (app
 
 **MLO (mediolateral oblique)**: aimed to include the greatest tissue volume, with the pectoralis muscle visible down to at least the level of the nipple and the inframammary angle demonstrated. Includes the axillary tail.
 
+![Bilateral mediolateral oblique (MLO) mammograms of a normal breast.]({{ '/docs/img/mammography_mlo_projection.png' | relative_url }})
+*Figure 1.1 — Bilateral MLO projection (right and left). A well-positioned MLO shows the pectoralis muscle as a triangular density extending to at least the level of the nipple, the inframammary angle demonstrated inferiorly, and the fibroglandular tissue silhouetted against retromammary and mammary fat. This view captures the greatest tissue volume, including the axillary tail.*
+
 **CC (craniocaudal)**: complements the MLO by profiling medial and lateral tissue differently. The **posterior nipple line** on CC should be within 1 cm of that on the MLO; a larger discrepancy suggests posterior tissue has been excluded and a cancer could have been missed.
+
+![Bilateral craniocaudal (CC) mammograms of a normal breast.]({{ '/docs/img/mammography_cc_projection.png' | relative_url }})
+*Figure 1.2 — Bilateral CC projection (right and left). The nipple should be centred and in profile, with fibroglandular parenchyma distributed around the retro-areolar region and a rim of subcutaneous and mammary fat peripherally. Comparing the posterior nipple line here with the MLO confirms that posterior tissue has been adequately included.*
 
 Positioning quality directly determines sensitivity. The commonest location for a missed cancer is the posterior upper outer quadrant — a consequence of inadequate axillary tail inclusion on the MLO. When reviewing a mammogram, always check posterior nipple line, pectoral muscle level, inframammary angle, and axillary tail before interpreting the parenchyma.
 
