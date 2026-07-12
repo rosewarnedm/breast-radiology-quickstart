@@ -8,7 +8,7 @@ nav_order: 999
 
 _Auto-generated from the publication git history of the Breast Radiology site. This page tracks editing progress and is **not** clinical content._
 
-Generated 2026-07-12 14:55 · 6 commit(s) tracked (2026-05-17 → 2026-07-05).
+Generated 2026-07-12 15:02 · 8 commit(s) tracked (2026-05-17 → 2026-07-12).
 
 ![Breast Radiology editing progress over time]({{ '/docs/img/progress_breast.png' | relative_url }})
 
@@ -17,5 +17,5 @@ Generated 2026-07-12 14:55 · 6 commit(s) tracked (2026-05-17 → 2026-07-05).
 | Signal | Count |
 |---|---:|
 | AI-warning banners (chapters) | 12 |
-| Completed figures | 2 |
+| Completed figures | 12 |
 | Figure placeholders remaining | 0 |
