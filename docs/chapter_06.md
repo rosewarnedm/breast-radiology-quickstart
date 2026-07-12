@@ -126,6 +126,18 @@ Calcification pattern — morphology plus distribution — is the primary route 
 - *Amorphous / indistinct:* hazy, lacking morphological detail. Can represent low-grade DCIS or benign secretory change. Context and distribution determine scoring — a new tight cluster in a postmenopausal woman → M4; stable bilateral diffuse → M3 or M2.
 - *Coarse heterogeneous:* larger than pleomorphic; intermediate suspicion when clustered.
 
+![Labelled bilateral craniocaudal (CC) mammograms showing a cluster of coarse heterogeneous microcalcification in the right breast.]({{ '/docs/img/mammography_coarse_calc_dx007_cc.png' | relative_url }})
+*Figure 6.1 — Coarse heterogeneous microcalcification, CC projection (teaching case DX007). Bilateral craniocaudal mammograms; the abnormal cluster in the right breast is ringed and arrowed. Coarse heterogeneous calcifications are irregular and larger than fine pleomorphic forms, and carry intermediate suspicion when clustered — magnification views are required to characterise morphology before scoring.*
+
+![Magnified (spot-compression zoom) craniocaudal view of the coarse heterogeneous microcalcification cluster.]({{ '/docs/img/mammography_coarse_calc_dx007_cc_zoom.png' | relative_url }})
+*Figure 6.2 — Same case, CC magnification (ZOOM) view. Magnification resolves the individual calcific particles within the cluster and demonstrates the variable size and shape ("heterogeneous") that drives the M-score. This is the view that characterises morphology and is obtained routinely before biopsy.*
+
+![Labelled bilateral mediolateral oblique (MLO) mammograms confirming the coarse heterogeneous microcalcification in the right breast.]({{ '/docs/img/mammography_coarse_calc_dx007_mlo.png' | relative_url }})
+*Figure 6.3 — Same case, MLO projection. The cluster is confirmed on the second, orthogonal view (ringed and arrowed), allowing localisation to quadrant and depth by triangulation with the CC.*
+
+![Magnified (zoom) mediolateral oblique view of the coarse heterogeneous microcalcification cluster.]({{ '/docs/img/mammography_coarse_calc_dx007_mlo_zoom.png' | relative_url }})
+*Figure 6.4 — Same case, MLO magnification (ZOOM) view, again resolving the individual particles that define the pattern.*
+
 **Benign patterns to confidently recognise:**
 - *Skin calcifications:* lucent-centred, punctate, at the skin surface; confirm with BB marker.
 - *Vascular:* parallel "tram-track" calcification following vessel walls.
@@ -149,6 +161,12 @@ Calcification pattern — morphology plus distribution — is the primary route 
 ### 3) Architectural distortion (AD)
 
 **Definition:** Focal disruption of the normal parenchymal architecture — straight lines or spicules radiating from a point, or focal retraction — without a discrete mass visible. This is one of the most commonly missed mammographic abnormalities, particularly on standard 2D mammography.
+
+![Labelled bilateral craniocaudal (CC) mammograms showing architectural distortion in the right breast.]({{ '/docs/img/mammography_architectural_distortion_dx73_cc.png' | relative_url }})
+*Figure 6.5 — Architectural distortion, CC projection (teaching case DX73). Focal disruption of the parenchymal architecture with fine spicules converging on a point, without a discrete mass (arrowed and ringed on the right). Note how subtle the finding is against normal fibroglandular tissue — AD is easily overlooked on 2D and comparison with the contralateral side is essential.*
+
+![Labelled bilateral mediolateral oblique (MLO) mammograms confirming architectural distortion in the right breast.]({{ '/docs/img/mammography_architectural_distortion_dx73_mlo.png' | relative_url }})
+*Figure 6.6 — Same case, MLO projection. Isolated AD without a benign explanation is at least M4 and always requires histological assessment; DBT (which removes overlapping tissue) and targeted ultrasound aid characterisation and guide biopsy.*
 
 **Why it matters:** AD on mammography has two main causes that are radiologically indistinguishable — **invasive carcinoma** (or DCIS with stromal reaction) and **radial scar / complex sclerosing lesion (CSL)**. Both require histological assessment.
 
@@ -175,6 +193,18 @@ Asymmetry is unilateral increased tissue density that does not fulfil the criter
 - *Focal asymmetry:* seen on two views but without defined margins. If new or increasing, warrants spot compression, DBT, and targeted ultrasound.
 - *Developing asymmetry:* new or enlarging compared with prior studies. This is the most clinically significant type — treat with heightened suspicion → M4 if persistent after assessment, unless there is a confidently benign explanation.
 - *Global asymmetry:* involves most of a breast; usually a normal variant or post-surgical change. Malignancy is uncommon unless accompanied by skin thickening, nipple change, or suspicious calcifications.
+
+![Labelled bilateral craniocaudal (CC) mammograms showing two asymmetric densities in the right breast.]({{ '/docs/img/mammography_asymmetric_density_dx002_cc.png' | relative_url }})
+*Figure 6.7 — Asymmetric densities, CC projection (teaching case DX002). Two areas of unilateral increased density that do not meet the criteria for a mass are ringed and arrowed. Each is assessed for whether it persists on two views (versus one-view summation artefact) and, critically, whether it is new or developing compared with priors.*
+
+![Labelled bilateral mediolateral oblique (MLO) mammograms confirming the asymmetric densities in the right breast.]({{ '/docs/img/mammography_asymmetric_density_dx002_mlo.png' | relative_url }})
+*Figure 6.8 — Same case, MLO projection. Persistence of a density on both CC and MLO reclassifies a one-view asymmetry as a focal asymmetry warranting spot compression, DBT, and targeted ultrasound.*
+
+![Labelled bilateral craniocaudal (CC) mammograms showing a solitary focal asymmetric density in the right breast.]({{ '/docs/img/mammography_asymmetric_density_dx119_cc.png' | relative_url }})
+*Figure 6.9 — Solitary focal asymmetric density, CC projection (teaching case DX119). A single focal asymmetry (arrowed and ringed) seen without defined margins. A developing focal asymmetry is the most clinically significant type and warrants M4 after assessment unless there is a confidently benign explanation.*
+
+![Labelled bilateral mediolateral oblique (MLO) mammograms confirming the solitary focal asymmetric density in the right breast.]({{ '/docs/img/mammography_asymmetric_density_dx119_mlo.png' | relative_url }})
+*Figure 6.10 — Same case, MLO projection. Beware positioning differences between studies, which create pseudo-asymmetry — compare like-for-like and repeat views if positioning is clearly non-comparable.*
 
 **Correlation:** Ultrasound targeted to the area of asymmetry may reveal a discrete mass or focal shadowing. If ultrasound is negative but concern persists, DBT assessment is valuable; MRI may be appropriate in selected cases (e.g. strong family history, discordance).
 
