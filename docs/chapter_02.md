@@ -150,6 +150,10 @@ A small focal spot (~0.1 mm) improves geometric sharpness and is used for magnif
 
 ## Standard projections: objectives and adequacy
 
+![Mammography views and anatomy: CC, MLO, XCCL and LM projections]({{ '/docs/img/anatomy_mammography_views_poster.png' | relative_url }})
+
+*Figure: The mammographic projections and the anatomy each demonstrates, with the corresponding patient positioning. The two standard screening views are the craniocaudal (CC) and mediolateral oblique (MLO); the exaggerated craniocaudal lateral (XCCL) and lateromedial (LM) are additional/problem-solving views for far-lateral and medial tissue respectively. Source: M Aulo (AI-generated anatomy illustration).*
+
 ### Mediolateral oblique (MLO)
 
 **Objective:** Maximum volume — posterior, superior, axillary tail, and inferior tissue — with the IMF open.
