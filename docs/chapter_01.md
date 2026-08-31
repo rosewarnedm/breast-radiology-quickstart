@@ -81,6 +81,10 @@ The **critical discipline** is correlation: a B2 result must plausibly explain a
 
 ## Macro- and microanatomy of the breast
 
+![Labelled breast anatomy in CC and MLO mammographic projections]({{ '/docs/img/anatomy_cc_mlo_labelled_pair.png' | relative_url }})
+
+*Figure: Labelled breast anatomy in the two standard screening-mammography projections — craniocaudal (CC) and mediolateral oblique (MLO). Note the pectoralis major muscle, pectoral fascia and ribs, the glandular lobules and converging lactiferous ducts, the nipple and areola, Cooper's (suspensory) ligaments, adipose tissue, and — on the MLO — the clavicle and the axillary tail of Spence. Source: M Aulo (AI-generated anatomy illustration).*
+
 ### Surface anatomy and compartments
 
 The **skin and nipple–areolar complex (NAC)** form the outer boundary. The NAC contains multiple duct orifices and Montgomery glands in the areola. The **subcutaneous fat** — lobulated and radiolucent — lies superficial to the fibroglandular tissue and is traversed by **Cooper's ligaments**, which connect the dermis to the pectoral fascia. These ligaments are important: their distortion by tumour tethering produces some of the most diagnostically significant findings across all modalities.
