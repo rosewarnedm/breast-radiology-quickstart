@@ -13,228 +13,468 @@ nav_order: 2
 
 ## Why acquisition matters
 
-It is tempting to treat image acquisition as something radiographers do before the "real" work of reporting begins. Resist that temptation. A cancer that is excluded from the field of view, buried in motion blur, or obscured by a skin fold cannot be diagnosed regardless of how carefully you read. In the NHS Breast Screening Programme (NHSBSP), where sensitivity and specificity are audited at programme level, systematic high-quality acquisition is the first clinical act — and the one most likely to prevent a false negative.
+As a radiologist, you will not routinely position patients yourself, but you must understand acquisition well enough to recognise when an image is genuinely diagnostic and when it is not — and to direct the radiographer accordingly. Poor acquisition is the single most preventable cause of false negatives in mammography. A cancer missed because of inadequate positioning or suboptimal compression is a failure that cannot be rescued at the reporting workstation. Conversely, unnecessary repeats increase dose, distress, and recall rates.
 
-Understanding acquisition also makes you a better reporter. When you know *why* a density shifts between views, or *how* the IMF was opened, you can reason about whether an asymmetry is summation or a genuine mass, and you can target ultrasound with precision. Acquisition knowledge and interpretive skill are inseparable.
+In the NHS Breast Screening Programme (NHSBSP), images are double-read with arbitration. Consistent acquisition quality is therefore a programme-wide patient safety issue, not merely a technical nicety.
 
 ---
+
+### Check your understanding
+
+1. Poor acquisition is the single most preventable cause of false negatives in mammography.  *(True / False)*
+
+2. In the NHSBSP, each mammogram is read by a single reporting radiologist without arbitration.  *(True / False)*
+
+3. Unnecessary repeat mammograms are acceptable practice provided image quality improves, as they carry no significant drawbacks.  *(True / False)*
 
 ## The UK pathway: where acquisition fits
 
-### Screening (NHSBSP)
+**Screening (NHSBSP)**
 
-Women aged 50–70 are routinely invited every three years for bilateral two-view full-field digital mammography (FFDM): mediolateral oblique (MLO) and craniocaudal (CC). Age-extension pilots (47–73) have operated in some units, so be aware local practice may differ.
+Routine invitations are offered every three years to women aged 50–70; some units have extended this to 47–73 as part of a trial, and local practice varies. The standard examination is bilateral two-view full-field digital mammography (FFDM): a mediolateral oblique (MLO) and a craniocaudal (CC) view of each breast. Images are independently double-read, with arbitration of disagreements and recall to assessment when indicated.
 
-Images undergo independent double reading with arbitration; disagreements trigger recall to assessment. Image quality is assessed against NHSBSP standards using PGMI (Perfect/Good/Moderate/Inadequate) scoring and repeat/reject analysis.
+Image quality is formally assessed using the **PGMI system** (Perfect / Good / Moderate / Inadequate) and tracked through repeat and reject analysis. These are governance tools: use them analytically to identify recurrent positioning errors and drive retraining, not simply as a checklist to tick.
 
-### Symptomatic (triple assessment)
+**Symptomatic (triple assessment)**
 
-Here mammography sits within the clinical (P1–P5), mammographic (M1–M5), ultrasound (U1–U5), and biopsy (B1–B5) framework. The acquisition must be tailored to the clinical question — a palpable lump requires the lump to be marked and demonstrably included; a screen-detected distortion requires adequate compression and, usually, magnification views. Quality of acquisition directly determines how reliably you can correlate across modalities and assign a confident M score.
+Here, mammography is one component of **triple assessment**: clinical (P1–P5), imaging (M1–M5 for mammography, U1–U5 for ultrasound), and pathological (B1–B5 for biopsy). The five-point scales exist to force explicit categorisation of suspicion and to structure the multidisciplinary decision. You should know these scales and use them consistently in your reports.
+
+In the symptomatic setting, acquisition is tailored to the clinical question — additional views are targeted rather than routine, and correlation with ultrasound and clinical findings drives which projections add diagnostic value.
 
 ---
+
+### Check your understanding
+
+1. A 58-year-old woman attends her routine NHSBSP screening appointment. Which of the following best describes the standard examination she should receive?
+   - **A.** Unilateral single-view MLO of each breast, independently single-read
+   - **B.** Bilateral two-view FFDM (MLO and CC of each breast), independently double-read with arbitration
+   - **C.** Bilateral two-view FFDM followed by routine ultrasound of both breasts
+   - **D.** Bilateral single-view CC of each breast, double-read without arbitration
+   - **E.** Bilateral DBT only, replacing standard FFDM in all NHSBSP units
+
+2. In the symptomatic triple assessment pathway, a radiologist reports a mammogram as M3. What does this classification indicate?
+   - **A.** The mammogram is technically inadequate and must be repeated
+   - **B.** The mammogram is normal with no findings
+   - **C.** The mammogram findings fall on a five-point scale used to categorise the degree of suspicion
+   - **D.** The patient requires immediate surgical referral without biopsy
+   - **E.** The mammogram is equivalent to a BI-RADS 5 assessment
+
+3. In the symptomatic setting, how should additional mammographic views be determined?
+   - **A.** A fixed protocol of six additional views should be acquired for all symptomatic patients
+   - **B.** Additional views are targeted to a specific clinical question rather than acquired by rote
+   - **C.** Additional views are not indicated in the symptomatic setting, as ultrasound replaces them
+   - **D.** Additional views are selected solely based on breast density on the standard views
+   - **E.** Additional views are acquired routinely only in women under 40 years of age
 
 ## Breast anatomy and why it drives positioning
 
-The breast is a three-dimensional cone of fibroglandular tissue draped over pectoralis major on a curved thoracic wall. It extends superiorly toward the clavicle, medially across the sternum, laterally into the axillary tail (tail of Spence), and posteriorly toward the chest wall and inframammary fold (IMF).
+Thinking anatomically helps you understand both positioning goals and common misses. The breast is a three-dimensional cone of fibroglandular tissue on a curved chest wall, extending:
 
-Each of these regions presents a specific inclusion challenge:
+- **Superiorly** towards the clavicle
+- **Laterally** into the axillary tail (tail of Spence)
+- **Medially** across the sternum
+- **Posteriorly** to the inframammary fold (IMF) and chest wall
 
-- The **axillary tail** is easily lost on CC if the lateral breast is not swept forward and recruited.
-- The **posterior tissue** disappears if the pectoralis is not adequately represented on MLO — the posterior nipple line (PNL) is your proxy measure for this.
-- **Medial tissue** is more mobile and can be under-represented on CC if traction is not applied.
-- The **IMF** must be opened on MLO to include inferior posterior tissue; failure here produces a predictable false asymmetry inferiorly.
-- **Skin folds** from inadequate positioning mimic pathology and obscure real lesions — prevent them, do not explain them away after the fact.
+No single projection images all of this. The MLO maximises posterior and axillary tail inclusion; the CC maximises medial and lateral coverage in a single plane. Together they give complementary coverage — which is why two views are standard and why the posterior nipple line (PNL) on each view should be roughly comparable (within ~1 cm as a practical guide).
 
-Think in three dimensions at the console. The question is always: have I included the tissue I need?
-
----
-
-## Physics that matter at the console
-
-You do not need to be a medical physicist, but understanding the following principles allows you to reason about exposure quality and recognise when something has gone wrong.
-
-### X-ray spectrum
-
-Mammography uses low-energy spectra (roughly 20–35 kVp effective) to maximise soft-tissue contrast between glandular tissue and fat — structures that differ only subtly in attenuation. Modern systems commonly use a tungsten target with selectable filters (rhodium, silver) to tune the spectrum to breast thickness and density. Thicker, denser breasts benefit from a harder spectrum; very thin fatty breasts need a softer one.
-
-### Digital detectors
-
-Current FFDM systems use either indirect detectors (caesium iodide with thin-film transistor arrays) or direct detectors (amorphous selenium). Both offer high detective quantum efficiency. What matters practically is that each system has characteristic noise behaviour and artefact patterns — know your own equipment, particularly how it behaves with dense breasts or implants.
-
-### Automatic exposure control (AEC)
-
-The AEC selects kVp and mAs based on measured attenuation through a sampled region. Critically, the AEC samples wherever the operator places the field — if you position that field over fatty tissue when the clinical target is a dense posterior region, the exposure will be wrong. Dense breasts, implants, and post-surgical cases may all require manual override. Understand your system's AEC logic before you override it.
-
-### Compression — the single most important technical variable
-
-Compression serves four distinct purposes, and understanding each helps you apply it thoughtfully rather than mechanically:
-
-1. **Dose reduction** — thinner breast requires less radiation.
-2. **Scatter reduction** — improves contrast.
-3. **Immobilisation** — eliminates motion blur; critical for calcification detection.
-4. **Tissue separation** — spreads superimposed structures, improving conspicuity of distortions and calcifications that would otherwise be hidden by summation.
-
-There is no single target force applicable to all patients. The practical goal is firm, tolerable compression that produces visible tissue relaxation, opens the IMF on MLO, and thins the densest region. Communicate clearly, titrate incrementally, and modify or stop when there is a genuine injury risk — recent surgery, fragile irradiated skin, acute infection.
-
-### Geometry
-
-A small focal spot (0.1–0.3 mm) and optimised source-to-image distance minimise geometric unsharpness. The anode heel effect — lower intensity at the anode end of the beam — is exploited by orienting the cathode toward the chest wall, compensating for the greater thickness of posterior tissue.
+Understand the consequences of missed anatomy:
+- Failure to recruit the axillary tail on MLO → missed upper outer and posterior cancers
+- Failure to open the IMF → missed inferior posterior tissue
+- Insufficient medial traction on CC → missed medial masses
+- Skin folds from poor positioning → obscured tissue and potential false positives
 
 ---
 
-## Standard projections: objectives and adequacy criteria
+### Check your understanding
+
+1. The MLO projection primarily maximises posterior and axillary tail inclusion, whilst the CC projection maximises medial and lateral coverage in a single plane.  *(True / False)*
+
+2. Failure to open the inframammary fold on the MLO view risks missing superior and lateral cancers.  *(True / False)*
+
+3. The posterior nipple line on the MLO and CC views should be roughly comparable, within approximately 1 cm, as a practical guide.  *(True / False)*
+
+## Physics that matter at the reporting workstation
+
+You do not need to know every acquisition parameter, but understanding the underlying physics helps you recognise artefacts, assess adequacy, and advise appropriately.
+
+**Spectrum and contrast**
+
+Mammography uses low-energy X-rays (approximately 20–35 kVp effective) to maximise soft-tissue contrast between glandular and fatty tissue — contrast that disappears at higher energies. Modern systems use a tungsten (W) target with selectable filters (rhodium, silver) that tune the spectrum to breast thickness and density. Dense, thick breasts typically require a higher kVp or different filter combination to penetrate adequately.
+
+**Automatic exposure control (AEC)**
+
+AEC selects kVp and mAs based on sampling of a selected region. The radiographer's choice of AEC field matters: if the sampling region does not represent the tissue of interest (e.g. fat is sampled rather than dense parenchyma), the image will be suboptimally exposed. Dense breasts, implants, and post-surgical changes may require manual override — recognise this when reviewing exposure factors.
+
+**Compression — the most important variable you can influence**
+
+Compression is not primarily about patient discomfort management; it is a diagnostic tool:
+
+- Reduces breast thickness → lower dose and less scatter
+- Immobilises tissue → sharper images, less motion blur
+- Spreads overlapping structures → exposes distortions and calcifications that would otherwise be hidden
+
+There is no single correct compression force. The goal is firm, sustained, tolerable compression that visibly thins and immobilises the breast. Inadequate compression is a common and correctable cause of missed architectural distortion and calcification clusters. When reviewing images, assess whether the breast appears adequately compressed (flat, spread tissue) rather than simply recording the force figure.
+
+**Geometry and focal spot**
+
+A small focal spot (~0.1 mm) improves geometric sharpness and is used for magnification views. The standard focal spot (~0.3 mm) is used for contact views. The anode heel effect is exploited by orienting the cathode towards the chest wall, compensating for the greater attenuation of thicker posterior tissue.
+
+---
+
+### Check your understanding
+
+1. A reporting radiographer notes that images of a dense, thick breast appear underexposed despite AEC being used. Which of the following is the most likely explanation?
+   - **A.** The focal spot was set to the magnification (0.1 mm) setting instead of the standard setting
+   - **B.** The AEC sampling region was positioned over fatty rather than dense parenchymal tissue
+   - **C.** The compression force was excessive, artificially thinning the breast
+   - **D.** A tungsten target was used instead of the preferred molybdenum target
+   - **E.** The anode heel effect was incorrectly oriented with the cathode towards the nipple
+
+2. Which of the following best describes the primary diagnostic purpose of breast compression?
+   - **A.** To minimise patient movement by causing discomfort that promotes breath-holding
+   - **B.** To standardise breast shape for reproducible PGMI assessment across units
+   - **C.** To reduce thickness, immobilise tissue, and spread overlapping structures to improve diagnostic quality
+   - **D.** To maximise the anode heel effect across the full breast volume
+   - **E.** To reduce the need for a grid by decreasing the amount of scattered radiation produced
+
+3. A radiographer asks whether the small focal spot or the standard focal spot should be used for a magnification view of a calcification cluster. What is the correct answer according to acquisition principles?
+   - **A.** The standard focal spot (~0.3 mm), as it produces higher tube output for the longer exposure
+   - **B.** The small focal spot (~0.1 mm), as it improves geometric sharpness for magnification views
+   - **C.** Either focal spot, as magnification geometry alone determines sharpness
+   - **D.** The small focal spot, but only when a grid is also in place to reduce scatter
+   - **E.** The standard focal spot, because the small focal spot increases patient dose unacceptably
+
+## Standard projections: objectives and adequacy
 
 ### Mediolateral oblique (MLO)
 
-**Objective:** maximise breast volume — posterior, superior (axillary tail), and inferior tissue — while opening the IMF.
+**Objective:** Maximum volume — posterior, superior, axillary tail, and inferior tissue — with the IMF open.
 
-**Setup:** The obliquity angle approximates the angle of pectoralis major, typically 45–60°, steeper for broad shoulders and shallower for kyphosis or pendulous breasts. The receptor height should seat snugly in the IMF without digging into the abdomen. The patient's ipsilateral arm rests over the receptor with the shoulder relaxed; the contralateral breast must be clear of the field. Apply forward and upward traction to recruit the breast from the chest wall, sweeping laterally to medially to include the axillary tail before applying compression.
+The MLO angle (typically 45–60°) should approximate the angle of the pectoralis major muscle, not simply be set to a fixed number. Broader shoulders need a steeper angle; kyphosis or pendulous breasts may need a shallower one.
 
-**Adequacy — what to check on the image:**
+**Adequacy criteria:**
+- Pectoralis muscle visible to or below the PNL (the horizontal line from the nipple to the posterior image edge)
+- IMF open and clearly visualised
+- Nipple ideally in profile (or noted if not, with a complementary view obtained if clinically relevant)
+- No skin folds obscuring posterior or inferior tissue
+- PNL comparable to the CC PNL (±1 cm as a practical guide)
 
-- Pectoralis muscle visible and reaching at or below the level of the PNL (the perpendicular line from the nipple to the posterior image edge).
-- IMF open, well-defined, and included.
-- Nipple ideally in profile; if not, a complementary view may be required.
-- No skin folds obscuring posterior or inferior tissue.
-- PNL length on MLO within approximately 1 cm of the CC PNL — a practical proxy for equivalent posterior inclusion across views.
+In very small breasts, pectoralis reaching the PNL may not be achievable; in surgically altered breasts, PNL matching is less reliable. Apply composite judgement rather than rigid rules.
 
 ### Craniocaudal (CC)
 
-**Objective:** include medial and lateral tissue symmetrically with the nipple centred and, where possible, in profile.
+**Objective:** Balanced medial and lateral coverage, with the nipple centred and in profile.
 
-**Setup:** Lift the breast up and forward onto the receptor; avoid dragging the IMF onto the plate, as this loses posterior tissue. The patient leans slightly forward with shoulders relaxed so the chest wall can meet the receptor edge. Apply medial traction first to draw medial tissue across, then balance the lateral side. Compression is perpendicular to the receptor; watch for medial or lateral rolls.
+The CC tends to under-represent medial tissue because medial breast is less mobile. The radiographer must apply deliberate medial traction before compression; without this, medial masses are easily excluded.
 
-**Adequacy:**
+**Adequacy criteria:**
+- PNL within ~1 cm of the MLO PNL
+- Medial and lateral fibroglandular tissue both present and not cut off at the chest wall
+- Nipple centred and ideally in profile
 
-- PNL within approximately 1 cm of the MLO PNL.
-- Medial and lateral fibroglandular tissue both present.
-- No cut-off at the chest wall, and the nipple not clipped.
-- Nipple ideally in profile.
-
-**A note on targets:** PNL equivalence and nipple profile are useful rules of thumb, not absolute laws. In very small breasts, pectoralis may not be visible on MLO despite optimal positioning. In very large or surgically altered breasts, PNL matching is less reliable. Apply composite adequacy criteria with clinical judgement rather than treating any single metric as a pass/fail test.
+If the PNL is substantially shorter on CC than MLO, posterior tissue has been excluded — a common and important shortcoming.
 
 ---
+
+### Check your understanding
+
+1. When reviewing an MLO, which single finding most reliably indicates that adequate posterior tissue has been included?
+   - **A.** The nipple is in profile
+   - **B.** The pectoralis muscle is visible to or below the posterior nipple line
+   - **C.** The compression force recorded is greater than 100 N
+   - **D.** No skin folds are visible anywhere on the image
+   - **E.** The inframammary fold is partially visible but not fully open
+
+2. On reviewing paired MLO and CC images, the PNL on the CC is substantially shorter than on the MLO. What is the most likely cause and consequence?
+   - **A.** The MLO angle was too shallow, causing the axillary tail to be projected anteriorly and artificially lengthening the MLO PNL
+   - **B.** Posterior tissue has been excluded on the CC, representing a common and clinically important shortcoming
+   - **C.** The nipple is not in profile on the CC, causing a measurement error in the PNL
+   - **D.** The CC was correctly positioned but the MLO was over-rotated, stretching posterior tissue
+   - **E.** A PNL difference of any magnitude between MLO and CC is within normal limits and requires no action
+
+3. A patient has broad shoulders. How should the MLO angle be adjusted compared with a patient of average build?
+   - **A.** Set to a fixed 45° regardless of patient habitus
+   - **B.** Made shallower to accommodate the broader chest wall
+   - **C.** Made steeper to approximate the angle of the pectoralis major muscle
+   - **D.** Increased to 90° to maximise posterior tissue inclusion
+   - **E.** Reduced to minimise discomfort associated with the broader shoulder
 
 ## Additional and problem-solving views
 
-Supplementary views address a specific question. Acquire them purposefully — not by rote — and document the reason.
+Do not acquire additional views by rote. Each should be directed by a specific question: Is this density real or summation? Is this calcification cutaneous? Where exactly does this distortion localise in three dimensions?
 
-| View | When to use |
+| View | Purpose |
 |---|---|
-| Lateromedial (LM) / mediolateral (ML) | True lateral orthogonal to CC; triangulates a finding, confirms superior/inferior location, improves IMF visualisation |
-| Exaggerated CC lateral (XCCL) / medial (XCCM) | Recruits far lateral or medial tissue excluded on standard CC |
-| Cleavage (CV) | Improves medial coverage across the midline; assesses medial asymmetries |
-| Axillary tail | Focused recruitment when MLO is limited by habitus or surgery |
-| Rolled CC (RM/RL) | Rolls superior tissue medially or laterally to separate overlapping densities; helps decide whether an asymmetry is summation |
-| Tangential | Beam tangential to a skin marker to confirm cutaneous origin of calcifications or foreign bodies |
-| Spot compression ± magnification | Small paddle for margin assessment and distortion evaluation; magnification for microcalcification characterisation |
-| Post-surgical adaptations | "From below" CC for restricted arm mobility; adjusted obliquity for kyphosis; seated acquisition when standing is unsafe |
+| **Lateromedial (LM) / mediolateral (ML)** | True lateral; localises lesions superiorly or inferiorly; clarifies equivocal MLO findings |
+| **Exaggerated CC lateral (XCCL) / medial (XCCM)** | Includes far lateral or medial tissue cut off on standard CC |
+| **Cleavage (CV)** | Improves medial coverage across the midline |
+| **Rolled CC (RM/RL)** | Separates overlapping densities to distinguish summation from a true mass |
+| **Spot compression ± magnification** | Sharpens margins; magnification (small focal spot, no grid) is the standard approach for microcalcification characterisation |
+| **Tangential** | Confirms cutaneous location of calcifications or markers over palpable skin lesions |
+| **Axillary tail** | Focused recruitment when axillary tissue is inadequate on MLO |
 
-For magnification views, remove the anti-scatter grid (the air gap provides scatter rejection), raise the breast on a platform, and use the small focal spot. These measures are essential for resolving microcalcification morphology.
+**The rolled CC view is particularly useful in practice:** if an apparent asymmetry on MLO moves on rolling, it is more likely to represent summation; if it persists, pursue further evaluation with spot compression and/or ultrasound.
+
+---
+
+### Check your understanding
+
+1. An apparent asymmetric density is seen on the MLO but its nature is uncertain. A rolled CC view is performed. The density moves on rolling. What is the most appropriate interpretation?
+   - **A.** Movement confirms the density is a true mass requiring biopsy
+   - **B.** Movement suggests the density more likely represents summation of normal tissue
+   - **C.** Movement indicates the density is cutaneous and a tangential view should be performed
+   - **D.** Movement means the density is in the axillary tail and an axillary tail view is required
+   - **E.** Movement is irrelevant; the density should be evaluated with MRI regardless
+
+2. Which view is most appropriate to confirm that calcifications seen on standard views are located within the skin rather than the parenchyma?
+   - **A.** Rolled CC view
+   - **B.** Exaggerated CC lateral view
+   - **C.** Tangential view
+   - **D.** Cleavage view
+   - **E.** Axillary tail view
+
+3. A spot compression magnification view is requested for calcification characterisation. Which combination of technical parameters is correct for this view?
+   - **A.** Standard focal spot, grid in place, contact paddle
+   - **B.** Small focal spot, grid removed (air gap), magnification platform
+   - **C.** Small focal spot, grid in place, magnification platform
+   - **D.** Standard focal spot, grid removed, contact paddle
+   - **E.** Small focal spot, grid in place, contact paddle with maximum compression
+
+## Digital breast tomosynthesis (DBT): what you need to know
+
+DBT acquires multiple low-dose projections through an arc and reconstructs thin (~1 mm) slices, reducing tissue overlap. Its main clinical advantage is improved conspicuity of **architectural distortion and spiculated masses** that are buried in overlapping parenchyma on 2D mammography.
+
+**Key acquisition points:**
+- The breast must remain motionless slightly longer than for standard FFDM; motion artefact is a specific pitfall
+- Synthetic 2D images can be generated from the DBT dataset, avoiding a separate FFDM exposure and keeping total dose comparable to standard two-view bilateral FFDM
+- Calcification characterisation is possible but appearances differ from magnification FFDM; learn your system's reconstruction behaviour
+
+**UK context:** DBT is widely used in symptomatic assessment clinics. Its adoption in routine screening varies between NHSBSP units. Reading workflows and arbitration pathways are still evolving; follow your local guidance.
 
 ---
 
-## Digital breast tomosynthesis (DBT): acquisition essentials
+### Check your understanding
 
-DBT acquires multiple low-dose projections through an arc (vendor-dependent, typically 15–50°) and reconstructs thin slices (~1 mm). By reducing tissue overlap, it improves conspicuity of spiculated lesions and architectural distortion — findings that are especially vulnerable to being buried in summation on conventional 2D imaging.
+1. DBT's main clinical advantage over standard 2D mammography is improved conspicuity of architectural distortion and spiculated masses buried in overlapping parenchyma.  *(True / False)*
 
-**Acquisition nuances:**
+2. Synthetic 2D images generated from a DBT dataset always require an additional separate FFDM exposure to keep total dose within acceptable limits.  *(True / False)*
 
-- The patient and breast must remain motionless for longer than a standard 2D exposure. Coaching and compression technique are therefore even more critical.
-- Two acquisition modes exist — continuous tube motion and step-and-shoot — each producing characteristic blur and artefact patterns. Know your system.
-- Reconstruction parameters (kernel, slice thickness) affect the appearance of calcifications and subtle distortions; familiarise yourself with how your unit's system behaves before drawing diagnostic conclusions from artefact.
-
-**Dose:** A DBT dataset is typically comparable to, or slightly higher than, a single FFDM view. Synthetic 2D images generated from the tomosynthesis dataset can replace a separate 2D acquisition, keeping total examination dose comparable to standard two-view FFDM.
-
-**UK practice:** DBT is widely used in assessment clinics. Adoption in routine screening is evolving and varies between units; reading workflows and arbitration pathways differ accordingly. Follow your local NHSBSP guidance.
-
----
+3. Motion artefact is a specific pitfall in DBT because the breast must remain motionless for slightly longer than for standard FFDM.  *(True / False)*
 
 ## Contrast-enhanced mammography (CEM)
 
-CEM uses dual-energy acquisition after intravenous iodinated contrast to generate recombined images highlighting areas of angiogenesis — conceptually similar to MRI enhancement kinetics but at mammographic spatial resolution.
+CEM uses dual-energy acquisition after iodinated contrast to produce recombined images highlighting tissue enhancement — effectively mammographic resolution with MRI-like functional information. It is growing in use for problem-solving in dense breasts, extent of disease assessment, and when MRI is unavailable or contraindicated.
 
-Exposures are time-sensitive (bilateral CC and MLO within a defined post-injection window), requiring careful protocol adherence. Iodine contraindications must be screened for, and IV access is needed. Dose is higher than standard FFDM but within diagnostic reference levels.
+**Acquisition points:**
+- Time-sensitive bilateral exposures within a defined post-injection window
+- Requires iodine contrast screening and IV access; dose is higher than standard FFDM but within diagnostic reference levels
+- Practice varies considerably across units; align with local governance and indication criteria
 
-In UK practice, CEM is used primarily in assessment — particularly for problem-solving in dense breasts and assessing disease extent where MRI is contraindicated or not immediately available. It is not yet universally available; practice varies and local governance should guide use.
+---
+
+### Check your understanding
+
+1. CEM uses dual-energy acquisition after iodinated contrast to produce recombined images highlighting tissue enhancement.  *(True / False)*
+
+2. CEM is currently standardised with uniform national indication criteria across all NHSBSP units.  *(True / False)*
+
+## Image quality assessment: PGMI in practice
+
+PGMI grades should prompt a specific response:
+
+- **Perfect / Good:** Meets inclusion, positioning, exposure, and sharpness criteria — proceed with reporting
+- **Moderate:** Diagnostic but with correctable faults — document and target retraining; decide whether the fault materially affects interpretation for this patient
+- **Inadequate:** Non-diagnostic — repeat if safe and if it would materially change management
+
+The key question when reviewing quality is always: *Does this image miss clinically important tissue, or could a detectable cancer appear normal because of this fault?* If the answer is yes, a repeat is justified. If the image has a technical imperfection but is genuinely diagnostic, repeating simply for PGMI performance is not good practice — it increases dose and distress.
 
 ---
 
-## Patient preparation, communication, and comfort
+### Check your understanding
 
-**Preparation:** Remove deodorant, talc, lotions, and jewellery — these produce artefacts that mimic pathology. Explain compression before it is applied: patients who understand what to expect tolerate it better, co-operate more fully, and are less likely to move during exposure. Offer a chaperone. Maintain privacy and dignity for all patients, including trans and non-binary individuals and male patients.
+1. A bilateral MLO and CC examination is graded Moderate (M) for one view due to a minor positioning fault. The reporting radiographer considers whether to request a repeat. What is the most appropriate guiding principle?
+   - **A.** All Moderate-graded images must be repeated to maintain programme PGMI statistics
+   - **B.** Repeat only if the fault materially affects cancer detection for this patient; otherwise document and target retraining
+   - **C.** Moderate images are always diagnostic and should never be repeated under any circumstances
+   - **D.** Repeat immediately without clinical assessment of the fault's significance to minimise litigation risk
+   - **E.** Defer the decision to the MDT meeting before any action is taken on a Moderate image
 
-**Pain mitigation:** Warm paddles, staged compression with pause between steps, and coaching of breathing all help. For particularly tender breasts — peri-menstrual, post-operative, lactating — consider timing of attendance or adapt compression strategy. Recognise when to stop: recent sentinel node biopsy incisions and fragile irradiated skin require a modified approach, and this should be documented.
+2. Which of the following best describes the purpose of PGMI in the NHSBSP?
+   - **A.** A legal document recording patient consent for each mammographic exposure
+   - **B.** A governance tool to identify recurrent positioning errors and drive retraining, not merely a checklist to tick
+   - **C.** A mandatory recall threshold: any image not graded Perfect triggers automatic patient recall to assessment
+   - **D.** A billing classification system used to justify resource allocation within screening units
+   - **E.** A patient satisfaction scoring tool completed after each screening episode
 
-**Infection control:** Clean paddles and contact surfaces between patients. Manage skin breaks with barriers or defer the examination if necessary.
+## Artefacts: prevention and recognition
+
+Recognising artefacts prevents false positives and ensures you request targeted repeats rather than misinterpreting an image.
+
+**Common artefacts and their prevention:**
+
+| Artefact | Appearance | Prevention |
+|---|---|---|
+| Deodorant / talc | Granular high-attenuation foci mimicking calcifications | Wipes and preparation before exposure |
+| Skin folds | Linear densities, often posterior / inferior | Correct positioning; hand support during compression |
+| Hair / clothing / jewellery | Lines or overlap at edges | Clear the field and check before exposing |
+| Motion blur | Loss of sharpness, particularly of calcifications | Coaching, adequate compression, prompt exposure |
+| Nipple shadow | Rounded density on CC mimicking mass | Obtain nipple-in-profile or spot view to clarify |
+| Detector defects / lag | Fixed patterns or ghost images | Calibration; avoid rapid repeats on the same area |
+
+Deodorant artefact deserves emphasis: granular deposits can be indistinguishable from microcalcifications at first glance. A history of deodorant use, bilateral distribution, and surface distribution on tangential views help — but prevention is always preferable.
 
 ---
+
+### Check your understanding
+
+1. Bilateral granular high-attenuation foci are noted on screening mammograms, distributed superficially. The patient did not remove her deodorant before imaging. Which additional view would best confirm the cutaneous nature of these foci?
+   - **A.** Rolled CC view
+   - **B.** Cleavage view
+   - **C.** Tangential view
+   - **D.** Exaggerated CC lateral view
+   - **E.** Axillary tail view
+
+2. A radiographer notices linear densities in the posterior and inferior portions of the breast on the MLO. The patient was cooperative and no foreign material was present. What is the most likely cause?
+   - **A.** Detector lag from a rapid repeat exposure on the same area
+   - **B.** Motion blur from an uncooperative patient
+   - **C.** Skin folds from poor positioning during compression
+   - **D.** Nipple shadow projected over the inferior pole
+   - **E.** Hair artefact from long hair draped over the breast
+
+3. Calcifications on a screening mammogram appear poorly defined and blurred. The radiographer reports that the patient was anxious but cooperative. What is the most likely technical cause?
+   - **A.** Use of the small focal spot instead of the standard focal spot
+   - **B.** Motion blur due to inadequate compression or delayed exposure
+   - **C.** Deodorant artefact superimposed on true calcifications
+   - **D.** Detector defect producing loss of spatial resolution in a fixed region
+   - **E.** The anode heel effect causing underexposure of the anterior breast
+
+## Special patient groups: the principle of adapting without compromising
+
+The underlying principle is always the same: image as much clinically relevant breast tissue as safely possible, document your limitations, and correlate with other modalities when acquisition is necessarily suboptimal.
+
+**Breast implants**
+Standard views are performed with limited compression on the implant. Eklund (implant-displaced) views push the implant posteriorly to image the native breast tissue under compression. Eklund views are contraindicated when the implant is immobile, very painful, or at risk of rupture — document this clearly and ensure clinical and ultrasound assessment compensate.
+
+**Post-surgical and irradiated breasts**
+Expect skin thickening, clips, seromas, and scar-related distortion. Mark scars. Compression should be firm but incremental, with attention to pain over irradiated or recently operated skin. Magnification views of the lumpectomy bed are standard practice when calcifications require characterisation.
+
+**Male patients**
+Smaller breast volume with different tissue distribution. CC and MLO (or LM) as tolerated; mark palpable lumps. The principles are identical; the geometry adapts.
+
+**Pregnancy and lactation**
+Ultrasound is first-line. Mammography is safe when clinically indicated — expect high density and discomfort. Compression should be as firm as tolerated; AEC may select higher kVp/mAs for dense lactating tissue.
+
+**Limited mobility / kyphosis / obesity**
+Seated acquisitions, modified obliquity angles, and "from-below" CC views are all valid adaptations. Prioritise inclusion of the area of clinical concern over achieving textbook PGMI criteria. Document what was and was not achievable.
+
+**Post-mastectomy**
+Routine screening images the contralateral breast only. The mastectomy side is not routinely mammographed; symptomatic concerns are addressed with clinical examination and ultrasound.
+
+---
+
+### Check your understanding
+
+1. A patient with bilateral cosmetic breast implants attends for symptomatic mammography. The implants are mobile and non-painful. Which acquisition approach is most appropriate?
+   - **A.** Standard views with full compression applied directly to the implant; no modification is required
+   - **B.** Eklund (implant-displaced) views to push the implant posteriorly and image native breast tissue under compression, in addition to standard views
+   - **C.** Mammography is contraindicated in patients with implants; ultrasound only should be performed
+   - **D.** Standard views performed without any compression to avoid implant rupture
+   - **E.** MRI only, as mammography cannot image the native breast tissue adequately in implant patients
+
+2. A pregnant woman presents with a palpable breast lump. What is the recommended first-line imaging modality, and when is mammography indicated?
+   - **A.** Mammography first-line with lead shielding; ultrasound only if mammography is inconclusive
+   - **B.** MRI first-line to avoid ionising radiation; mammography is absolutely contraindicated in pregnancy
+   - **C.** Ultrasound first-line; mammography is safe when clinically indicated
+   - **D.** Mammography is the only modality that can adequately assess a palpable lump in a pregnant patient
+   - **E.** No imaging is indicated during pregnancy; the patient should be reviewed postnatally
+
+3. A patient with severe kyphosis cannot achieve the standard MLO position. What is the most appropriate course of action?
+   - **A.** Decline to image the patient and refer for MRI as the only alternative
+   - **B.** Perform only a CC view and document that the MLO was not achievable
+   - **C.** Use adaptations such as modified obliquity angles or seated acquisition, prioritising inclusion of the area of clinical concern, and document what was and was not achievable
+   - **D.** Apply the standard MLO angle regardless of patient habitus to maintain PGMI consistency
+   - **E.** Request that the patient attend a specialist centre, as routine units cannot adapt for kyphosis
 
 ## Markers, annotation, and labelling
 
-### Skin markers
+Consistent labelling is a patient safety issue in double-reading and image-guided procedures.
 
-| Marker | Purpose |
-|---|---|
-| Radiolucent ring with central BB | Palpable clinical concern |
-| Linear marker | Surgical scar |
-| Mole marker / small BB | Cutaneous mole, to avoid misinterpretation as calcification |
-| BB on nipple | Nipple position when not in profile and its location is diagnostically relevant |
+**Skin markers:**
+- Palpable area: radiolucent ring with central BB
+- Scars: linear marker along the scar length
+- Moles: specific mole marker or BB, to prevent misinterpretation as calcifications
+- Nipple: BB if not in profile and its position is clinically relevant
 
-### Labelling
+**Labels must include:** patient identifiers, laterality (L/R), projection, date and time, unit identifier, exposure factors, compression force and breast thickness, paddle and operator identifiers — per NHSBSP standards.
 
-Every image must carry: patient identifiers, laterality (L/R), projection, date and time, unit identifier, exposure factors, compression force and compressed breast thickness, paddle identifier, and radiographer identifier — all as specified by NHSBSP standards.
-
-Consistent, unambiguous annotation is not bureaucratic tidiness. It underpins safe double reading, enables confident lesion localisation, and is essential for guiding image-directed biopsy and post-procedural clip correlation.
+Internally, biopsy clips should be documented and their position correlated with the target lesion at each subsequent imaging episode.
 
 ---
 
-## Exposure selection and dose optimisation
+### Check your understanding
 
-- **AEC field selection:** Position the AEC sampling field over the densest or most diagnostically critical region. For breasts with implants, sample native tissue anterior to the implant.
-- **Target/filter and kV:** Allow the system to select automatically in most circumstances; understand when to override — very thin fatty breasts, very dense glands, high-attenuation post-surgical regions.
-- **Average glandular dose (AGD):** Typically 1–2 mGy per view on modern systems, varying with thickness and density. Total bilateral two-view examinations commonly sum to a few mGy. Minimise dose through adequate compression, appropriate spectral selection, and avoiding unnecessary repeats.
-- **IR(ME)R compliance:** All exposures must be justified and optimised, and doses recorded. In the screening setting, routine pregnancy checks are not required. In symptomatic younger patients, discuss risks and alternatives with the referrer and the patient.
+1. A mole marker or BB should be placed over a mole to prevent it being misinterpreted as a calcification.  *(True / False)*
 
----
+2. Mandatory image labels in the NHSBSP include patient identifiers, laterality, projection, date and time, unit identifier, exposure factors, compression force and breast thickness, and paddle and operator identifiers.  *(True / False)*
 
-## Image quality assessment and QA
+3. A radiolucent ring marker with a central BB is used to mark scars on mammographic views.  *(True / False)*
 
-### PGMI scoring
+## Acquisition and biopsy: the direct connection
 
-PGMI classifies each image as Perfect, Good, Moderate, or Inadequate based on inclusion, positioning, exposure, and sharpness:
+Your ability to read an image well and direct a biopsy safely depends on understanding what has been imaged and how. Specifically:
 
-- **Perfect / Good:** meet inclusion and technical criteria; minor correctable faults acceptable for Good.
-- **Moderate:** diagnostic but with correctable positioning faults; the image is retained but the fault is recorded for feedback.
-- **Inadequate:** non-diagnostic; repeat if clinically safe to do so.
-
-Use PGMI analytically. If a radiographer has a pattern of medial cut-off on CC, that is a training opportunity — not a punitive event. Repeat/reject analysis should identify systematic patterns and drive improvement.
-
-### Physics QA
-
-Regular constancy testing of AEC performance, detector calibration, resolution and contrast, paddle integrity, and beam alignment is mandatory. Follow the NHSBSP equipment QA schedule. As a trainee reporter, you should understand what these tests assess even if you do not perform them — they validate the fidelity of the imaging chain you are interpreting.
+- **Stereotactic biopsy** requires precise compression, immobilisation, and knowledge of parallax shifts between stereo pairs. Opening the IMF and stabilising mobile posterior tissue are prerequisites for accurate needle placement
+- **Calcification work-up** depends on high-quality magnification views: small focal spot, no grid (air gap provides scatter rejection), full inclusion of the cluster, and motion-free exposure. A suboptimal magnification view that clips the cluster or has motion blur invalidates the assessment
+- **Localisation procedures** (wire, radioguided, or marker-directed) require understanding of how the target was imaged and at what depth, so that the chosen approach is geometrically sound
 
 ---
 
-## Artefacts: recognition and prevention
+### Check your understanding
 
-Prevention is always preferable to explanation after the fact.
+1. A magnification view requested for calcification characterisation clips the edge of the cluster and shows mild motion blur. What is the most appropriate action before proceeding to biopsy planning?
+   - **A.** Proceed to biopsy using the available images, as calcification morphology is still partially visible
+   - **B.** Repeat the magnification view ensuring full cluster inclusion, motion-free exposure, and correct technical parameters, as the suboptimal view invalidates the assessment
+   - **C.** Substitute an MLO view for lesion localisation, as this provides comparable calcification detail
+   - **D.** Request MRI to characterise the calcifications instead, as magnification is no longer reliable
+   - **E.** Accept the view and document the limitation in the report; no repeat is required
 
-**External artefacts:**
-- Deodorant or talc → granular high-attenuation foci mimicking calcifications. Prevent with preparation; provide wipes.
-- Hair, clothing, necklace, ECG leads, oxygen tubing → linear or curvilinear densities. Clear the field and check the image edges before accepting the exposure.
-- Skin folds → linear densities in posterior or inferior tissue. Correct by repositioning and supporting tissue during compression application.
+2. Which acquisition factors are specifically identified as prerequisites for accurate stereotactic biopsy needle placement?
+   - **A.** Use of DBT reconstruction rather than standard 2D stereo pairs, and a small focal spot
+   - **B.** Precise compression, immobilisation, opening of the IMF, and stabilisation of mobile posterior tissue
+   - **C.** Maximum compression force regardless of patient tolerance, and a grid-free exposure
+   - **D.** Standard CC positioning only, as the stereo angle is always taken from the craniocaudal plane
+   - **E.** Eklund views to displace implants and provide a clear field for needle insertion
 
-**Acquisition artefacts:**
-- Motion blur → coaching, stabilisation, and minimising DBT acquisition time.
-- Grid lines or aliasing → check grid movement mechanism and detector calibration.
-- Detector lag or fixed-pattern artefacts → perform calibration; avoid rapid repeat exposures over the same area.
+## Where practice varies — exercise judgement
 
-**Interpretation pitfalls arising from acquisition errors:**
-- Nipple shadow on CC mimicking a mass → obtain a nipple-in-profile supplementary view before escalating.
-- Pectoralis not reaching the PNL → may hide a posterior lesion; consider repeat MLO if clinically safe.
-- IMF not included → creates apparent inferior asymmetry; reposition rather than report a pseudo-finding.
+The NHSBSP provides standards and guidance, but several areas involve genuine variation in practice:
+
+- **DBT in screening:** Not yet universal; follow your unit's protocol and double-reading pathway
+- **Compression strategy:** Units differ on target force ranges and pain mitigation approaches; the principle (optimal diagnostic quality with patient-centred care) is constant
+- **LM versus ML:** Choice depends on ergonomics, habitus, and lesion location; neither is universally correct
+- **CEM indications:** Growing evidence base but not standardised nationally; use within local governance structures
+- **PNL equivalence:** The ±1 cm rule is a guide, not an absolute; interpret in context of the individual patient
+
+Acknowledge these variations when they affect your reporting and recommend follow-up imaging that is practically available at your unit.
 
 ---
 
-## Special coh
+### Check your understanding
+
+1. DBT is currently used universally across all NHSBSP screening units as the standard acquisition modality.  *(True / False)*
+
+2. The choice between an LM and an ML view is determined by a fixed national protocol specifying which is correct for all patients.  *(True / False)*
+
+3. The ±1 cm PNL equivalence rule between MLO and CC is a practical guide to be interpreted in the context of the individual patient, not an absolute criterion.  *(True / False)*
+
+## Summary principles
+
+- **Image the whole breast:** prioritise posterior, superior, and medial inclusion — these are the commonest sites of missed cancers due to poor positioning
+- **Compression is diagnostic:** inadequate compression hides distortion and calcifications; it is not simply a comfort issue
+- **Tailor projections to the question:** think in three dimensions and choose additional views deliberately
+- **Anticipate and eliminate artefacts before exposing:** preparation is faster than repeating
+- **Annotate consistently and completely:** correct labelling underpins safe double-reading and intervention
+- **Apply PGMI analytically:** ask whether a fault materially affects cancer detection for this patient, and act accordingly
+- **Connect acquisition to interpretation:** knowing exactly what tissue is included, and how it was moved, is what allows you to distinguish summation from a real lesion, localise a distortion for targeted ultrasound, and plan a biopsy safely
+
+Mastering acquisition principles is not an optional extra for radiologists — it is foundational to accurate interpretation, safe intervention, and meaningful quality assurance.

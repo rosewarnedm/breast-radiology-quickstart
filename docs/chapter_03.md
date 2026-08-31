@@ -11,214 +11,480 @@ nav_order: 3
 
 ---
 
-## Why image quality matters
+## Why Image Quality Matters
 
-Breast imaging is inherently a task of detecting subtle differences — in x-ray attenuation, acoustic impedance, or MRI enhancement — against a complex fibroglandular background. Small degradations in technique can therefore cause real harm: a smear of motion blur can obscure microcalcifications; a missed sliver of posterior tissue can hide an early cancer; a skin fold can masquerade as architectural distortion. These errors produce both false negatives (missed cancers) and false positives (unnecessary recalls and biopsies).
+Breast imaging detects cancer by resolving subtle differences — a slight increase in attenuation, a faint spicule, a cluster of microcalcifications barely larger than noise. Any degradation in image quality narrows that margin. A missed sliver of posterior tissue, a skin fold misread as architectural distortion, or motion blur smearing a calcification cluster can convert a true positive into a false negative, or generate an unnecessary recall that erodes both programme efficiency and patient trust.
 
-In the NHS Breast Screening Programme (NHSBSP), where asymptomatic women aged 50–70 are invited every three years for two-view mammography with double reading and arbitration, there is an additional demand: **consistency across rounds**. A lesion's significance often hinges on interval change, which requires that positioning and exposure be reproducible between appointments. In symptomatic clinics, image quality directly underpins triple assessment and the reliability of P/M/U/B scoring.
+In the **NHS Breast Screening Programme (NHSBSP)**, asymptomatic women aged 50–70 are invited every three years for two-view mammography with double reading and arbitration. Here, consistency across screening rounds matters as much as single-episode adequacy: a lesion that was always present becomes conspicuous only if it is reliably included and rendered comparably each time. In symptomatic clinics, quality underpins the rigour of **triple assessment** and meaningful **P, M, U, and B scoring**.
 
-The goal of this chapter is transferable judgement: to understand *why* technical problems arise, to recognise when an appearance is artefactual rather than pathological, and to know how to correct or work around technical shortcomings.
+As a core trainee, your role is not merely to read images but to recognise when an appearance is technical rather than pathological — and to know when the acquisition itself is too limited to support a confident diagnosis.
 
 ---
 
-## Foundations of image quality
+### Check your understanding
 
-### Contrast, resolution, and noise
+1. In the NHSBSP, asymptomatic women aged 50–70 are invited for two-view mammography every three years with double reading and arbitration.  *(True / False)*
 
-Three properties determine whether a lesion is visible:
+2. In breast screening, single-episode image adequacy is more important than consistency of positioning across successive screening rounds.  *(True / False)*
 
-**Subject contrast** is the true physical difference between tissues — in x-ray attenuation, acoustic impedance, or MRI relaxation/diffusion behaviour. It is determined by breast composition, lesion histology, and imaging energy. In mammography, a low kilovoltage peak (kVp) with appropriate filtration maximises the photoelectric effect, which is what gives microcalcifications and soft-tissue interfaces their diagnostic contrast.
+3. A core trainee's role includes recognising when an imaging appearance is technical rather than pathological.  *(True / False)*
 
-**Image contrast** is how effectively the imaging system conveys subject contrast to the displayed image. It is degraded by scatter (which adds a uniform background fog), by poor detector response, by inappropriate image processing, and in MRI by inadequate fat suppression or suboptimal sequence parameters.
+## Foundations of Image Quality
 
-**Spatial resolution** is the ability to distinguish adjacent fine structures — spicules, microcalcification morphology, ductal margins. It is governed by focal spot size and detector modulation transfer function in mammography, by transducer frequency and beam width in ultrasound, and by voxel dimensions and reconstruction algorithms in MRI and digital breast tomosynthesis (DBT).
+### Contrast, Resolution, and Noise
 
-**Noise** is the enemy of all three: random variation from quantum statistics, electronic sources, or ultrasound speckle that masks low-contrast structures. Critically, noise hides low-contrast lesions first — a subtle infiltrative carcinoma in a dense breast disappears into noise long before a dense calcification does.
+Think of these as three interdependent properties that determine whether a lesion is visible:
 
-A useful way to think about this: the detector quality (expressed as detective quantum efficiency, DQE) determines how efficiently dose is converted into useful signal. A high-DQE system delivers better signal-to-noise at a given dose; a low-DQE system wastes dose as noise. This is why modern flat-panel digital detectors have largely replaced screen-film and computed radiography systems in UK practice.
+**Subject contrast** is the underlying difference in physical properties between lesion and background — X-ray attenuation, acoustic impedance, or MRI signal. It is determined by the biology of the tissue and cannot be manipulated directly; you work with it by choosing acquisition parameters that exploit it.
+
+**Image contrast** is how faithfully the system transfers that subject contrast to the display. It is degraded by scatter, inappropriate processing, and poor sequence design.
+
+**Spatial resolution** determines whether fine structures — spicules, microcalcification morphology, ductal margins — are resolved or blurred together. In mammography this is governed by focal spot size and detector characteristics; in ultrasound by transducer frequency and beam width; in MRI by voxel dimensions and reconstruction.
+
+**Noise** is the enemy of low-contrast lesions. Quantum noise (mammography), speckle (ultrasound), and thermal/electronic noise (MRI) all create random variation that can mask subtle findings. Doubling dose roughly halves quantum noise, but dose must remain as low as reasonably practicable. The detector quantum efficiency (DQE) describes how efficiently a detector converts incident radiation into useful signal — a high-DQE detector delivers better signal-to-noise at a given dose.
+
+In practice: when a lesion is borderline visible, ask yourself which of these three factors is limiting you, and whether a technical adjustment (different projection, higher-frequency transducer, magnification view) would genuinely help or simply add dose without gain.
 
 ### Unsharpness
 
-Blur degrades resolution and can smear or double structures:
+Two forms matter clinically:
 
-- **Geometric unsharpness** arises from the finite size of the x-ray focal spot and the distance between the object and the detector. Magnification views therefore use a microfocus tube and an air gap to control penumbra.
-- **Motion blur** smears fine detail — microcalcifications appear elongated, spicules blurred. It is caused by patient movement, inadequate compression in mammography, breathing or cardiac motion in MRI, and probe movement in ultrasound.
-- **Reconstruction blur** in DBT and MRI: limited-angle tomography creates inherent out-of-plane blur whose extent depends on slice thickness and reconstruction algorithm. Understanding this helps explain why fine microcalcifications can appear less sharp on DBT than on conventional 2D.
+- **Geometric unsharpness** arises from the finite size of the focal spot and the distance between object and detector. Magnification views control this with a microfocus tube and an air gap.
+- **Motion blur** smears edges and elongates calcifications, often producing a characteristic double-edge appearance. It is the commonest cause of failed magnification views and can compromise DBT sweeps.
+
+Reconstruction techniques (tomosynthesis, MRI) add their own blur through slice thickness and algorithm choices — too thick hides fine detail, too thin amplifies noise.
 
 ---
 
-## Mammography: positioning, compression, and exposure
+### Check your understanding
 
-### What the breast anatomy demands
+1. Detector quantum efficiency (DQE) describes how efficiently a detector converts incident radiation into useful signal.  *(True / False)*
 
-The breast is a conical structure draped on a curved chest wall. To capture it diagnostically, every standard view must demonstrate:
+2. Geometric unsharpness in mammography is reduced on magnification views by using a standard focal spot and a grid.  *(True / False)*
 
-- **Posterior tissue** to the pectoralis major muscle and retromammary fat plane
-- **The inframammary fold (IMF)**, which marks the inferior limit of breast tissue
-- **The axillary tail** superolaterally
-- **The nipple–areolar complex**, ideally in profile on at least one view
+3. Motion blur can produce a characteristic double-edge appearance and is the commonest cause of failed magnification views.  *(True / False)*
 
-Failure to include posterior tissue is one of the commonest causes of interval cancers — lesions that were present but outside the imaged field at the preceding screen.
+## Mammography: Positioning, Compression, and Exposure
 
-### Standard views and adequacy in NHSBSP practice
+### What You Are Trying to Include
 
-Two views per breast are used in UK screening: the **craniocaudal (CC)** and the **mediolateral oblique (MLO)**. Adequacy is judged against NHSBSP guidance, though local thresholds vary slightly. The principles are:
+The breast is a conical organ on a curved chest wall. Standard views must capture:
+
+- **Posteriorly**: the pectoralis major and retromammary fat plane
+- **Inferiorly**: the inframammary fold (IMF)
+- **Superolaterally**: the axillary tail of Spence
+- **Centrally**: the nipple–areolar complex, ideally in profile on at least one view
+
+Missing posterior tissue is the single most consequential positioning failure. The posterior one-third of the breast, particularly the upper outer quadrant and the retroareolar deep tissue, is a common location for interval cancers detected between screening rounds.
+
+### Standard Views and Adequacy Criteria
+
+The NHSBSP mandates **craniocaudal (CC) and mediolateral oblique (MLO)** views per breast. Adequacy is assessed against national guidance — the following principles are consistent across UK centres, though precise thresholds may vary locally.
 
 **CC view:**
-- The posterior nipple line (PNL — a perpendicular from the nipple to the pectoral margin) should be within a small margin of the MLO PNL, confirming comparable posterior inclusion
-- Medial tissue should be included to the sternal edge
-- Retromammary fat should be visible unless the breast is extremely dense
-- Nipple ideally in profile; if not achievable on CC, it must be demonstrated on MLO
-- The skin line should be continuous without major folds
+- Posterior nipple line (PNL) should approximate the MLO PNL within a clinically acceptable margin
+- Retromammary fat visible posteriorly (unless extremely dense tissue limits this)
+- Medial tissue included — the medial border of the image should be at or slightly beyond the medial breast
+- Nipple in profile where feasible
+- Continuous skin line without major folds
 
 **MLO view:**
-- Pectoralis major should be visible as a convex anterior margin extending to or below nipple level
-- The axillary tail should be included superiorly
-- The IMF should be open and well demonstrated
-- The PNL measured perpendicular to the pectoral muscle should approximate the CC PNL
-- No breast sag; tissue should be elevated, not drooped; no major folds
+- Pectoral muscle visible to or below nipple level, appearing convex anteriorly and tapering inferiorly
+- Axillary tail included
+- IMF open and visible — a closed IMF indicates inferior tissue is lost
+- No breast sag; tissue elevated and supported
+- PNL measured perpendicular to the pectoral muscle should approximate the CC PNL
 
-Adequacy is not binary. The practical question is: *does this image contain sufficient diagnostic information, and can any shortcoming be corrected before the patient leaves?* Technical recall in screening — bringing a woman back for repeat imaging — should be reserved for cases that genuinely cannot be remedied on the day.
+Adequacy is not binary: ask whether the diagnostic information is sufficient for the clinical purpose, and whether shortcomings are correctable before the patient leaves. Technical recall in screening should be a last resort, not a default.
 
-### Positioning technique
+### Positioning Principles
 
-Good positioning requires understanding the anatomy rather than following a rigid protocol. Key principles:
+**Receptor height**: Set the inferior edge of the detector at the IMF. Adjusting for kyphosis or restricted mobility may require significant modification — document this.
 
-**Patient set-up:**
-- The inferior edge of the detector (image receptor) should align with the patient's IMF; adjust for height, kyphosis, and mobility.
-- The MLO angle is adapted to body habitus — steeper (closer to lateral) for narrow-shouldered or slim patients; shallower for kyphosis or broad thorax — to align the pectoral muscle roughly parallel to the detector.
+**MLO angle**: The angle must align the pectoral muscle parallel to the detector. A useful starting point is approximately 45–60° from horizontal, but this must be individualised — a broad-shouldered or kyphotic patient needs a shallower angle; a narrow-shouldered or tall patient may need a steeper one. An incorrect angle produces a foreshortened pectoral shadow or breast sag.
 
-**Tissue mobilisation:**
-- The "up-and-out" manoeuvre captures the axillary tail and lifts the inferior breast. Uniform tension across the breast before applying compression is essential: it separates tissue planes, reduces superimposition, reduces scatter by thinning the breast, and orientates Cooper's ligaments to sharpen architectural detail.
-- A "camel-nose" deformity — an anterior bulge — signals uneven tension; correct before compressing.
+**Tissue mobilisation**: The defining manoeuvre is lifting and drawing the breast away from the chest wall — the "up-and-out" technique. This opens the axillary tail, separates tissue planes, and places Cooper's ligaments more perpendicular to the X-ray beam, improving depiction of architectural features. Uniform tension across the breast before compression prevents the "camel-nose" deformity (anterior bunching from uneven pull).
 
-**Nipple in profile:**
-- A directional roll or slight rotation usually achieves this. Inverted nipples may not permit profile positioning; document this and ensure profile on the orthogonal view.
+**The nipple**: A directional roll or slight rotation can bring a laterally or inferiorly displaced nipple into profile. If this is not achievable — for example with fixed inversion — document clearly and ensure profile is obtained on the orthogonal view.
 
-**IMF:**
-- Ask the patient to push their hips towards the machine to open the fold. A clearly visible IMF confirms inclusion of inferior tissue.
+**Challenging situations** (small breasts, large breasts, limited mobility, implants, post-surgical changes) require adaptation, not abandonment. For large breasts, supplementary views such as exaggerated CC lateral (XCCL) or medial (XCCM) may be needed. For wheelchair users, adapted receptor positioning and angle are essential. The principle in each case is the same: include as much tissue as possible while achieving adequate compression and stable exposure.
 
-**Challenging patients:**
-- *Small breasts*: use smaller paddles; avoid excessive object-to-image distance; maintain posterior contact with the detector.
-- *Large breasts*: consider supplementary exaggerated CC (XCCL/XCCM) views; consider two MLO exposures with arm repositioning.
-- *Limited mobility or wheelchair users*: adapt receptor height and angle, accept positional compromises whilst prioritising posterior tissue, and document deviations clearly.
-
-Consistent positioning between screening rounds is as important as single-episode adequacy. Reproducible technique allows genuine interval change to be distinguished from positional variation.
+**Consistency across rounds**: A well-positioned screening mammogram from three years ago is your most useful comparison. Inconsistent positioning means you are comparing apples with oranges and undermines the purpose of interval change assessment.
 
 ### Compression
 
-Compression improves image quality and reduces dose simultaneously — it is not merely a patient discomfort issue. The mechanisms matter:
+Adequate compression is transformative. It:
 
-- Thinning the breast reduces scatter and lowers the mAs needed (hence dose)
-- Reduced thickness stabilises the automatic exposure control (AEC)
-- Spreading overlapping fibroglandular tissue unmasks lesions
-- Breast immobilisation reduces motion blur
+- **Thins the breast**, reducing scatter and lowering the required mAs
+- **Limits motion** during exposure
+- **Separates overlapping fibroglandular tissue**, unmasking hidden lesions
+- **Stabilises tissue thickness**, improving AEC performance and dose efficiency
 
-The target is firm, uniform compression — not "maximal" at all costs. Build tissue tension first, warm the paddles, explain the purpose, and coach breathing. Spot compression paddles are used diagnostically to locally separate overlapping tissue and assess whether a suspected lesion is real.
+The goal is firm, uniform compression — not maximal. Build tension in the tissue before applying the paddle, explain the process, and coach the patient to breathe out and relax the shoulder. A well-positioned breast with good tension before compression needs less applied force to achieve an adequate result.
 
-**Implants** require modified technique. Eklund (implant-displaced) views push the implant posteriorly against the chest wall whilst compressing the native anterior tissue separately. Not all implants are displaceable; document when they cannot be adequately displaced.
+**Spot compression paddles** exploit the same principles focally, pushing overlapping tissue aside to clarify a suspected mass or area of distortion.
 
-### Exposure and system factors
+**Implants**: Use **Eklund (implant-displaced) views** wherever the implant is displaceable — pushing the implant posteriorly allows the anterior glandular tissue to be compressed and imaged more effectively. Not all implants are displaceable; document when this is the case and report the limitation.
 
-**X-ray spectrum:**
-The choice of target/filter combination and kVp determines the energy spectrum reaching the breast. Low kVp maximises photoelectric contrast in soft tissue and calcifications; thicker or denser breasts require higher kVp to maintain penetration, trading some contrast for reduced noise at acceptable dose. Modern systems with automatic exposure control and optimisation algorithms handle much of this automatically, but understanding the trade-off prevents misattributing a noisy image to a system fault.
+### Exposure and System Factors
 
-**AEC (automatic exposure control):**
-The AEC chamber must be positioned under representative dense tissue — not over an implant, not over a cyst or lucent fatty region, not over air. Misplaced AEC is a frequent cause of under- or overexposure. For very fatty or very small breasts, manual techniques may be more consistent.
+**Tube kilovoltage and filtration** are optimised to exploit the photoelectric effect in breast tissue, maximising contrast between glandular and fatty components, and between calcifications and soft tissue. Dense or thick breasts require higher kVp and different filtration to maintain penetration — this trades some contrast for manageable noise. Modern systems handle much of this automatically, but understanding the trade-off helps you recognise when exposure choices are suboptimal.
 
-**Grid:**
-Anti-scatter grids are used for standard 2D views. For magnification, the grid is removed and an air gap is used instead to limit scatter, which also reduces dose.
+**Automatic exposure control (AEC)**: The ionisation chamber must be positioned beneath representative dense tissue — not over a cyst, implant, or air. Misplaced AEC chambers produce consistently under- or overexposed images that may not be obvious on casual inspection but degrade diagnostic information.
 
-**Dose:**
-Mean glandular dose is monitored under the NHSBSP QA framework. It must be kept as low as reasonably practicable (ALARP) while maintaining diagnostic image quality. Unexpectedly high doses or elevated retake rates should trigger equipment QA review and radiographer feedback.
+**Grids and scatter**: Anti-scatter grids are used for standard 2D views. For magnification views, the grid is removed and an air gap substitutes — the increased object-to-detector distance rejects scattered radiation geometrically.
 
-### Tomosynthesis (DBT): strengths and new pitfalls
+**Dose**: Mean glandular dose (MGD) is monitored under NHSBSP QA and benchmarked against EUREF reference levels. Dose should be kept as low as reasonably practicable consistent with diagnostic adequacy — high repeat rates or unusual doses trigger equipment and technique review.
 
-DBT acquires multiple low-dose projections over a limited arc and reconstructs thin slices, effectively removing the confounding effect of overlapping tissue. Understanding its specific characteristics prevents both over-reliance and under-use.
+### Digital Breast Tomosynthesis (DBT)
 
-**Advantages:**
-- Improves detection and characterisation of architectural distortion and mass margins by separating tissue planes
-- Reduces recalls for summation shadows in screening, particularly in denser breasts
+DBT acquires multiple low-dose projections over a limited arc and reconstructs them into thin pseudo-3D slices. Its principal benefit is eliminating **tissue overlap**, the dominant cause of both false positives (summation shadows recalled unnecessarily) and false negatives (cancers hidden behind superimposed fibroglandular tissue). This makes it particularly useful in dense breasts and for characterising architectural distortion.
 
-**Limitations and pitfalls:**
-- **Microcalcifications**: fine calcifications may appear less sharp on DBT slices and on synthetic 2D images than on conventional 2D. Always obtain true 2D magnification views for calcification work-up — do not rely on DBT or synthetic 2D alone for morphology assessment.
-- **Motion during the arc**: produces split or doubled structures across adjacent slices, simulating real lesions.
-- **Metal objects**: biopsy clips, calcifications, and dense objects generate streak artefacts (sometimes described as "zebra striping") across slices, potentially mimicking or obscuring distortion.
-- **Algorithm and slice thickness**: too thick a reconstruction hides fine detail; too thin amplifies noise. Be familiar with the settings used at your institution.
-- **Positioning still matters**: inadequate posterior inclusion on DBT cannot be recovered in reconstruction. The same positioning standards apply.
+However, DBT introduces new pitfalls:
 
-**Synthetic 2D images** are reconstructed from the DBT data to reduce dose compared with acquiring both a full 2D and a DBT. They are a reasonable screening tool but differ from true 2D in calcification sharpness and edge definition. Know their limitations.
+- **Microcalcification conspicuity**: Fine calcifications may appear less sharp on reconstructed DBT slices and on synthetic 2D images than on conventional 2D. Do not rely on DBT or synthetic 2D alone for calcification morphology assessment — **true 2D magnification views remain the standard**.
+- **Motion during the sweep**: Patient movement during the arc creates "doubled" or "split" structures across slices. Coach the patient to hold still; consider breath-hold if feasible.
+- **Metal and dense objects**: Biopsy clips, calcified fibroadenomas, and other dense structures generate out-of-plane streak artefacts that can obscure adjacent tissue or mimic distortion.
+- **Positioning is not rescued by reconstruction**: Inadequate posterior coverage on the acquisition cannot be recovered computationally.
+
+**Synthetic 2D** images are useful for dose reduction but differ from true 2D in calcification rendering and edge characteristics. Be alert to these differences, particularly when comparing with prior conventional 2D studies.
 
 ---
 
-## Common mammographic artefacts and interpretive traps
+### Check your understanding
 
-Learning to recognise artefacts is as important as recognising pathology. The key question for every suspicious finding: *does this persist across projections and correlate across modalities, or does it disappear with a technical adjustment?*
+1. During a screening MLO view, you notice the inframammary fold is closed. What is the most important consequence of this finding?
+   - **A.** The axillary tail of Spence is not included
+   - **B.** The pectoral muscle cannot be assessed
+   - **C.** Inferior breast tissue is lost from the image
+   - **D.** The nipple will not be in profile
+   - **E.** The AEC chamber will be misplaced
 
-### Skin-related artefacts
+2. A patient with a displaceable silicone implant attends for screening mammography. Which technique should be used to image the anterior glandular tissue most effectively?
+   - **A.** Standard CC and MLO views with increased compression force
+   - **B.** Eklund (implant-displaced) views pushing the implant posteriorly
+   - **C.** Spot compression views over the implant surface
+   - **D.** Magnification views with the implant in situ
+   - **E.** Single-view MLO only to reduce radiation dose
 
-- **Skin folds** create linear or curvilinear opacities that can mimic spiculated masses or architectural distortion. The hallmark is a continuous skin-line visible at the edge of the fold. Correct with a roll manoeuvre and repeat the view.
-- **Skin lesions** (seborrhoeic keratoses, naevi, moles) produce superficial dense opacities, sometimes with a lucent centre. **Always mark skin lesions with a radiopaque marker (BB)** at the time of acquisition — this converts a potential diagnostic problem into an unambiguous annotation.
-- **Deodorant and talc** create superficial clusters of specks that can closely mimic microcalcifications, particularly skin-type calcifications. Pre-appointment instructions should advise avoidance; if doubt remains, repeat after skin cleaning or obtain tangential views.
+3. You are reviewing a DBT study and notice that a cluster of microcalcifications appears less sharp than expected. What is the most appropriate next step?
+   - **A.** Increase the number of DBT projection angles and repeat the sweep
+   - **B.** Obtain synthetic 2D images from the DBT dataset and assess on those
+   - **C.** Accept the DBT appearances as adequate for calcification assessment
+   - **D.** Proceed directly to stereotactic biopsy without further imaging
+   - **E.** Obtain true 2D magnification views for definitive calcification morphology assessment
 
-### External objects
+## Common Mammographic Artefacts and Interpretive Traps
 
-ECG leads, clothing fibres, hair braids, and jewellery all produce characteristic artefacts. A systematic room-preparation checklist before exposure eliminates most of these.
+### Skin and Surface Artefacts
 
-### Internal artefacts
+**Skin folds** are among the most common causes of unnecessary recall. They appear as curvilinear lines or apparent spiculation — but follow the skin surface contour and can be traced back to the skin edge. The corrective action is simple: reposition and repeat with the fold smoothed.
 
-- **Motion blur** elongates microcalcifications and blurs spicules. Look for double edges and inconsistent sharpness. The remedy is improved compression and instruction; in screening, this may require a repeat exposure.
-- **Grid and detector artefacts**: periodic banding from grid malfunction, dead pixels, or detector non-uniformity cause fixed-pattern artefacts. These should be identified through routine QA before they affect clinical images, but recognise them and escalate promptly.
+**Skin lesions** (seborrhoeic keratoses, moles, cutaneous haemangiomas) project as dense superficial opacities, sometimes with a lucent centre. Always mark known skin lesions with **radiopaque BBs** before acquisition. This converts a potential diagnostic dilemma into a trivial observation.
 
-### Summation shadows
+**Deodorant and talc** create irregular superficial specks mimicking microcalcifications. Pre-scan instructions should routinely ask patients to avoid powders on the day. If doubt remains despite history, tangential views with the suspicious area at the skin surface will confirm or refute a dermal location.
 
-Superimposed normal fibroglandular tissue is one of the most common causes of recalled screening mammograms. Summation creates apparent masses, densities, and pseudo-distortion. The diagnostic approach:
+### External Objects
 
-1. Change the projection — rolled CC (medial or lateral roll), exaggerated CC (XCCL/XCCM), or spot compression
-2. Apply spot compression to the area
-3. If available, review DBT slices
+ECG leads, jewellery, hair braids, clothing texture, and oxygen tubing all cast artefacts. A brief systematic check before exposure prevents these entirely. They should never be the cause of a recall or an ambiguous report.
 
-**True lesions persist across projections; summation dissolves.** Genuine architectural distortion tends to persist and, importantly, will show correlating tethering on targeted ultrasound.
+### Motion Blur
 
-### Retroareolar pitfalls
+Look for **double edges**, inconsistent sharpness across the image, and elongated or smeared calcification morphology. Motion blur is usually evident on inspection — the parenchyma appears unsharp even where contrast is adequate. Repeat the exposure with coaching, ensuring compression is adequate and the patient is comfortable.
 
-Prominent lactiferous ducts and ductal ectasia can mimic a retroareolar mass. Confirm the skin–nipple connection and use targeted ultrasound in radial and anti-radial planes to characterise further.
+### Summation Shadows
 
-### Posterior and inferior tissue
+Normal overlapping fibroglandular tissue can create apparent masses, focal densities, or pseudo-distortion that are entirely artefactual. These are one of the commonest sources of unnecessary recall in dense breasts.
 
-Missed tissue near the pectoral margin or inferior to the IMF is a disproportionately common location for interval cancers. Do not accept inadequate posterior coverage — supplement with additional views if needed.
+The key diagnostic test is **changing the projection**: a rolled CC view, an XCCL, spot compression, or DBT will resolve a summation shadow — it disperses with any change in viewing angle. A true lesion persists. If an apparent mass or distortion dissolves on a supplementary view, no further action is needed. If it persists, treat it as real.
+
+### Retroareolar Pitfalls
+
+Prominent lactiferous sinuses or duct ectasia can project as apparent retroareolar masses. Use targeted ultrasound in radial and anti-radial planes, looking for the characteristic tubular continuity with the nipple, to distinguish duct ectasia from a discrete intraductal or periductal lesion.
+
+### Posterior and Inferior Tissue
+
+Missed posterior tissue near the pectoral margin and missed inferior tissue at the IMF are consistently over-represented in reviews of interval cancers. Where adequacy is borderline, use supplementary views rather than accepting the limitation. When reporting, if posterior tissue is absent and the clinical context warrants it, comment that the full extent of the breast is not included and additional imaging may be appropriate.
 
 ---
 
-## Ultrasound: optimisation and artefact management
+### Check your understanding
 
-### System set-up
+1. At screening, a reader identifies a focal density in the upper outer quadrant of the right breast on the MLO view. On a rolled CC view, the density completely disperses. What is the most likely explanation?
+   - **A.** A spiculated carcinoma hidden by overlying fibroglandular tissue
+   - **B.** A skin fold projected over the breast parenchyma
+   - **C.** A summation shadow from overlapping fibroglandular tissue
+   - **D.** Deodorant residue producing a focal opacity
+   - **E.** An intraductal lesion within a dilated lactiferous sinus
 
-**Transducer:** High-frequency linear probes (typically 9–18 MHz) provide the resolution needed for breast work. Use lower frequencies for deep tissue or large breasts; switch to a smaller footprint probe for nipple and superficial targets.
+2. A patient attends for mammography and a cluster of irregular superficial specks is noted, potentially mimicking microcalcifications. She reports using talcum powder that morning. What is the most appropriate initial action?
+   - **A.** Mark the area with a radiopaque BB and proceed with standard views
+   - **B.** Obtain a tangential view with the suspicious area at the skin surface
+   - **C.** Proceed directly to magnification views to assess morphology
+   - **D.** Recall the patient for repeat mammography after further history
+   - **E.** Request urgent ultrasound to characterise the calcifications
 
-**Depth and focus:** Set depth to include the chest wall with a small margin below. Place focal zones at or just below the lesion. An image that does not reach the chest wall is incomplete.
+3. A known seborrhoeic keratosis is visible on a patient's breast skin. How should this be managed before mammographic acquisition?
+   - **A.** No action required as skin lesions are easily identified on the image
+   - **B.** Document the location in the patient notes after imaging
+   - **C.** Mark the lesion with a radiopaque BB before acquisition
+   - **D.** Obtain a tangential view post-acquisition to characterise it
+   - **E.** Exclude the area from compression to avoid trauma to the lesion
 
-**Gain and TGC (time-gain compensation):** Calibrate for homogeneous parenchymal echogenicity without saturating the noise floor. Too much gain obscures posterior acoustic features; too little exaggerates shadowing.
+## Ultrasound: Optimisation and Artefact Management
 
-**Advanced modes:**
-- *Tissue harmonic imaging* reduces clutter and side-lobe artefacts; use it routinely
-- *Compound imaging* smooths speckle but can blunt margins and obscure micro-lobulation — switch off when assessing fine edge characteristics
-- *Colour/power Doppler*: use low wall filters, appropriate pulse repetition frequency for slow flow, and minimal probe pressure; excess pressure collapses superficial vessels and eliminates signal
+### System Set-up
 
-### Scanning strategy
+**Transducer selection**: High-frequency linear probes (typically 10–18 MHz) for standard breast imaging. For deep lesions in large breasts, stepping down in frequency (9–12 MHz) improves penetration at the cost of some resolution. Use the highest frequency that provides adequate depth penetration for the target.
 
-Scan systematically in **radial and anti-radial planes** around the nipple, then in standard quadrant sweeps. Document every finding with:
-- Clockface position
-- Distance from nipple (cm)
-- Depth (anterior, middle, or posterior third of breast parenchyma)
-- Size in at least two planes
+**Depth and focus**: Set depth to just include the chest wall with a margin. Position the focal zone at or just deep to the lesion. These two settings are among the commonest left at defaults — consciously adjusting them improves image quality measurably.
 
-Always correlate with mammographic coordinates. If DBT is available, use tomographic depth cues to guide where to search on ultrasound.
+**Gain and TGC**: The aim is a homogeneous parenchymal background without noise saturation. Excessive gain exaggerates posterior acoustic enhancement and hides posterior shadowing; insufficient gain makes everything appear falsely hypoechoic.
 
-### Ultrasound artefacts
+**Tissue harmonic imaging**: Reduces clutter and side-lobe artefacts, improving margin assessment. Consider switching to fundamental mode if you are assessing fine margin detail — harmonics can slightly smooth micro-lobulation.
 
-**Anisotropy:** Ligaments, tendons, and fibrous tissue are angle-dependent reflectors — they appear falsely hypoechoic when insonated obliquely. Adjust probe angle to perpendicular. A hypoechoic area that resolves with angle correction is benign; persistent hypoechogenicity with spiculated margins that does not resolve is more suspicious.
+**Compound imaging**: Improves signal-to-noise and reduces speckle but may blunt fine margin detail. Adapt to the diagnostic question.
 
-**Posterior acoustic features:** Enhancement behind cysts or fatty lesions; shadowing behind dense calcifications or scirrhous tumours. These are useful but not reliable discriminators — many high-grade (grade 3) invasive cancers show posterior enhancement, not shadowing. Do not use posterior features alone to characterise lesions.
+**Probe pressure**: Use the minimum pressure needed to maintain skin contact. Excessive pressure collapses compressible structures (cysts, small veins), flattens some masses, and eliminates Doppler signal in soft tissue vasculature. This is a common and correctable error.
 
-**Edge shadowing:** Smooth refraction artefacts at curved margins (for example, at the edges of a fibroadenoma) are symmetrical
+### Scanning Strategy
+
+Use **radial and anti-radial planes** centred on the nipple — these follow the natural ductal anatomy and improve detection of intraductal and periductal pathology. Supplement with standard quadrant sweeps. Document each lesion by **clockface position, distance from the nipple in centimetres, and depth** (anterior, middle, or posterior third of the parenchyma). This localisation framework integrates directly with mammographic coordinates and clinical findings, and is the basis for meaningful triple assessment correlation.
+
+### Ultrasound Artefacts: Helpful and Harmful
+
+**Anisotropy** is the angle-dependence of reflectivity in fibrous structures. Ligaments, scar tissue, and fat lobule borders can appear deceptively hypoechoic when the beam is not perpendicular to them. **Adjust insonation angle** — most anisotropic artefacts resolve within 10–15°. If hypoechogenicity with spiculated margins persists through angle adjustment, it is more likely pathological.
+
+**Posterior acoustic features** — enhancement behind fluid-filled or fatty structures, shadowing behind calcifications or scirrhous tumours — are useful but not diagnostic. Critically, **many high-grade cancers show posterior enhancement** rather than shadowing, and some complex cysts shadow. Posterior features support interpretation but should not override margin and internal echo assessment.
+
+**Edge shadowing**: Symmetrical, bilateral thin linear shadows at the lateral margins of a smoothly curved lesion (e.g. a fibroadenoma) are a refraction artefact. Irregular or asymmetric shadowing without a clear geometric explanation warrants scrutiny.
+
+**Near-field clutter**: Very superficial lesions (<3–5 mm from skin) are often obscured. Use a standoff pad, thick gel, or a high-frequency transducer with a short focus.
+
+**Side-lobe and grating-lobe artefacts**: Spurious echoes adjacent to strongly reflective structures. Harmonics substantially reduce these.
+
+### Common Misses on Ultrasound
+
+- **Isoechoic or infiltrative cancers**: These blend imperceptibly with normal parenchyma. Look instead for subtle architectural distortion, straightening of Cooper's ligaments, or asymmetric tissue stiffness (if elastography is available).
+- **Deep and posterior lesions**: Set depth adequately. If a mammographic lesion is in the posterior third, you may need a lower-frequency probe or an off-angle approach past the glandular parenchyma.
+- **Retroareolar masses**: Always scan in radial planes; an abrupt ductal cut-off, internal vascularity, or solid component within a dilated duct should not be dismissed as simple ectasia.
+- **Cannot find the mammographic lesion**: Revisit the mammographic localisation. Use DBT slice depth as a guide to US depth. Alter insonation angle and probe pressure. Scan wider. Ask a colleague. If a real mammographic lesion cannot be found on diligent targeted US, do not dismiss it — it may be isoechoic, and MRI should be considered in the symptomatic context.
+
+---
+
+### Check your understanding
+
+1. During ultrasound assessment of the breast, you identify a hypoechoic area with apparent spiculated margins at a site of mammographic concern. When you adjust the insonation angle by 15°, the hypoechogenicity and spiculation persist. What is the most appropriate interpretation?
+   - **A.** The finding is an anisotropy artefact and can be disregarded
+   - **B.** The finding is likely a fat lobule border and requires no further action
+   - **C.** The persistent appearance raises suspicion for a pathological lesion
+   - **D.** Compound imaging should be applied to confirm the artefactual nature
+   - **E.** Edge shadowing from a fibroadenoma is the most likely cause
+
+2. A mammographic lesion is identified in the posterior third of the breast. Targeted ultrasound using a 15 MHz transducer cannot demonstrate any correlate. What is the most appropriate next step?
+   - **A.** Dismiss the mammographic lesion as a summation shadow
+   - **B.** Proceed directly to MR-guided biopsy
+   - **C.** Try a lower-frequency probe, adjust depth, and consider MRI if still not found
+   - **D.** Increase gain and TGC settings and review the same images
+   - **E.** Apply a standoff pad to improve near-field resolution
+
+3. A radiographer is scanning a breast and notices that what appears to be posterior acoustic enhancement is present behind a solid-looking lesion. How should this posterior feature influence the assessment?
+   - **A.** It confirms the lesion is a benign simple cyst and no further action is needed
+   - **B.** It excludes a high-grade carcinoma, which always produces posterior shadowing
+   - **C.** It supports but does not override assessment of margin and internal echo characteristics
+   - **D.** It indicates the lesion is fatty and can be dismissed
+   - **E.** It confirms adequate gain settings and the assessment is complete
+
+## MRI: Acquisition Quality and Interpretive Traps
+
+### Positioning and Coverage
+
+Patients are imaged **prone** in a dedicated bilateral breast coil. The breast should be centred within the coil with sufficient support to minimise motion whilst avoiding compression that could reduce perfusion. Coverage must encompass the entire breast volume, pectoralis, axillary tail, and enough axilla for nodal assessment. Field-of-view trade-offs affect in-plane resolution — balance these against the diagnostic requirement.
+
+### Sequence Optimisation
+
+**Dynamic contrast-enhanced (DCE) MRI** requires both adequate spatial resolution (to assess morphology) and adequate temporal resolution (to characterise kinetic curves). The two are in tension. Consistent bolus timing and injection rate are critical — a delayed or slow injection blunts the early post-contrast phase and distorts kinetic analysis, potentially converting a type III curve into a type II. Use a power injector where available.
+
+**Fat suppression** is the single most important quality determinant for lesion conspicuity. Non-uniform fat suppression causes regional shading that can mask non-mass enhancement (NME) or produce false enhancement. At 3T and in large or asymmetric breasts, B₀/B₁ inhomogeneity is a particular challenge — **Dixon-based methods** (e.g. IDEAL, DIXON) are more robust than frequency-selective fat sat in these situations, and dielectric pads or shimming can help.
+
+**Diffusion-weighted imaging (DWI)**: Choose b-values (typically 0 and 800–1000 s/mm²) that suppress perfusion without excessive signal loss. Confirm apparent diffusion coefficient (ADC) values on maps rather than source images alone — **T2 shine-through** can make benign cysts appear as apparent diffusion restriction on DWI if maps are not reviewed.
+
+### Artefacts and Pitfalls
+
+**Motion**: Ghosting from respiratory or cardiac motion, and patient movement, are the most common causes of non-diagnostic MRI. Educate patients thoroughly, consider motion correction sequences, and repeat acquisitions if early phases are degraded — the early post-contrast phase is the most diagnostically critical and cannot be recovered.
+
+**Chemical shift and Gibbs ringing**: Create boundary artefacts at fat–water interfaces. Increasing bandwidth or voxel size relative to the target structure mitigates these.
+
+**Susceptibility artefacts**: Biopsy clips, titanium markers, and dense calcifications cause signal voids and local geometric distortion. Recognise these from their morphology and correlation with the mammographic clip position — do not misattribute susceptibility voids to necrosis.
+
+**Background parenchymal enhancement (BPE)**: Varies with hormonal status and is highest in the luteal phase. High BPE reduces specificity — NME in particular can be difficult to distinguish from normal hormonally driven enhancement. Where clinically feasible, schedule breast MRI in the second week of the cycle. Interpret NME in the context of BPE grade, morphology, and kinetics, not enhancement alone.
+
+**Implants**: Use silicone-specific sequences (e.g. STIR-based silicone-selective imaging) for rupture assessment. Radial folds of the implant shell are normal and may mimic intracapsular rupture — evaluate in orthogonal planes and ensure fold continuity. Motion can create linear artefacts resembling the "linguine sign" of intracapsular rupture; assess on multiple sequences.
+
+---
+
+### Check your understanding
+
+1. A breast MRI performed at 3T shows regional non-uniform fat suppression causing patchy signal across both breasts, potentially masking non-mass enhancement. Which fat suppression strategy is most likely to address this problem?
+   - **A.** Increase the repetition time (TR) to improve fat saturation uniformity
+   - **B.** Switch to a Dixon-based fat suppression method
+   - **C.** Reduce the field-of-view to focus on one breast at a time
+   - **D.** Use a frequency-selective fat saturation pulse at a higher bandwidth
+   - **E.** Repeat the sequence with the patient supine to reduce B₁ inhomogeneity
+
+2. On reviewing a breast MRI DWI sequence, a lesion appears to show restricted diffusion on the high-b-value image. The ADC map has not yet been reviewed. What artefact must be excluded before concluding true diffusion restriction is present?
+   - **A.** Chemical shift artefact at the lesion boundary
+   - **B.** Gibbs ringing from a large voxel size
+   - **C.** T2 shine-through making a benign cyst appear to restrict
+   - **D.** Susceptibility artefact from a nearby biopsy clip
+   - **E.** Background parenchymal enhancement masking the ADC value
+
+3. Background parenchymal enhancement (BPE) on breast MRI is found to be high, making interpretation of non-mass enhancement difficult. Which of the following would most reduce BPE at the time of scanning?
+   - **A.** Administering a higher dose of gadolinium contrast
+   - **B.** Scanning in the second week of the menstrual cycle
+   - **C.** Using a shorter echo time (TE) to reduce T2 weighting
+   - **D.** Increasing the number of dynamic post-contrast phases
+   - **E.** Applying a higher b-value on the DWI sequence
+
+## Modality Correlation and Diagnostic Judgement
+
+Technical excellence in each modality is a prerequisite for meaningful cross-modality correlation. In UK practice, this correlation is the foundation of both triple assessment and screening arbitration.
+
+**Mammography to ultrasound**: Map findings using a consistent lexicon — clockface, nipple distance, depth category, and quadrant. DBT slice number and reconstructed depth provide a useful guide to predicted US depth. Remember that "posterior" on mammography corresponds to the deepest tissue on ultrasound.
+
+**Architectural distortion on mammography**: Always warrants a careful targeted ultrasound. If US reveals subtle tethering or a hypoechoic area at the corresponding site, targeted biopsy is straightforward. If US is negative despite optimal technique, do not dismiss the mammographic finding — DBT-guided or stereotactic biopsy is appropriate.
+
+**Microcalcifications**: Ultrasound rarely adds diagnostic value for calcification morphology. Characterise with **2D magnification mammography**; DBT and synthetic 2D are supplementary, not substitutes. If tissue sampling is required, stereotactic biopsy under mammographic guidance is the standard approach.
+
+**MRI-detected lesions**: Proceed to **targeted second-look ultrasound** before considering MR-guided biopsy. If a correlate is found on US — even subtle — US-guided biopsy is simpler, cheaper, and repeatable. If diligent second-look US is negative, MR-guided biopsy is appropriate for lesions warranting tissue diagnosis.
+
+In the **screening context**, the threshold for additional investigation must account for the asymptomatic population: most recalled women will not have cancer, and the harm of unnecessary investigation must be weighed against the benefit of early detection. In **symptomatic triple assessment**, the threshold shifts — a U3 or U4 ultrasound finding that correlates with an M3 mammogram warrants biopsy even without MRI, because B scoring from core biopsy directly informs MDT management.
+
+---
+
+### Check your understanding
+
+1. Architectural distortion is identified on DBT in the right breast. Targeted ultrasound using optimal technique reveals no correlate. What is the most appropriate next management step?
+   - **A.** Discharge with routine recall in three years as the ultrasound is negative
+   - **B.** Repeat the ultrasound in six months to assess for interval change
+   - **C.** Proceed to DBT-guided or stereotactic biopsy of the mammographic distortion
+   - **D.** Obtain MRI and defer biopsy pending MRI result
+   - **E.** Reclassify the mammographic finding as a summation shadow
+
+2. A lesion is identified on breast MRI that has no mammographic correlate. Targeted second-look ultrasound demonstrates a subtle hypoechoic area that correlates in position. What is the preferred next step for tissue diagnosis?
+   - **A.** MR-guided biopsy as the lesion was originally identified on MRI
+   - **B.** Ultrasound-guided biopsy of the ultrasound correlate
+   - **C.** Stereotactic biopsy under mammographic guidance
+   - **D.** Excision biopsy without further imaging guidance
+   - **E.** Repeat MRI in three months to assess for kinetic change
+
+## Technical Pitfalls: False Negatives and False Positives
+
+### Sources of False Negatives
+
+| Pitfall | Mechanism | Correction |
+|---|---|---|
+| Inadequate posterior inclusion | Tissue at the pectoral margin not visualised | Adjust MLO angle; lift IMF; supplementary views |
+| Closed IMF/breast sag | Inferior tissue lost | Elevate breast; open fold; re-expose |
+| Motion blur | Calcifications smeared; spicules lost | Re-expose with coaching and adequate compression |
+| Inadequate compression | Tissue overlap masks lesions | Build tension first; coaching |
+| US depth too shallow | Deep lesions not imaged | Set depth to chest wall |
+| MRI fat-sat failure | NME masked by residual fat signal | Switch to Dixon method; replan shim |
+
+### Sources of False Positives
+
+| Pitfall | Mechanism | Resolution |
+|---|---|---|
+| Skin folds | Linear/curvilinear opacity mimicking distortion | Change projection; reposition |
+| Deodorant/talc | Superficial specks mimicking calcifications | Tangential view confirms dermal location |
+| Summation shadows | Superimposed tissue creates pseudo-mass/distortion | Resolves on rolled view, spot compression, or DBT |
+| Anisotropy on US | Fibrous structure appears hypoechoic | Adjust insonation angle |
+| High BPE on MRI | Clumped NME from hormonal background | Contextualise with menstrual timing and kinetics |
+
+For any equivocal finding, apply the same mental framework: **does it persist across projections or angles? Does it correlate across modalities? Can a technical adjustment make it disappear or become definite?** A lesion that dissolves with any technical modification was almost certainly never real.
+
+---
+
+### Check your understanding
+
+1. An anisotropy artefact on ultrasound, causing a fibrous structure to appear hypoechoic, can typically be resolved by adjusting the insonation angle.  *(True / False)*
+
+2. A finding that disappears entirely on a rolled CC view or spot compression can confidently be treated as a true lesion requiring biopsy.  *(True / False)*
+
+3. Failure of fat suppression on breast MRI, causing residual fat signal, is listed as a mechanism for false negative results due to masking of non-mass enhancement.  *(True / False)*
+
+## Quality Assurance and Governance
+
+### NHSBSP QA Framework
+
+The NHSBSP operates a comprehensive QA programme coordinated by regional QA reference centres. Key components include:
+
+- **Physics testing**: AEC constancy, detector uniformity, modulation transfer function, dose measurements — performed at defined intervals by medical physics teams
+- **Daily and weekly radiographer checks**: Image quality phantoms, detector uniformity, and equipment performance checks; faults escalated promptly
+- **Mean glandular dose monitoring**: Benchmarked against NHSBSP and EUREF reference levels; individual and equipment-level outliers investigated
+- **Reject and retake analysis**: Causes classified (positioning, motion, artefact, exposure error) and fed back into training cycles — this is one of the most powerful quality improvement tools available
+
+### Reading Environment
+
+Calibrated high-luminance diagnostic monitors, controlled ambient lighting, and regular display quality assurance are mandatory in NHSBSP-accredited units. Inconsistent display calibration directly affects threshold detection of subtle densities and calcification morphology. As a trainee reading on a clinical workstation, be aware that a display that has not been recently calibrated may be showing you different grey-scale characteristics from those used by the screening readers.
+
+### Technical Recall Management
+
+The goal is to correct inadequate images **on the day**, before the patient leaves. When technical recall is unavoidable, the reason must be documented with a clear, targeted corrective plan — vague documentation perpetuates the same error.
+
+### Continuous Professional Development
+
+Peer review of positioning, side-by-side comparison with prior rounds, and shared review of challenging cases are the mechanisms through which standards are maintained and aligned. As a trainee, engaging actively with this — attending MDT, asking radiographers to show you what a difficult positioning looks like before and after correction — will accelerate your understanding far beyond textbook reading.
+
+---
+
+### Check your understanding
+
+1. Reject and retake analysis, with causes classified and fed back into training cycles, is described as one of the most powerful quality improvement tools available.  *(True / False)*
+
+2. In NHSBSP-accredited units, diagnostic monitor calibration is optional provided ambient lighting conditions are controlled.  *(True / False)*
+
+3. Mean glandular dose in the NHSBSP is benchmarked against NHSBSP and EUREF reference levels, with individual and equipment-level outliers investigated.  *(True / False)*
+
+## Practical Checklists
+
+### Before Every Mammographic Exposure
+
+- Patient identity confirmed; side markers in place; any relevant clinical information noted
+- Skin lesions and scars marked with BBs
+- Deodorant, powders, jewellery, ECG leads, and external artefacts removed
+- **CC**: medial and posterior tissue included; nipple in profile if feasible; no major folds; adequate compression
+- **MLO**: pectoral muscle to nipple level or below; axillary tail included; IMF open; no sag
+- Review exposure, motion, and artefacts before the patient leaves — corrections are always easier now than at recall
+
+### For DBT
+
+- Coach the patient to remain still during the sweep; consider breath-hold
+- Confirm posterior inclusion is adequate on the acquisition
+- Assess for metal-induced streak artefacts; obtain 2D magnification separately for calcification assessment
+
+### For Ultrasound
+
+- Probe frequency appropriate to target depth
+- Depth set to chest wall; focal zone positioned at lesion depth
+- Gain and TGC balanced; harmonics on by default, adjusted as needed
+- Systematic radial/anti-radial sweeps; each lesion documented by clock, cm from nipple, and depth
+- Minimal probe pressure; Doppler optimised; correlation with mammographic coordinates confirmed
+
+### For Breast MRI
+
+- Prone; breast centred in coil; patient briefed on importance of keeping still
+- Coverage from chest wall to axillary tail confirmed on localiser
+- Fat suppression uniform on early post-contrast images — check before proceeding
+- Bolus timing and IV access confirmed; dynamic protocol executed as planned
+- Motion assessed on initial series; repeat sequences rather than proceeding with non-diagnostic data
+
+---
+
+## Summary
+
+Image quality is not a bureaucratic requirement — it is the operational substrate upon which every breast imaging interpretation rests. Whether you are working in NHSBSP screening with two-view mammography and double reading, or in a symptomatic clinic applying triple assessment and B scoring, the diagnostic confidence of your report depends on what the acquisition actually shows.
+
+Understanding why contrast, resolution, and noise behave as they do; why positioning and compression transform diagnostic yield; and how artefacts arise and can be corrected gives you the capacity to prevent pitfalls, reduce false outcomes, and report with genuine confidence. Where practice legitimately varies — DBT protocols, specific MLO angles, choice of fat suppression method — the governing principles remain constant: include all the tissue, separate and stabilise it, choose parameters that reveal the lesion without adding artefact, and correlate systematically across modalities.
+
+When something looks wrong, ask whether the image was acquired correctly before you decide what it means.
