@@ -66,6 +66,10 @@ Reconstruction techniques (tomosynthesis, MRI) add their own blur through slice 
 
 ## Mammography: Positioning, Compression, and Exposure
 
+![Patient positioned at the mammography unit]({{ '/docs/img/wikimedia_mammography_positioning.jpg' | relative_url }})
+
+*Figure: Positioning and compression at the mammography unit; adequate compression and positioning are prerequisites for image quality. Bill Branson, National Cancer Institute (public domain), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mammography_patient.jpg). External teaching example — not independently verified against this text.*
+
 ### What You Are Trying to Include
 
 The breast is a conical organ on a curved chest wall. Standard views must capture:

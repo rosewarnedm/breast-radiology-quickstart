@@ -297,6 +297,10 @@ Consent should cover: bruising and haematoma, pain, infection, vasovagal reactio
 
 ## 7. Interpreting Histology: The B-code System and Concordance
 
+![Core-biopsy histology of a fibroadenoma]({{ '/docs/img/wikimedia_fibroadenoma_core_biopsy_histology.jpg' | relative_url }})
+
+*Figure: Core-needle biopsy histology (H&E) of a fibroadenoma — a concordant B2 (benign) result. KGH (CC BY-SA 3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Breast_fibradenoma_(1).jpg). External teaching example — not independently verified against this text.*
+
 ### 7.1 The B-codes
 
 | Code | Meaning | Action |

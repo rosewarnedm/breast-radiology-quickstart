@@ -197,6 +197,10 @@ Fine pleomorphic and linear/branching calcifications, by contrast, tend to retai
 
 ## 6. Mammographic appearances by density category
 
+![Mammograms of dense breasts]({{ '/docs/img/wikimedia_dense_breasts_mammogram.jpg' | relative_url }})
+
+*Figure: Dense breasts on mammography; dense fibroglandular tissue can mask a non-calcified cancer. National Cancer Institute (public domain), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mammogram_showing_normal_dense_breasts.jpg). External teaching example — not independently verified against this text.*
+
 Understanding what *normal* looks like at each density level helps you recognise when something is abnormal.
 
 ### Almost entirely fatty (a)

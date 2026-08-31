@@ -147,6 +147,10 @@ Adopt a systematic approach every time. On both views, sweep through:
 
 ### 1) Masses
 
+![Carcinoma seen as a focal density on mammography]({{ '/docs/img/wikimedia_carcinoma_mammogram.jpg' | relative_url }})
+
+*Figure: A carcinoma presenting as a focal area of increased density (colloid/mucinous carcinoma). National Cancer Institute (public domain), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mammogram_showing_cancer.jpg). External teaching example — not independently verified against this text.*
+
 A mass is a space-occupying lesion visible on *two projections*. A density seen on one view only is an asymmetry until proven otherwise — do not call it a mass.
 
 Analyse each mass by **shape**, **margins**, **density**, and **associated features**.
@@ -197,6 +201,22 @@ Any of the following *increase* the M-score:
 
 ### 2) Microcalcifications
 
+![Coarse heterogeneous microcalcification, MLO]({{ '/docs/img/mammography_coarse_calc_dx007_mlo.png' | relative_url }})
+
+*Figure: Coarse heterogeneous microcalcification (case DX007), MLO projection. Source: N Clerkin.*
+
+![Coarse heterogeneous microcalcification, magnified]({{ '/docs/img/mammography_coarse_calc_dx007_mlo_zoom.png' | relative_url }})
+
+*Figure: Coarse heterogeneous microcalcification (case DX007), MLO projection (magnified). Source: N Clerkin.*
+
+![Fine pleomorphic microcalcification, MLO]({{ '/docs/img/mammography_fine_pleomorphic_calc_dx022_mlo.png' | relative_url }})
+
+*Figure: Fine pleomorphic microcalcification (case DX022), MLO projection — a higher-suspicion morphology. Source: N Clerkin.*
+
+![Fine pleomorphic microcalcification, magnified]({{ '/docs/img/mammography_fine_pleomorphic_calc_dx022_mlo_zoom.png' | relative_url }})
+
+*Figure: Fine pleomorphic microcalcification (case DX022), MLO projection (magnified). Source: N Clerkin.*
+
 Calcification morphology and distribution are the keys to identifying DCIS and some invasive cancers. Train your eye to distinguish *what the crystals look like* and *where they are distributed*. These two axes together determine the score.
 
 #### Morphology
@@ -241,6 +261,14 @@ Common pathological correlates:
 
 ### 3) Architectural distortion (AD)
 
+![Architectural distortion, CC projection]({{ '/docs/img/mammography_architectural_distortion_dx73_cc.png' | relative_url }})
+
+*Figure: Architectural distortion (case DX73), CC projection. Source: N Clerkin.*
+
+![Architectural distortion, MLO projection]({{ '/docs/img/mammography_architectural_distortion_dx73_mlo.png' | relative_url }})
+
+*Figure: Architectural distortion (case DX73), MLO projection. Source: N Clerkin.*
+
 **Definition**: Focal disruption of the normal parenchymal architecture with radiating lines from a point and no discrete mass visible.
 
 AD is easy to miss on 2D mammography, particularly in dense breasts where it blends into overlapping tissue. **DBT is transformative for detecting and analysing AD** — it is a major reason why tomosynthesis has become standard in UK assessment clinics.
@@ -266,6 +294,14 @@ Score isolated, new AD as **M4** as a minimum. Spiculated distortion with associ
 ---
 
 ### 4) Asymmetries
+
+![Asymmetry, CC projection]({{ '/docs/img/mammography_asymmetric_density_dx119_cc.png' | relative_url }})
+
+*Figure: Developing/focal asymmetry (case DX119), CC projection. Source: N Clerkin.*
+
+![Asymmetry, MLO projection]({{ '/docs/img/mammography_asymmetric_density_dx119_mlo.png' | relative_url }})
+
+*Figure: Developing/focal asymmetry (case DX119), MLO projection. Source: N Clerkin.*
 
 An asymmetry is unilateral increased tissue density on one or more views that does *not* meet the criteria for a discrete mass (no convex margins, no specific architecture). Work through a hierarchy based on how convincingly the asymmetry is established and whether it is new.
 

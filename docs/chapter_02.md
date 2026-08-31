@@ -13,6 +13,10 @@ nav_order: 2
 
 ## Why acquisition matters
 
+![Mammography unit]({{ '/docs/img/wikimedia_mammography_unit.jpg' | relative_url }})
+
+*Figure: A mammography unit — the compression paddle and detector define the acquisition geometry. Bill Branson, National Cancer Institute (public domain), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mammography_machine.jpg). External teaching example — not independently verified against this text.*
+
 As a radiologist, you will not routinely position patients yourself, but you must understand acquisition well enough to recognise when an image is genuinely diagnostic and when it is not — and to direct the radiographer accordingly. Poor acquisition is the single most preventable cause of false negatives in mammography. A cancer missed because of inadequate positioning or suboptimal compression is a failure that cannot be rescued at the reporting workstation. Conversely, unnecessary repeats increase dose, distress, and recall rates.
 
 In the NHS Breast Screening Programme (NHSBSP), images are double-read with arbitration. Consistent acquisition quality is therefore a programme-wide patient safety issue, not merely a technical nicety.

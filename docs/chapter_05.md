@@ -311,6 +311,10 @@ Fat necrosis results from saponification and liquefaction of adipose tissue foll
 
 ## Benign Calcifications: Morphology, Distribution, and Reasoning
 
+![Popcorn macrocalcification of a fibroadenoma]({{ '/docs/img/wikimedia_fibroadenoma_popcorn_calc.jpg' | relative_url }})
+
+*Figure: Coarse 'popcorn' macrocalcification typical of a calcified, involuting fibroadenoma. SCiardullo (CC BY-SA 4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Calcificaciones_en_pop-corn_CC_02.JPG). External teaching example — not independently verified against this text.*
+
 Learning to classify calcifications confidently is one of the defining competencies of breast radiology. The logic is straightforward once you understand the underlying biology.
 
 **Definitively benign calcifications — do not biopsy:**

@@ -125,6 +125,14 @@ The breast is a dynamic organ and its imaging appearance changes substantially a
 
 ## From anatomy to mammographic appearance
 
+![Labelled CC mammogram of normal breast anatomy]({{ '/docs/img/mammography_cc_projection.png' | relative_url }})
+
+*Figure: Craniocaudal (CC) projection with normal breast anatomy labelled. Source: N Clerkin.*
+
+![Labelled MLO mammogram of normal breast anatomy]({{ '/docs/img/mammography_mlo_projection.png' | relative_url }})
+
+*Figure: Mediolateral-oblique (MLO) projection with normal anatomy and positioning landmarks labelled. Source: N Clerkin.*
+
 ### Physics in brief
 
 Mammography measures **differential x-ray attenuation**. Fat is radiolucent (darker on the image); fibroglandular stroma, calcification, and fibrotic tissue attenuate more (appear whiter). **Projection and superimposition** are the dominant interpretive challenges: a density seen on one view may be a real lesion or a summation artefact from overlapping normal structures.

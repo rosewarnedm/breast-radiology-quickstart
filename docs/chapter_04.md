@@ -146,6 +146,10 @@ Check that the correct protocol has been performed: high-resolution T1 pre-contr
 
 ## Pass 2: Global overview and context
 
+![Mammogram containing a subtle cancer]({{ '/docs/img/wikimedia_subtle_cancer_mammogram.jpg' | relative_url }})
+
+*Figure: A mammogram containing a subtle cancer — the kind of finding a systematic search is designed to catch. National Cancer Institute (Dr Dwight Kaufman) (public domain), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mammogram_with_subtle_cancer.jpg). External teaching example — not independently verified against this text.*
+
 Before analysing individual lesions, take a step back. The goal of this pass is to orientate yourself to the overall picture and set your expectations.
 
 On mammography, assess:
@@ -174,6 +178,14 @@ This global pass also activates your contextual knowledge: very dense breasts sh
 3. Increased breast density reduces mammographic sensitivity and increases the diagnostic value of DBT and adjunct ultrasound.  *(True / False)*
 
 ## Pass 3: Structured search and lesion analysis
+
+![Asymmetric density, CC projection]({{ '/docs/img/mammography_asymmetric_density_dx002_cc.png' | relative_url }})
+
+*Figure: Asymmetric density (case DX002), CC projection. Source: N Clerkin.*
+
+![Asymmetric density, MLO projection]({{ '/docs/img/mammography_asymmetric_density_dx002_mlo.png' | relative_url }})
+
+*Figure: Asymmetric density (case DX002), MLO projection. Source: N Clerkin.*
 
 Use a consistent anatomical search route so that no region is systematically overlooked. On mammography and DBT, one practical sequence is:
 

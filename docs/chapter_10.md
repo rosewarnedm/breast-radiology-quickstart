@@ -323,6 +323,10 @@ A normal lymph node is oval, has a cortex of less than 3 mm, preserves its fatty
 
 ## MRI and Contrast-Enhanced Mammography
 
+![Contrast-enhanced breast MRI showing carcinoma]({{ '/docs/img/wikimedia_breast_mri_carcinoma.jpg' | relative_url }})
+
+*Figure: Contrast-enhanced breast MRI showing an enhancing carcinoma; MRI is used for problem-solving and high-risk screening. National Cancer Institute (public domain), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mri_of_breast_cancer.jpg). External teaching example — not independently verified against this text.*
+
 In UK practice, **breast MRI** is used for:
 
 - Occult primary cancer presenting with axillary nodal metastases.
