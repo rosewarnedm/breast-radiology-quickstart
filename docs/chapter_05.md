@@ -40,26 +40,26 @@ M2/U2 findings do not require recall in the screening context. M3/U3 findings ar
 
 ### Check your understanding
 
-1. A woman is recalled from NHSBSP screening with a finding scored M3. What is the most appropriate next step according to the UK five-point scoring system?
-   - **A.** Discharge with routine three-year recall as findings are indeterminate but unlikely malignant
-   - **B.** Proceed directly to surgical excision without further imaging
-   - **C.** Recall for further assessment, which will often include biopsy
-   - **D.** Score the finding as M2 and return to routine recall
-   - **E.** Refer immediately to oncology without MDT discussion
+1. A 58-year-old woman attends NHS Breast Screening Programme mammography. On double reading, one reader assigns a score of M3 to a focal asymmetry. According to the UK five-point scoring system, what does an M3 score indicate and what is the appropriate next step?
+   - **A.** Benign finding; no recall required
+   - **B.** Normal finding; routine re-invitation in three years
+   - **C.** Indeterminate / possibly benign; recall for further assessment
+   - **D.** Suspicious finding; proceed directly to core biopsy without further imaging
+   - **E.** Malignant finding; urgent referral to the surgical team
 
-2. A core biopsy result is returned as B3. Which of the following best describes what this means within the UK scoring system?
-   - **A.** Normal breast tissue requiring no further action
-   - **B.** Benign finding concordant with imaging, suitable for discharge
-   - **C.** Lesion of uncertain malignant potential requiring MDT discussion
-   - **D.** Suspicious finding that implies malignancy is likely
-   - **E.** Confirmed malignancy requiring oncological staging
+2. A symptomatic patient undergoes triple assessment. Mammography is scored M2 and ultrasound U2, but core biopsy returns B3. What is the correct management of this imaging–pathology combination?
+   - **A.** Discharge the patient, as both imaging scores confirm a benign finding
+   - **B.** Repeat mammography in six months as routine surveillance
+   - **C.** Discuss at MDT to resolve the discordance between imaging and pathology scores
+   - **D.** Upgrade automatically to B5 and refer for surgical excision
+   - **E.** Request MRI as the sole next investigation without MDT input
 
-3. In the symptomatic triple assessment pathway, which combination of scores would most strongly support discharge without biopsy?
-   - **A.** P2, M3, U2
-   - **B.** P2, M2, U2
-   - **C.** P3, M2, U2
-   - **D.** P2, M4, U2
-   - **E.** P1, M3, U3
+3. In the NHSBSP, double reading with arbitration is the standard approach. Which statement best explains why specificity in screen reading is a particular responsibility of the individual reader?
+   - **A.** The programme uses single-view mammography, so each reader must compensate by applying stricter recall thresholds
+   - **B.** The programme is designed to be sensitive, meaning the majority of detected abnormalities are benign and the reader must apply judgement to avoid unnecessary recalls
+   - **C.** The programme invites women annually, so readers can afford to recall liberally knowing repeat imaging will clarify findings
+   - **D.** Arbitration automatically downgrades all M3 findings to M2, reducing the reader's role in specificity
+   - **E.** Symptomatic triple assessment, not screening, is where sensitivity takes priority
 
 ## Foundational Principles
 
@@ -79,11 +79,26 @@ Before cataloguing specific entities, it is worth anchoring your pattern recogni
 
 ### Check your understanding
 
-1. Spiculated margins on mammography result from a desmoplastic stromal reaction that causes tethering and infiltration of surrounding tissue.  *(True / False)*
+1. A circumscribed oval mass is identified on screening mammography. Comparison with imaging from five years ago shows it is completely unchanged. According to the foundational principles described, what is the most appropriate interpretation of this finding?
+   - **A.** It should be recalled for ultrasound because circumscribed masses require tissue diagnosis
+   - **B.** It is almost certainly benign, as long-term stability is the single most powerful indicator of a benign nature
+   - **C.** It requires MRI to exclude malignancy because margins alone are insufficient
+   - **D.** It should be upgraded to suspicious because interval follow-up is now overdue
+   - **E.** Stability over five years is reassuring but insufficient without tomosynthesis correlation
 
-2. A segmental or linear distribution of calcifications is a reassuring feature that indicates a benign hormonal process.  *(True / False)*
+2. Fine pleomorphic calcifications are identified in a segmental distribution in the upper outer quadrant of the right breast only. Based on the biological principles outlined, which interpretation is most consistent with the section's teaching?
+   - **A.** Segmental distribution is characteristic of vascular calcification and therefore benign
+   - **B.** The finding is likely bilateral fibrocystic change distributed by chance to one quadrant
+   - **C.** The morphology and distribution suggest intraductal disease such as DCIS and warrant further investigation
+   - **D.** Fine pleomorphic calcifications in any distribution reflect organised deposition and are benign
+   - **E.** A segmental distribution is less concerning than a diffuse distribution and requires no further action
 
-3. A circumscribed mass that has been stable over five years of prior imaging is almost certainly benign, regardless of whether its appearance is entirely typical.  *(True / False)*
+3. A radiographer is reviewing a mammogram showing an area of architectural distortion. Tomosynthesis is performed. According to the principles described, what is the primary value of tomosynthesis in this context?
+   - **A.** To determine whether the finding contains calcifications not visible on 2D
+   - **B.** To distinguish a cystic from a solid lesion
+   - **C.** To distinguish summation artefact from a genuine mass
+   - **D.** To evaluate the full extent of disease prior to surgical planning
+   - **E.** To assess axillary lymph node status
 
 ## Normal Anatomy and Variants That Mimic Disease
 
@@ -137,26 +152,26 @@ For breast implants, remember that standard two-view mammography may be suppleme
 
 ### Check your understanding
 
-1. A 58-year-old woman is recalled from screening with a one-view focal asymmetry on the MLO. The finding disperses on spot compression, has no correlate on the CC view, and targeted ultrasound is negative. What is the most appropriate management?
-   - **A.** Score M4 and proceed to stereotactic biopsy
-   - **B.** Score M3 and refer to MDT for discussion of MRI
-   - **C.** Score M2 as findings are consistent with summation artefact
-   - **D.** Score M5 and arrange urgent surgical referral
-   - **E.** Repeat mammography in six months before making a decision
+1. A 58-year-old woman is recalled from screening with a one-view focal asymmetry on the MLO projection. Spot compression views disperse the finding, there is no correlate on the CC view, and targeted ultrasound is negative. What is the most appropriate mammographic score and management?
+   - **A.** M1 — routine recall in three years
+   - **B.** M2 — return to routine screening
+   - **C.** M3 — discuss at MDT before any further action
+   - **D.** M3 — perform MRI to exclude an occult lesion
+   - **E.** M4 — proceed to stereotactic biopsy
 
-2. An intramammary lymph node is identified in the upper outer quadrant of a 55-year-old woman at screening. Which single feature is most reassuring of benignity?
-   - **A.** Node diameter of 15 mm
-   - **B.** Uniform cortical thickness of 4 mm
-   - **C.** Preserved central echogenic fatty hilum on ultrasound
-   - **D.** Peripheral vascularity on colour Doppler
-   - **E.** Rounded rather than reniform shape
+2. On mammography, an upper outer quadrant density displays a reniform shape with a central lucent fatty hilum and measures 11 mm. Ultrasound confirms a thin cortex with a preserved echogenic hilum. What is the most appropriate assessment?
+   - **A.** U2/M2 — no further action required beyond routine recall
+   - **B.** U3/M3 — targeted core biopsy to exclude malignancy
+   - **C.** U3/M3 — short-interval follow-up ultrasound in six months
+   - **D.** U4/M4 — MDT discussion and proceed to biopsy
+   - **E.** U2/M2 — excision is recommended because size exceeds 10 mm
 
-3. A 62-year-old woman has bilateral medial parasternal densities on screening mammography that are stable on comparison with images from three and six years previously. The densities are isodense with muscle and situated anteriorly. What is the most likely explanation?
-   - **A.** Bilateral synchronous ductal carcinoma in situ
-   - **B.** Summation artefact from overlapping fibroglandular tissue
-   - **C.** Sternalis muscle — a recognised anatomical variant
-   - **D.** Bilateral accessory breast tissue along the milk line
-   - **E.** Pectoralis major asymmetry requiring further assessment
+3. A patient with a known breast implant is referred for ultrasound assessment after reporting breast shape change. The ultrasound shows a highly echogenic region with dense posterior acoustic shadowing that obscures deeper structures. Which sign does this describe, and what does it indicate?
+   - **A.** The linguine sign, indicating intracapsular rupture
+   - **B.** The snowstorm artefact, indicating extracapsular silicone
+   - **C.** The snowstorm artefact, indicating intracapsular rupture
+   - **D.** The linguine sign, indicating extracapsular silicone
+   - **E.** Posterior acoustic enhancement, indicating gel bleed confined within the fibrous capsule
 
 ## Technical and Interpretive Pitfalls
 
@@ -174,11 +189,26 @@ These are sources of avoidable recalls and errors in both directions.
 
 ### Check your understanding
 
-1. Talcum powder applied to the skin can produce fine cutaneous densities that closely mimic microcalcifications on mammography.  *(True / False)*
+1. A screening mammogram shows multiple tiny dense foci clustered in the axillary region of the upper breast, raising concern for calcifications. What is the most appropriate immediate action?
+   - **A.** Recall the patient for magnification views of the calcifications
+   - **B.** Request the radiographer to clean the skin and re-image
+   - **C.** Refer directly to MDT given the suspicious calcification cluster
+   - **D.** Use tomosynthesis to characterise the calcification morphology
+   - **E.** Compare with prior mammograms and discharge if stable
 
-2. On digital breast tomosynthesis, a genuine mass will disappear on adjacent reconstructed planes, whereas summation artefact will persist across multiple slices.  *(True / False)*
+2. A radiographer presents a batch of screening mammograms for reporting. On several MLO views, the pectoral muscle is not adequately demonstrated. According to the principles described in this section, what should happen before interpretation of image content proceeds?
+   - **A.** The mammograms should be reported as normal given no visible lesion is seen
+   - **B.** Image quality should be assessed first, as positioning artefacts can obscure posterior lesions
+   - **C.** Spot compression views should be performed to compensate for poor positioning
+   - **D.** The films should be sent directly to MDT to flag the quality issue
+   - **E.** Tomosynthesis should be substituted for all inadequately positioned views
 
-3. Assessment of image quality — including pectoral muscle inclusion and nipple position — should occur before interpreting mammographic content.  *(True / False)*
+3. During reporting, a mammogram shows a sharp-edged geometric density overlying the breast. What is the most appropriate course of action?
+   - **A.** Recall the patient for ultrasound to characterise the dense lesion
+   - **B.** Discuss at MDT as a possible architectural distortion
+   - **C.** Recognise it as a likely external artefact and resolve before MDT referral
+   - **D.** Apply tomosynthesis to determine whether the density has internal structure
+   - **E.** Compare with priors and recall only if new
 
 ## Cysts and Duct-Related Benign Findings
 
@@ -212,26 +242,26 @@ A central solitary papilloma — the most common cause of unilateral nipple disc
 
 ### Check your understanding
 
-1. On targeted ultrasound, a 25 mm mass shows anechoic content, an imperceptible wall, posterior acoustic enhancement, and no internal vascularity. What is the correct management?
-   - **A.** Core biopsy to exclude intracystic carcinoma
-   - **B.** MRI to characterise the wall in greater detail
-   - **C.** Score U2; no biopsy required
-   - **D.** Aspirate routinely and send all fluid for cytology
-   - **E.** Score U3 and arrange short-interval follow-up at six months
+1. A 48-year-old woman attends for assessment of a palpable lump. Ultrasound shows an oval mass with anechoic content, an imperceptible wall, posterior acoustic enhancement, and no internal vascularity. What is the most appropriate next step?
+   - **A.** Core needle biopsy to confirm the diagnosis
+   - **B.** Aspiration and send fluid for routine cytology
+   - **C.** Assign U2 and discharge with no biopsy required
+   - **D.** Short-term six-month follow-up ultrasound
+   - **E.** MRI for further characterisation
 
-2. A cluster of grouped amorphous calcifications is identified at screening mammography. Targeted ultrasound demonstrates a concordant cluster of tiny anechoic foci with thin septations and no internal vascularity. Which statement best describes the correct interpretation?
-   - **A.** The cluster of microcysts is pathognomonic of low-grade DCIS and stereotactic biopsy is mandatory
-   - **B.** The finding is certainly benign and no further action is required in any circumstances
-   - **C.** The microcyst cluster may concordantly explain the calcifications, but many UK units proceed to stereotactic biopsy given the DCIS overlap
-   - **D.** Ultrasound findings of microcysts completely exclude DCIS and the patient should be discharged
-   - **E.** An MRI should be performed before any decision about biopsy is made
+2. On mammography, grouped amorphous calcifications are identified. Targeted ultrasound shows a cluster of tiny anechoic foci with thin septations and no internal vascularity, concordant with the mammographic finding. Which statement best reflects appropriate management in most UK units?
+   - **A.** Discharge immediately as this is a definitive B2 diagnosis requiring no further action
+   - **B.** Proceed to stereotactic biopsy because amorphous grouped calcifications have a significant DCIS overlap
+   - **C.** Aspirate the microcysts and send fluid for cytology
+   - **D.** Perform MRI before any tissue sampling
+   - **E.** Assign U2 and discharge without MDT discussion
 
-3. A woman presents with unilateral blood-stained nipple discharge. Ultrasound shows an intraluminal soft tissue mass within a dilated retroareolar duct with a vascular stalk on Doppler. What is the most appropriate next step?
-   - **A.** Discharge with reassurance as papillomas are always benign
-   - **B.** Perform galactography alone as this is diagnostic
-   - **C.** Arrange tissue diagnosis given the non-negligible upgrade rate, particularly if atypia is present
-   - **D.** Score U2 and arrange routine follow-up mammography
-   - **E.** Refer directly to surgery for duct excision without prior tissue diagnosis
+3. A 55-year-old woman presents with unilateral blood-stained nipple discharge. Ultrasound demonstrates an intraluminal soft tissue mass with a vascular stalk within a dilated duct. What is the most appropriate management?
+   - **A.** Reassure and discharge as this is typical duct ectasia
+   - **B.** Arrange tissue diagnosis given the non-negligible upgrade rate associated with intraductal papillomas
+   - **C.** Aspirate the duct and send fluid for cytology only
+   - **D.** Repeat ultrasound in six months as first-line management
+   - **E.** MRI is mandatory before any further investigation
 
 ## Fibroepithelial and Stromal Benign Masses
 
@@ -268,26 +298,26 @@ Both are benign proliferative processes that can cause architectural distortion 
 
 ### Check your understanding
 
-1. A 38-year-old woman presents with a smooth, mobile, 20 mm breast lump. Mammography shows an oval circumscribed isodense mass. Ultrasound shows an oval, parallel orientation, circumscribed, homogeneously hypoechoic mass with no internal vascularity. What is the most appropriate management?
-   - **A.** Proceed to core biopsy as a mass of this size always requires histology
-   - **B.** Perform MRI to exclude phyllodes tumour
-   - **C.** Score M2/U2 and discharge with a classic fibroadenoma diagnosis
-   - **D.** Arrange short-interval ultrasound at three months before discharge
-   - **E.** Refer to breast surgery for vacuum-assisted excision
+1. A 28-year-old woman is referred with a smooth, mobile lump. Ultrasound shows an oval, parallel-orientation, circumscribed, homogeneously hypoechoic mass with no internal vascularity. Mammography shows a well-circumscribed, equal-density oval mass with coarse 'popcorn' calcifications. What is the most appropriate management?
+   - **A.** Core biopsy to exclude phyllodes tumour
+   - **B.** Discharge with M2/U2 — biopsy is not required
+   - **C.** Excision biopsy because popcorn calcifications require histological confirmation
+   - **D.** Vacuum-assisted biopsy of the calcifications under stereotactic guidance
+   - **E.** Repeat imaging in six months to assess for interval growth
 
-2. A well-circumscribed mammographic mass contains both fat density and fibroglandular density components with a thin pseudo-capsule, producing a 'breast within a breast' appearance. What is the most likely diagnosis?
-   - **A.** Lipoma
-   - **B.** Hamartoma (fibroadenolipoma)
-   - **C.** Phyllodes tumour
-   - **D.** Pseudoangiomatous stromal hyperplasia
-   - **E.** Galactocoele
+2. A 55-year-old woman attends her routine screening mammogram. A well-circumscribed mass is identified containing both fat density and fibroglandular tissue, with a thin pseudo-capsule. Ultrasound confirms a heterogeneous, compressible, well-circumscribed mass. What is the most appropriate imaging classification and management?
+   - **A.** Score U3/M3 and recommend core biopsy to exclude liposarcoma
+   - **B.** Score U2/M2 and discharge — classic 'breast within a breast' appearance requires no biopsy
+   - **C.** Score U2/M2 but biopsy is still required in women over 50
+   - **D.** Score U4 because the heterogeneous ultrasound appearance is suspicious
+   - **E.** Refer for MRI to characterise the fatty component before deciding management
 
-3. A 45-year-old woman has a core biopsy returning B2 (sclerosing adenosis) for a hypoechoic mass with posterior acoustic shadowing. Imaging suggested possible malignancy. What is the most critical next step?
-   - **A.** Accept the B2 result and discharge immediately without further review
-   - **B.** Repeat the core biopsy using a larger gauge needle
-   - **C.** Refer directly for surgical excision without MDT input
-   - **D.** Assess imaging–pathology concordance at MDT before determining management
-   - **E.** Arrange MRI to exclude concurrent malignancy before MDT
+3. Core biopsy of a partially obscured, hypoechoic, avascular breast mass returns a result of B2 PASH. Six months later the mass has enlarged on ultrasound. Which of the following represents the most appropriate next step?
+   - **A.** Discharge, as B2 is always concordant regardless of interval change
+   - **B.** Repeat biopsy or consider excision, as enlargement of a PASH lesion should not be falsely reassured by an initial B2
+   - **C.** MRI to confirm the diagnosis before any further intervention
+   - **D.** Reassure and repeat ultrasound in two years as PASH is always benign
+   - **E.** Fine-needle aspiration cytology to reclassify the lesion
 
 ## Fat Necrosis and Post-Traumatic Change
 
@@ -303,11 +333,26 @@ Fat necrosis results from saponification and liquefaction of adipose tissue foll
 
 ### Check your understanding
 
-1. An oil cyst with a thin eggshell rim calcification on mammography is a diagnostic feature of established fat necrosis and does not require biopsy.  *(True / False)*
+1. A patient presents for routine mammography 18 months after wide local excision. Imaging shows a radiolucent mass with a thin curvilinear rim of calcification at the surgical site. What is the most appropriate next step?
+   - **A.** Urgent recall for ultrasound-guided core biopsy
+   - **B.** Short-interval follow-up mammography in three months
+   - **C.** Classify as benign (M2) and return to routine screening
+   - **D.** MRI to assess rim thickness and enhancement pattern
+   - **E.** Multidisciplinary team referral for surgical re-excision
 
-2. Early fat necrosis — within weeks to months of injury — always has a characteristic oil cyst appearance on mammography, making it straightforward to distinguish from carcinoma.  *(True / False)*
+2. On MRI, fat necrosis at the surgical site demonstrates a thick, irregular, nodular enhancing rim around a central fat-signal area. What is the most appropriate action?
+   - **A.** Classify as benign; MRI enhancement alone is non-specific in a post-surgical breast
+   - **B.** Return to routine annual surveillance as rim enhancement is expected after surgery
+   - **C.** Recommend biopsy because the irregular, thickened, nodular rim may not represent benign fat necrosis
+   - **D.** Perform repeat MRI in six months to assess for interval change before deciding on biopsy
+   - **E.** Classify as benign provided there is no associated axillary lymphadenopathy
 
-3. On MRI, fat necrosis demonstrating a thin, smooth enhancing rim around a central fat signal is a benign appearance that does not require biopsy.  *(True / False)*
+3. A woman attends for assessment three weeks after a road-traffic accident involving chest trauma. Mammography shows a new focal asymmetry in the area of impact with no fat-density features. What is the most important consideration?
+   - **A.** The traumatic history excludes malignancy; discharge with reassurance
+   - **B.** Early fat necrosis can mimic carcinoma and biopsy should be performed if the imaging appearance is suspicious
+   - **C.** Architectural distortion in a post-traumatic breast is always due to fat necrosis and does not require biopsy
+   - **D.** The finding should be classified M2 as fat necrosis typically presents as a focal asymmetry
+   - **E.** MRI is the only reliable method to distinguish early fat necrosis from carcinoma in this setting
 
 ## Benign Calcifications: Morphology, Distribution, and Reasoning
 
@@ -339,26 +384,26 @@ The discipline of always considering the **three-dimensional ductal map** is imp
 
 ### Check your understanding
 
-1. A screening mammogram shows calcifications that appear smudgy and amorphous on the craniocaudal view. Which additional view would best confirm a diagnosis of milk of calcium?
-   - **A.** Mediolateral oblique with spot magnification
-   - **B.** True lateral (90°) magnification view
-   - **C.** Craniocaudal rolled-lateral view
-   - **D.** Tangential view with skin marker
-   - **E.** Digital breast tomosynthesis reconstruction
+1. A 58-year-old woman has calcifications seen on the CC view that appear smudgy and amorphous. You suspect milk of calcium. Which single action is most important to confirm this diagnosis?
+   - **A.** Perform a tangential view with a skin marker to exclude dermal location
+   - **B.** Obtain a 90° lateral magnification view to demonstrate layering of calcifications
+   - **C.** Proceed directly to stereotactic biopsy as the morphology is indeterminate
+   - **D.** Request targeted ultrasound to identify concordant microcysts
+   - **E.** Obtain tomosynthesis to map the three-dimensional ductal distribution
 
-2. Bilateral retroareolar rod-like branching calcifications are identified in a 65-year-old woman. They are coarse, follow the large central ducts, and are stable compared with mammograms from five years previously. What is the most appropriate management?
-   - **A.** Score M4 and proceed to stereotactic biopsy for possible DCIS
-   - **B.** Score M5 and arrange urgent surgical referral
-   - **C.** Score M2; these are secretory (plasma cell mastitis) calcifications — no biopsy required
-   - **D.** Score M3 and perform targeted ultrasound to exclude malignancy
-   - **E.** Arrange MRI to assess ductal extent before deciding on biopsy
+2. A 65-year-old woman with a previous history of breast irradiation has coarse, irregular calcifications in the treated area. On what basis should these be classified as benign?
+   - **A.** They follow a tram-track pattern along a sinuous vascular structure
+   - **B.** They are grouped, punctate calcifications that are concordant with microcysts on ultrasound
+   - **C.** They are rod-like, branching calcifications in a retroareolar bilateral distribution
+   - **D.** They represent dystrophic calcifications in the correct clinical context of prior irradiation
+   - **E.** They have a lucent centre confirming an oil cyst or fat necrosis aetiology
 
-3. Fine pleomorphic calcifications are identified in a segmental distribution in the upper outer quadrant of one breast. Targeted ultrasound is negative. What is the most appropriate next step?
-   - **A.** Discharge as the negative ultrasound confirms benignity
-   - **B.** Short-interval mammographic follow-up at six months
-   - **C.** Stereotactic biopsy as a negative ultrasound does not exclude DCIS
-   - **D.** MRI as the only appropriate modality for calcification characterisation
-   - **E.** Score M2 on the basis of stable bilateral distribution
+3. A mammogram shows fine pleomorphic calcifications distributed in a segmental pattern within one breast. According to the reasoning framework described, what does a segmental distribution imply and what is the recommended next step?
+   - **A.** A systemic or hormonal process; short-interval follow-up is appropriate
+   - **B.** Involvement of large central ducts bilaterally; this is consistent with secretory calcifications requiring no further action
+   - **C.** A single duct or ductal segment; stereotactic biopsy is required
+   - **D.** Calcification within an involuting fibroadenoma; no biopsy is needed as the appearance is pathognomonic
+   - **E.** Dermal calcification; a tangential view with skin marker should be obtained to confirm
 
 ## Lymph Nodes
 
@@ -376,17 +421,55 @@ Coarse calcifications in lymph nodes suggest granulomatous disease (sarcoidosis,
 
 ### Check your understanding
 
-1. Reactive axillary lymphadenopathy following ipsilateral COVID-19 vaccination may be present for up to 12 weeks and should be correlated with vaccination history.  *(True / False)*
+1. A 45-year-old woman attends routine screening mammography. Ultrasound of the axilla shows a lymph node with a 2 mm uniform cortex, preserved echogenic fatty hilum, and hilar vascularity. Which of the following best describes this finding?
+   - **A.** Suspicious — the cortex exceeds the normal threshold and biopsy is warranted
+   - **B.** Benign — the node demonstrates all the characteristic features of a normal lymph node
+   - **C.** Indeterminate — peripheral vascularity requires further assessment
+   - **D.** Suspicious — loss of reniform shape indicates malignant infiltration
+   - **E.** Benign — multiplicity of nodes is the most important feature confirming benignity
 
-2. A cortical thickness greater than 3 mm in an axillary lymph node is always a benign reactive change and does not warrant further assessment.  *(True / False)*
+2. A 52-year-old woman is recalled following screening mammography showing new bilateral axillary lymphadenopathy. On ultrasound, the nodes show uniform cortical thickening with preserved hila and hilar hyperaemia. She received a COVID-19 vaccination in her left arm six weeks ago. What is the most appropriate next step?
+   - **A.** Proceed immediately to bilateral axillary node biopsy to exclude lymphoma
+   - **B.** Arrange urgent MRI of both axillae to characterise the nodes further
+   - **C.** Apply clinical correlation; reactive adenopathy related to recent vaccination can persist for up to 12 weeks
+   - **D.** Discharge the patient as bilateral adenopathy is always benign
+   - **E.** Repeat mammography in four weeks regardless of vaccination history
 
-3. Coarse calcifications within axillary lymph nodes are suspicious for metastatic disease and should always be biopsied.  *(True / False)*
+3. During ultrasound of a woman with a known ipsilateral breast cancer, a single axillary lymph node is identified with a focal eccentric cortical mass, loss of echogenic hilum, and peripheral vascularity. What is the most appropriate management?
+   - **A.** Observe with six-month follow-up ultrasound as a single node is unlikely to be malignant
+   - **B.** Document the finding but proceed directly to surgery without sampling
+   - **C.** Perform biopsy of the node, as these features are suspicious and sampling will affect staging and management
+   - **D.** Discharge to the GP as reactive nodes are common in the presence of breast infection
+   - **E.** Request mammographic assessment only, as ultrasound features are non-specific
 
 ## Skin and Subcutaneous Benign Lesions
 
 Sebaceous cysts, epidermal inclusion cysts, dermatofibromas, and neurofibromas present as subdermal masses. Ultrasound shows a superficial, well-circumscribed, avascular lesion with variable internal echogenicity; clinical examination confirms the dermal origin. A skin marker and tangential view confirm mammographic correlation. These lesions do not require biopsy if clinically and sonographically characteristic.
 
 ---
+
+### Check your understanding
+
+1. A patient attends for assessment of a palpable lump. Ultrasound demonstrates a superficial, well-circumscribed, avascular mass with variable internal echogenicity, and clinical examination confirms a dermal origin. Which additional mammographic technique is most appropriate to confirm the finding is arising from the skin?
+   - **A.** Magnification view
+   - **B.** Tangential view with a skin marker
+   - **C.** Spot compression view
+   - **D.** Rolled lateral view
+   - **E.** Extended field-of-view ultrasound
+
+2. A breast specialist radiographer identifies a superficial, well-circumscribed, avascular lesion on ultrasound with variable internal echogenicity, consistent with a sebaceous cyst. Clinical examination confirms its dermal origin. What is the recommended management?
+   - **A.** Routine core biopsy to exclude malignancy
+   - **B.** Fine-needle aspiration for cytology
+   - **C.** No biopsy if the lesion is clinically and sonographically characteristic
+   - **D.** MRI for further characterisation before any decision
+   - **E.** Excision biopsy given the variable internal echogenicity
+
+3. Which of the following lesion types is correctly classified as presenting as a subdermal mass on breast imaging?
+   - **A.** Fibroadenoma
+   - **B.** Radial scar
+   - **C.** Neurofibroma
+   - **D.** Phyllodes tumour
+   - **E.** Papilloma
 
 ## Infection and Inflammatory Conditions
 
@@ -402,19 +485,26 @@ Sebaceous cysts, epidermal inclusion cysts, dermatofibromas, and neurofibromas p
 
 ### Check your understanding
 
-1. A 52-year-old non-lactating woman presents with a two-week history of a red, swollen breast treated with antibiotics by her GP with no improvement. She has no fever. What is the most important next step?
-   - **A.** Continue antibiotics for a further two weeks before re-imaging
-   - **B.** Arrange ultrasound-guided aspiration and assume mastitis has resolved
-   - **C.** Urgently reassess clinically and with imaging; consider core biopsy to exclude inflammatory carcinoma
-   - **D.** Reassure that non-response to antibiotics is common in mastitis and discharge
-   - **E.** Arrange MRI as first-line imaging as mammography is contraindicated in infection
+1. A 52-year-old non-lactating woman presents with a two-week history of a red, swollen breast. There is diffuse skin thickening and peau d'orange on examination but no focal drainable collection on ultrasound. She has received one week of antibiotics with no improvement. What is the most appropriate next step?
+   - **A.** Extend the antibiotic course for a further two weeks and reassess in clinic
+   - **B.** Perform ultrasound-guided aspiration of the periareolar region
+   - **C.** Arrange urgent reassessment and core biopsy of the thickened skin or underlying tissue
+   - **D.** Request MRI to characterise the extent of infection before any biopsy
+   - **E.** Refer for periareolar fistula excision under general anaesthesia
 
-2. A 44-year-old woman with no history of pregnancy presents with a recurrent periareolar abscess. She is a smoker. Which diagnosis is most consistent with this clinical picture?
-   - **A.** Lactational mastitis with secondary abscess formation
-   - **B.** Idiopathic granulomatous mastitis
-   - **C.** Periareolar (Zuska's) abscess associated with squamous metaplasia of the terminal ducts
-   - **D.** Inflammatory carcinoma presenting as a periareolar mass
-   - **E.** Diabetic mastopathy with superimposed infection
+2. A 38-year-old woman who smokes presents with a recurrent periareolar abscess and a discharging sinus. Which statement best describes the underlying pathology and management of this condition?
+   - **A.** It is caused by haematogenous spread of Staphylococcus aureus and resolves with prolonged antibiotics alone
+   - **B.** It is associated with squamous metaplasia of the terminal ducts, tends to recur, and requires specialist breast surgery input
+   - **C.** It is an autoimmune condition requiring steroid therapy as first-line management
+   - **D.** It is a diagnosis of exclusion that closely mimics malignancy and requires core biopsy to confirm
+   - **E.** It is exclusively seen in lactating women and is managed with ultrasound-guided aspiration
+
+3. A core biopsy of an irregular hypoechoic breast mass with associated sinus tracts in a non-lactating woman returns non-caseating granulomatous inflammation with no evidence of malignancy or organisms. What is the most likely diagnosis and its principal importance?
+   - **A.** Lactational mastitis; managed with antibiotics and ultrasound-guided aspiration
+   - **B.** Periareolar (Zuska's) abscess; managed with surgical fistula excision
+   - **C.** Idiopathic granulomatous mastitis; core biopsy is required to confirm the diagnosis and exclude carcinoma
+   - **D.** Inflammatory carcinoma; requires urgent chemotherapy referral
+   - **E.** Tuberculous mastitis; requires anti-tuberculous chemotherapy
 
 ## Special Situations
 
@@ -436,19 +526,26 @@ Male breast carcinoma is rare but must not be missed. **A discrete, eccentric, o
 
 ### Check your understanding
 
-1. A 55-year-old man is referred with a firm subareolar lump. Mammography shows a fan-shaped retroareolar density tapering posteriorly. Ultrasound shows subareolar hypoechoic tissue radiating posteriorly from the nipple with no discrete mass. What is the most likely diagnosis and management?
-   - **A.** Male breast carcinoma; biopsy required urgently
-   - **B.** Gynaecomastia; typical imaging features support a benign diagnosis
-   - **C.** Phyllodes tumour; excision recommended
-   - **D.** Lymphoma; staging CT required
-   - **E.** Lipoma; no further action required
+1. A woman who stopped breastfeeding three months ago presents with a palpable breast lump. Ultrasound shows a complex cystic mass with a fat-fluid level. Aspiration yields milky fluid. What is the most appropriate next step in management?
+   - **A.** Core biopsy to exclude malignancy
+   - **B.** Surgical excision
+   - **C.** Conservative management
+   - **D.** MRI for further characterisation
+   - **E.** Repeat aspiration in six weeks
 
-2. A 48-year-old woman with long-standing type 1 diabetes has a hard, bilateral palpable mass. Ultrasound shows marked posterior acoustic shadowing from ill-defined hypoechoic areas bilaterally. Core biopsy returns B2 (lymphocytic lobulitis and stromal fibrosis). What is the most appropriate subsequent management?
-   - **A.** Surgical excision of both areas to confirm benignity
-   - **B.** MRI to exclude occult malignancy before discharge
-   - **C.** Imaging–pathology concordance confirmed at MDT; avoid repeated surgical excision as recurrence is typical
-   - **D.** Repeat core biopsy from both sides as B2 is discordant with the imaging
-   - **E.** Discharge immediately without MDT discussion as B2 is reassuring
+2. A woman with long-standing type 1 diabetes presents with a hard, ill-defined, hypoechoic breast mass showing marked posterior acoustic shadowing on ultrasound. Core biopsy shows lymphocytic lobulitis and stromal fibrosis (B2). What is the recommended approach to prevent unnecessary operations?
+   - **A.** Surgical excision to ensure complete removal
+   - **B.** Repeat core biopsy at six-monthly intervals
+   - **C.** Imaging–pathology concordance and MDT discussion
+   - **D.** MRI-guided vacuum-assisted biopsy
+   - **E.** Referral for mastectomy given the risk of recurrence
+
+3. A 58-year-old man is referred with a unilateral breast mass. Mammography shows a discrete, eccentric, peripheral density with associated calcifications. What is the most appropriate next step?
+   - **A.** Reassure that this is typical gynaecomastia and discharge
+   - **B.** Repeat mammography in 12 months
+   - **C.** Ultrasound alone to confirm gynaecomastia pattern
+   - **D.** Biopsy, as this appearance is not consistent with gynaecomastia
+   - **E.** MRI to differentiate gynaecomastia from fibroadenoma
 
 ## Non-Mass Asymmetries
 
@@ -475,11 +572,26 @@ Management: M2 if classic summation with negative ultrasound and concordant tomo
 
 ### Check your understanding
 
-1. A new or developing focal asymmetry that persists on tomosynthesis and has an associated palpable correlate should prompt concern even if it lacks suspicious calcifications.  *(True / False)*
+1. A 54-year-old woman has a focal asymmetry identified on screening mammography. Spot compression views show the density disperses completely, there is no correlate on the orthogonal view, targeted ultrasound is negative, and tomosynthesis is concordant with summation. What is the most appropriate management category?
+   - **A.** M1 — return to routine screening immediately
+   - **B.** M2 — routine recall interval, no further action required
+   - **C.** M3 — short-interval follow-up in 6 months
+   - **D.** M4 — recommend core biopsy
+   - **E.** M5 — recommend urgent surgical referral
 
-2. A focal asymmetry that mirrors the contralateral density distribution, is stable over several years of prior imaging, and is negative on targeted ultrasound should be scored M3.  *(True / False)*
+2. A 48-year-old woman has a focal asymmetry that persists on tomosynthesis and has a palpable correlate (P3). Which single feature from the history is LEAST likely to prompt concern about this asymmetry?
+   - **A.** The density is new compared with prior imaging
+   - **B.** There are suspicious calcifications within the asymmetry
+   - **C.** The asymmetry persists on tomosynthesis
+   - **D.** The asymmetry mirrors the contralateral density distribution
+   - **E.** There is an associated palpable correlate (P3+)
 
-3. Architectural distortion associated with a focal asymmetry is a reassuring feature that supports a benign summation artefact diagnosis.  *(True / False)*
+3. A focal asymmetry is identified that persists on tomosynthesis but has no associated architectural distortion, calcifications, or palpable correlate, and targeted ultrasound is equivocal. What is the most appropriate management category?
+   - **A.** M1
+   - **B.** M2
+   - **C.** M3
+   - **D.** M4
+   - **E.** M5
 
 ## Correlation Across Modalities and with Pathology
 
@@ -497,19 +609,26 @@ Think of multimodality assessment as a logical sequence, not a reflex:
 
 ### Check your understanding
 
-1. Segmental fine pleomorphic calcifications are identified on mammography. Targeted ultrasound is negative. Which is the most appropriate next step?
-   - **A.** Discharge as negative ultrasound excludes significant pathology
-   - **B.** MRI to guide biopsy planning
-   - **C.** Stereotactic (mammographic) guided biopsy
-   - **D.** Short-interval mammographic follow-up at six months
-   - **E.** Score M2 as the calcifications are not associated with a mass
+1. A woman is recalled following screening mammography with segmental fine pleomorphic calcifications assigned M4. Targeted ultrasound of the area is negative. What is the most appropriate next step?
+   - **A.** Discharge, as a negative ultrasound effectively excludes significant pathology
+   - **B.** Return to routine screening in three years
+   - **C.** Proceed to stereotactic (mammographic-guided) biopsy
+   - **D.** Add MRI and biopsy only if enhancement is seen
+   - **E.** Repeat mammography in six months to assess for change
 
-2. A biopsy is performed for an MRI-detected lesion that has no mammographic or ultrasound correlate. What is the most appropriate guidance modality for this biopsy?
-   - **A.** Ultrasound guidance, as it is the most widely available
-   - **B.** Stereotactic guidance using mammographic localisation
-   - **C.** MRI guidance, as the lesion is only visible on MRI
-   - **D.** Tomosynthesis guidance, as it provides three-dimensional information
-   - **E.** Clinical palpation guidance if the lesion is superficial
+2. At MDT, a stereotactic biopsy of microcalcifications returns a B3 result showing atypical ductal hyperplasia. The reporting radiologist considers the radiology–pathology concordance appropriate. What is the correct management approach?
+   - **A.** Discharge with routine screening, as B3 is a benign category
+   - **B.** Repeat the core biopsy immediately without MDT input
+   - **C.** Refer directly for surgical excision without MDT discussion
+   - **D.** Discuss at MDT, as management options such as vacuum-assisted excision versus surveillance vary by lesion type and unit policy
+   - **E.** Perform MRI and discharge if no enhancement is identified
+
+3. A recalled patient has a circumscribed mammographic mass assigned M3. Targeted ultrasound demonstrates a simple cyst at the corresponding site. What is the most appropriate course of action?
+   - **A.** Proceed to MRI to characterise the lesion further before deciding management
+   - **B.** Perform ultrasound-guided core biopsy of the cyst
+   - **C.** Upgrade confidence to M2/U2 and discharge the patient
+   - **D.** Assign U4 and refer for surgical excision
+   - **E.** Return the patient for interval mammography in six months
 
 ## When to Biopsy a "Probably Benign" Finding
 
@@ -537,19 +656,26 @@ Acknowledge that practice varies. Some units have lower thresholds for biopsy (p
 
 ### Check your understanding
 
-1. A 43-year-old woman has a clinically palpable mass scored P3. Mammography and ultrasound both show a circumscribed oval mass scored M2/U2 with typical fibroadenoma features. What is the most appropriate management?
-   - **A.** Discharge with M2/U2 scores as imaging is reassuring
-   - **B.** Biopsy, as clinical findings are discordant with imaging and P3 should not be dismissed by M2/U2
-   - **C.** Arrange six-month surveillance ultrasound before deciding on biopsy
-   - **D.** Score M2/U2 and add MRI before any further decision
-   - **E.** Treat as a confirmed fibroadenoma and refer for vacuum-assisted excision without biopsy
+1. A 45-year-old woman attends for assessment of a new 15 mm circumscribed hypoechoic solid mass detected on screening mammography. Ultrasound appearances are smooth and oval with no internal vascularity. Mammography is M3. What is the most appropriate next step according to the principles outlined?
+   - **A.** Return to routine screening as the ultrasound is reassuring
+   - **B.** Six-month interval ultrasound surveillance
+   - **C.** Biopsy, because the mass is new in a woman over 40
+   - **D.** Biopsy only if the mass enlarges at six-month follow-up
+   - **E.** Discharge with clinical review in 12 months
 
-2. Which of the following findings can be confidently managed without biopsy according to the principles described in this chapter?
-   - **A.** New circumscribed 18 mm mass in a 52-year-old woman
-   - **B.** Grouped amorphous calcifications with no ultrasound correlate
-   - **C.** Architectural distortion with no history of prior surgery or trauma
-   - **D.** Intramammary lymph node with a preserved fatty hilum measuring 11 mm
-   - **E.** Complex cystic-solid mass with an internal vascular solid component
+2. A 38-year-old woman with no palpable abnormality has a mammographically detected mass with classic fibroadenoma morphology confirmed on ultrasound (M2/U2). What is the most appropriate management according to the decision framework described?
+   - **A.** Biopsy is mandatory because the patient is under 40
+   - **B.** Biopsy is mandatory because the finding is mammographically visible
+   - **C.** Biopsy is not required provided the imaging is classic for fibroadenoma
+   - **D.** Six-month bilateral mammographic follow-up before a decision is made
+   - **E.** MRI is required to exclude phyllodes tumour before avoiding biopsy
+
+3. After core biopsy of a grouped cluster of amorphous calcifications, histology returns as columnar cell change without atypia (B2). The mammographic calcifications are still visible and appear identical to the pre-biopsy images. What is the most appropriate course of action?
+   - **A.** Discharge to routine screening as a B2 result is benign
+   - **B.** Perform further biopsy because imaging–pathology discordance is present
+   - **C.** Repeat biopsy only if the calcifications enlarge at 12-month mammography
+   - **D.** Refer for surgical excision regardless, as amorphous calcifications always require removal
+   - **E.** Accept the B2 result and arrange six-month mammographic surveillance without further sampling
 
 ## A Systematic Approach to Reporting Benign Findings
 
@@ -568,9 +694,11 @@ Avoid vague language such as "probably benign — suggest clinical review." Make
 
 ### Check your understanding
 
-1. A report stating 'probably benign — suggest clinical review' without a specific management recommendation is an acceptable standard for reporting a benign breast finding.  *(True / False)*
+1. A systematic benign report should include the modalities used and the scores assigned alongside the most likely diagnosis.  *(True / False)*
 
-2. A complete report of a benign finding should include a comparison with prior imaging and a conclusion drawn from stability or interval change.  *(True / False)*
+2. Vague language such as 'probably benign — suggest clinical review' is an acceptable way to conclude a benign report when the reporter is uncertain.  *(True / False)*
+
+3. Comparison with prior imaging and the conclusion drawn from stability or change is a required element of a systematic benign report.  *(True / False)*
 
 ## Key Take-Home Messages
 
@@ -583,3 +711,27 @@ Avoid vague language such as "probably benign — suggest clinical review." Make
 - **Avoid dogmatism:** some reassuring-looking lesions need biopsy; some worrying patterns are benign. When uncertain, document your reasoning, correlate across modalities, and discuss at MDT.
 
 Mastering normal variants and benign appearances — and the reasoning behind them — is how you protect screening performance, reduce unnecessary intervention, and still find the cancers that hide among everyday findings.
+
+### Check your understanding
+
+1. A radiographer reviewing a mammographic finding notes it has been stable for six years on prior imaging. According to the key principles outlined, what is the most appropriate conclusion to draw from this stability?
+   - **A.** Stability over years is strong evidence of benignity and no further action is required in any circumstance
+   - **B.** Stability over years is strong evidence of benignity, but interval change would demand explanation
+   - **C.** Stability is only meaningful if the lesion has been assessed with tomosynthesis at each prior attendance
+   - **D.** Six years of stability is insufficient; ten years is the accepted threshold for benignity
+   - **E.** Prior imaging is useful but less powerful than margin assessment on the current mammogram
+
+2. A radiographer is uncertain whether a lesion requires biopsy — its morphology appears reassuring but is not entirely typical. What does this section advise as the most appropriate course of action?
+   - **A.** Reassign the case to a consultant radiologist, as uncertainty is outside the advanced practitioner's scope
+   - **B.** Recall the patient in six months for short-interval follow-up without further documentation
+   - **C.** Document reasoning, correlate across modalities, and discuss at the MDT
+   - **D.** Apply the five-point system and discharge if the lesion scores R2 or below
+   - **E.** Perform biopsy on all lesions where there is any degree of uncertainty to avoid missing cancer
+
+3. When characterising a mammographic lesion, which combination of features does this section identify as most discriminating?
+   - **A.** Size, patient age, and family history
+   - **B.** Margins, internal architecture, and distribution
+   - **C.** Lesion size, density, and prior biopsy history
+   - **D.** Modality used, radiographer experience, and report wording
+   - **E.** Tomosynthesis appearance, BI-RADS category, and size
+

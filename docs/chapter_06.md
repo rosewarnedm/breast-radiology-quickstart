@@ -19,11 +19,11 @@ This chapter works through the major suspicious categories, explains the differe
 
 ### Check your understanding
 
-1. Spiculation on mammography is produced by malignant cells invading the stroma and triggering a desmoplastic reaction that pulls on Cooper's ligaments.  *(True / False)*
+1. Suspicious mammographic signs arise from biological processes including desmoplastic stromal reaction, ductal calcification of necrotic debris, and tumour tethering of Cooper's ligaments.  *(True / False)*
 
-2. Fine, irregular, angular calcifications in ducts arise from necrotic debris within DCIS-involved ducts.  *(True / False)*
+2. The primary aim of recognising suspicious mammographic features is to memorise lists of abnormal appearances.  *(True / False)*
 
-3. Understanding the underlying biology of breast cancer makes suspicious mammographic appearances unpredictable.  *(True / False)*
+3. This chapter integrates mammography with tomosynthesis, ultrasound, and biopsy within both the NHSBSP and symptomatic triple assessment pathways.  *(True / False)*
 
 ## The UK context: where mammography sits in the pathway
 
@@ -62,26 +62,26 @@ In UK symptomatic practice, M3 is not a comfortable resting place — most indet
 
 ### Check your understanding
 
-1. A 58-year-old woman is recalled from NHSBSP screening. At assessment, mammography shows a focal asymmetry that persists on spot compression and DBT, with no satisfactory benign explanation. It is scored M3. What is the most appropriate next step in UK practice?
-   - **A.** Discharge with routine recall in three years
-   - **B.** Short-interval mammographic follow-up in six months
-   - **C.** Proceed to biopsy following MDT discussion
-   - **D.** MRI of the breast as the next investigation
-   - **E.** Reassure the patient as M3 indicates a probably benign finding
+1. A 58-year-old woman attends a symptomatic breast clinic. Mammography shows an indeterminate finding with no confident benign explanation. The MDT discusses her case. According to UK symptomatic practice, what is the most appropriate next step?
+   - **A.** Return to routine screening in three years
+   - **B.** Short-interval follow-up mammogram in six months
+   - **C.** Proceed to biopsy
+   - **D.** MRI for problem-solving before any biopsy decision
+   - **E.** Reassurance and discharge
 
-2. A screening programme is planning its reading protocol. Which statement best reflects NHSBSP double-reading practice?
-   - **A.** Single reading by a consultant radiologist is sufficient for all screening mammograms
-   - **B.** All screening mammograms are double-read, with discordance triggering arbitration
-   - **C.** Double reading is required only for women aged over 65
-   - **D.** Arbitration is only required when both readers agree on recall
-   - **E.** Double reading applies to symptomatic mammograms but not screening mammograms
-
-3. For calcifications with no sonographic correlate identified at a breast assessment clinic, which imaging-guided biopsy method is most appropriate according to the chapter?
+2. A cluster of microcalcifications is identified at assessment with no sonographic correlate. Which image-guided biopsy technique is most appropriate according to the modality roles described?
    - **A.** Ultrasound-guided core biopsy
    - **B.** MRI-guided biopsy
    - **C.** Stereotactic or DBT-guided vacuum-assisted biopsy
-   - **D.** Surgical excision without prior biopsy
-   - **E.** Fine needle aspiration cytology
+   - **D.** Fine-needle aspiration under palpation guidance
+   - **E.** Surgical excision biopsy without prior needle sampling
+
+3. A screening programme radiographer asks whether reviewing prior imaging is required when reading a woman's current screening mammogram. What does the NHSBSP guidance described in this section state?
+   - **A.** Prior imaging should be reviewed only if the current mammogram is recalled
+   - **B.** Prior imaging review is optional and at the reader's discretion
+   - **C.** Prior imaging is reviewed whenever available and comparison is not optional
+   - **D.** Prior imaging is reviewed only during arbitration of discordant reads
+   - **E.** Prior imaging review is required solely for women aged over 65
 
 ## Anatomy that drives appearance
 
@@ -102,11 +102,26 @@ Oedema and trabecular thickening reflect lymphatic obstruction, occurring in inf
 
 ### Check your understanding
 
-1. On mammography, fibroglandular tissue appears radiolucent (dark) and fat appears radiodense (pale).  *(True / False)*
+1. A mammogram shows fine, irregular, angular calcifications in a segmental distribution. Based on the anatomical context described, what is the most likely process responsible?
+   - **A.** Dystrophic calcification following previous surgery
+   - **B.** Secretory calcification within lobule walls
+   - **C.** Necrosis within DCIS-involved ducts
+   - **D.** Fat necrosis following trauma
+   - **E.** Involutional calcification in lobules
 
-2. Coarse, large dystrophic calcifications typically follow trauma, surgery, or fat necrosis and represent a benign pattern.  *(True / False)*
+2. A patient presents with skin retraction and a spiculated mass on mammography. Which anatomical mechanism best explains these findings?
+   - **A.** Lymphatic obstruction causing trabecular thickening
+   - **B.** Secretory calcification pulling on the overlying dermis
+   - **C.** Desmoplastic stromal reaction pulling on Cooper's ligaments
+   - **D.** Fat necrosis distorting the fibroglandular tissue
+   - **E.** Bilateral involutional change tethering the skin
 
-3. Trabecular thickening and oedema on mammography are specific signs of inflammatory carcinoma and do not occur in benign conditions.  *(True / False)*
+3. Trabecular thickening and oedema are identified on a mammogram. Which statement best reflects the correct interpretation of this finding?
+   - **A.** These findings are pathognomonic of inflammatory carcinoma and biopsy should proceed without further assessment
+   - **B.** These findings exclusively indicate extensive nodal involvement by malignancy
+   - **C.** Clinical context is essential as benign causes such as cardiac failure can produce identical appearances
+   - **D.** Oedema on mammography always indicates lymphatic obstruction by tumour
+   - **E.** Trabecular thickening is only seen when there is dermal lymphatic invasion
 
 ## How to look: perception, analysis, and avoiding misses
 
@@ -137,11 +152,26 @@ Adopt a systematic approach every time. On both views, sweep through:
 
 ### Check your understanding
 
-1. A density visible on only one mammographic view should be called a mass until proven otherwise.  *(True / False)*
+1. A radiographer reviews an MLO view and notes an equivocal area of distortion. Which single additional imaging tool is described as most useful for evaluating distortion and equivocal masses at assessment?
+   - **A.** Spot compression view
+   - **B.** Magnification CC view
+   - **C.** 90-degree lateral view
+   - **D.** Digital breast tomosynthesis (DBT)
+   - **E.** Ultrasound-guided localisation
 
-2. Milk of calcium settles dependently on the 90-degree true lateral view, producing a crescentic or 'tea-cup' appearance that is diagnostic and reassuring.  *(True / False)*
+2. On a true lateral (90-degree) magnification view, microcalcifications are noted to layer dependently at the bottom of the image. What does this finding confirm?
+   - **A.** The calcifications are dermal in origin
+   - **B.** The calcifications represent milk of calcium
+   - **C.** The calcifications are dystrophic and benign
+   - **D.** The calcifications represent comedo-type DCIS
+   - **E.** The calcifications are a summation artefact
 
-3. DBT is the single most useful additional tool for assessing distortion and equivocal masses at mammographic assessment.  *(True / False)*
+3. A naevus on the skin projects as an apparent parenchymal opacity on the mammogram. What action does this section recommend to confirm its dermal location?
+   - **A.** Request a spot compression view over the area
+   - **B.** Perform a DBT acquisition to localise the lesion in depth
+   - **C.** Mark the lesion with a skin BB marker
+   - **D.** Triangulate the lesion on CC and MLO views to determine quadrant
+   - **E.** Repeat the view with the patient repositioned
 
 ## Suspicious mammographic categories
 
@@ -355,26 +385,26 @@ Correlate with ultrasound, which allows measurement of cortical thickness and as
 
 ### Check your understanding
 
-1. Magnification views of a cluster of calcifications show fine, irregular, elongated particles with branching morphology in a segmental distribution. What is the most appropriate M-score and likely pathological correlate?
-   - **A.** M2; secretory calcifications
-   - **B.** M3; sclerosing adenosis
-   - **C.** M4; low-grade DCIS
-   - **D.** M5; high-grade DCIS
-   - **E.** M3; milk of calcium
+1. A 54-year-old woman recalled from screening has a tight cluster of calcifications in the right upper outer breast. Magnification views show variable shape and size, tiny angular crystals without elongated branching. The cluster is new compared with studies from two years ago. What is the most appropriate initial mammographic score and next step?
+   - **A.** M2 — routine recall in three years
+   - **B.** M3 — repeat mammography in six months
+   - **C.** M4–M5 — proceed to stereotactic or DBT-guided vacuum-assisted biopsy
+   - **D.** M3 — ultrasound only; biopsy only if a solid correlate is found
+   - **E.** M5 — magnification views are sufficient; no further imaging needed before biopsy
 
-2. At assessment, DBT reveals focal architectural distortion with no associated mass or calcifications, and targeted ultrasound shows no correlate. What is the most appropriate management?
-   - **A.** Score M2 and discharge, as absence of ultrasound correlate is reassuring
-   - **B.** Score M3 and arrange six-month follow-up mammogram
-   - **C.** Score M4 minimum and proceed to DBT-guided or stereotactic VAB
-   - **D.** Score M4 and request MRI before any biopsy
-   - **E.** Score M3 and request ultrasound in a different department
+2. Stereotactic VAB is performed for a clustered group of fine pleomorphic calcifications scored M4. The histology returns B2 (benign fibrocystic change). What is the correct management?
+   - **A.** Accept the benign result and return the patient to routine screening
+   - **B.** Repeat mammography in six months to assess for change
+   - **C.** This is a discordant result; repeat biopsy or surgical excision is required
+   - **D.** Perform MRI to resolve the discordance before any further intervention
+   - **E.** Discharge with a clinical review appointment in twelve months
 
-3. A developing asymmetry is identified on comparison with a prior screening mammogram. Spot compression and DBT confirm it persists and there is no benign explanation. Which M-score is most appropriate?
-   - **A.** M1
-   - **B.** M2
-   - **C.** M3
-   - **D.** M4
-   - **E.** M5 only if a sonographic correlate is found
+3. When assessing microcalcification morphology, which of the following patterns is the hallmark of high-grade DCIS and warrants an M5 score?
+   - **A.** Amorphous/indistinct deposits in a regional distribution
+   - **B.** Rod-like calcifications radiating bilaterally towards the nipple
+   - **C.** Fine linear or fine linear branching ('casting') calcifications
+   - **D.** Coarse heterogeneous calcifications scattered diffusely across both breasts
+   - **E.** Crescentic layering calcifications that change appearance between CC and true lateral views
 
 ## Distinguishing benign from suspicious: underlying principles
 
@@ -396,11 +426,26 @@ A mass that you might otherwise score M3 becomes M4 or M5 if accompanied by skin
 
 ### Check your understanding
 
-1. Documented stability of a mammographic finding over many years completely eliminates the possibility of malignancy.  *(True / False)*
+1. A 6 mm spiculated mass is identified on a screening mammogram alongside ipsilateral skin thickening and nipple retraction. Which principle best explains why this finding should be classified as highly suspicious despite the small size of the mass?
+   - **A.** Interval change is the most powerful contextual factor, so previous imaging must be reviewed before classifying
+   - **B.** Patterns that defy normal anatomy raise suspicion, and associated features further elevate the assessment category
+   - **C.** Density and margin trump size, but only when the lesion exceeds a recognised minimum threshold
+   - **D.** Diffuse bilateral change is usually benign, so a unilateral finding alone warrants higher scoring
+   - **E.** A well-circumscribed margin would be required before associated features can influence the final score
 
-2. A 5 mm spiculated mass is more suspicious than a 2 cm well-circumscribed fat-containing lesion.  *(True / False)*
+2. A patient has a cluster of amorphous calcifications that appears new on her current screening mammogram compared with images from two years ago. The morphology alone would be considered borderline. What is the most appropriate course of action according to the principles described?
+   - **A.** Apply a benign assessment because the morphology is only borderline
+   - **B.** Recall only if the cluster has increased further in size since the previous mammogram
+   - **C.** Take action, because interval change is the most powerful contextual factor regardless of borderline morphology
+   - **D.** Reassure, provided the calcifications are not linear or casting in appearance
+   - **E.** Defer to the next routine screening round to confirm progression before acting
 
-3. Associated features such as skin thickening, nipple retraction, or an abnormal node can elevate an M-score from M3 to M4 or M5.  *(True / False)*
+3. A 2 cm oval, well-circumscribed, fat-containing mass has been stable on serial mammograms for six years. A new 7 mm spiculated mass is identified in the same breast. Which statement best reflects how these two findings should be managed?
+   - **A.** Both findings warrant biopsy because any new finding in a breast with a known mass requires tissue sampling
+   - **B.** The 2 cm mass is more concerning owing to its size, whereas the spiculated mass can be monitored
+   - **C.** Documented long-term stability of the 2 cm mass reduces but does not eliminate concern; the spiculated mass is far more worrying and must not be falsely reassured by its small size
+   - **D.** Both findings can be reassured because stability of one lesion implies the breast is low-risk overall
+   - **E.** The spiculated mass should be assessed first; if benign, the stable mass requires no further review
 
 ## Modality correlation and problem-solving
 
@@ -435,26 +480,26 @@ Reserve MRI for specific indications: discordant or equivocal findings after ful
 
 ### Check your understanding
 
-1. A clearly suspicious mammographic mass has no sonographic correlate on targeted ultrasound. What is the most appropriate next step?
-   - **A.** Downgrade the M-score to M2 as ultrasound is negative
-   - **B.** Arrange six-month follow-up mammography
-   - **C.** Proceed to stereotactic or DBT-guided biopsy without downgrading the score
-   - **D.** Request MRI and only biopsy if MRI is positive
-   - **E.** Discharge with reassurance, as a negative ultrasound excludes malignancy
+1. A mammogram shows a one-view asymmetry that persists on DBT reconstructed slices. Targeted ultrasound reveals no sonographic correlate. What is the most appropriate next step?
+   - **A.** Downgrade the assessment to benign and return to routine recall
+   - **B.** Repeat mammography in six months to assess for interval change
+   - **C.** Proceed to stereotactic or DBT-guided biopsy of the mammographic target
+   - **D.** Request MRI as the next immediate investigation before considering biopsy
+   - **E.** Perform additional spot-compression 2D views and discharge if unchanged
 
-2. A radiographer asks why magnification 2D views rather than DBT should be used to characterise a suspicious calcification cluster. What is the correct reason according to the chapter?
-   - **A.** DBT delivers a higher radiation dose than magnification 2D
-   - **B.** Fine calcifications can be smeared across DBT reconstructed slices, reducing morphological detail
-   - **C.** DBT cannot detect calcifications at all
-   - **D.** Magnification views are required by NHSBSP protocol regardless of image quality
-   - **E.** DBT overestimates the extent of calcification clusters
+2. A screening mammogram demonstrates a cluster of fine pleomorphic calcifications. DBT has been performed. Which imaging modality should be used to characterise the calcification morphology?
+   - **A.** DBT reconstructed slices alone, as these provide superior tissue contrast
+   - **B.** Standard full-field digital mammography without additional views
+   - **C.** Magnification 2D mammography
+   - **D.** Ultrasound with a high-frequency probe
+   - **E.** MRI with gadolinium enhancement
 
-3. MRI is being considered for a patient with a newly diagnosed invasive lobular carcinoma. Which reason from the chapter best supports its use?
-   - **A.** MRI reliably excludes low-grade DCIS and can be used for final clearance
-   - **B.** MRI is the first-line screening tool in the general population
-   - **C.** The extent of invasive lobular carcinoma is often underestimated on mammography, and MRI assists locoregional staging
-   - **D.** MRI should replace ultrasound for axillary node assessment
-   - **E.** MRI is indicated whenever an ultrasound correlate is absent
+3. A patient has biopsy-proven invasive lobular carcinoma on mammography. The surgical team requests further imaging to assess disease extent before planning surgery. Which is the most appropriate next investigation according to this section?
+   - **A.** Repeat DBT to map the full extent of spiculation
+   - **B.** Whole-breast ultrasound to map satellite lesions
+   - **C.** MRI, because mammography frequently underestimates the extent of invasive lobular carcinoma
+   - **D.** Contrast-enhanced spectral mammography as a first-line staging tool
+   - **E.** No further imaging is required if the biopsy is concordant
 
 ## Technical and interpretive pitfalls
 
@@ -471,11 +516,26 @@ Reserve MRI for specific indications: discordant or equivocal findings after ful
 
 ### Check your understanding
 
-1. Motion blur on a mammogram can soften calcification and mass margins, potentially mimicking a benign appearance, and the affected views should be repeated.  *(True / False)*
+1. A screening mammogram shows a one-view asymmetry in the outer quadrant. Before any further management is planned, what is the most appropriate immediate radiological step?
+   - **A.** Request an MRI of the breast
+   - **B.** Perform spot compression and an orthogonal view
+   - **C.** Arrange an ultrasound-guided biopsy
+   - **D.** Recall for a full diagnostic work-up without further imaging
+   - **E.** Compare with prior mammograms and discharge if stable
 
-2. A one-view asymmetry should be acted upon immediately as a suspicious finding without additional views.  *(True / False)*
+2. A patient with breast implants attends for routine mammography. Which imaging technique should be used to maximise visualisation of the native breast parenchyma?
+   - **A.** Standard CC and MLO views with increased compression force
+   - **B.** Magnification views of each quadrant
+   - **C.** Eklund displacement views with documentation of implant integrity
+   - **D.** MRI as the primary imaging modality instead of mammography
+   - **E.** Tomosynthesis without any modification to standard positioning
 
-3. Skin lesions such as naevi can project as apparent parenchymal calcifications and should be confirmed as dermal by marking with a BB marker.  *(True / False)*
+3. On a mammogram, a cluster of calcifications is identified in the upper outer breast. The patient mentions she has a skin lesion in that area. What is the correct action to confirm the location of these calcifications?
+   - **A.** Proceed directly to stereotactic biopsy of the calcifications
+   - **B.** Mark the skin lesion with a BB marker and repeat the mammogram to confirm dermal location
+   - **C.** Perform a punch biopsy of the skin lesion
+   - **D.** Obtain magnification views without marking the skin lesion
+   - **E.** Discharge as skin calcifications are always benign
 
 ## Reporting and scoring in UK practice
 
@@ -493,9 +553,11 @@ A good mammography report describes, interprets, scores, and acts. It should not
 
 ### Check your understanding
 
-1. A mammography report that is purely descriptive without an M-score or recommended next step meets UK reporting standards.  *(True / False)*
+1. A mammography report that only describes the imaging findings without recommending a next step meets the standard expected in UK practice.  *(True / False)*
 
-2. In a screening assessment report, the radiologist should clearly state whether the original screening abnormality has been explained before discharging the patient.  *(True / False)*
+2. In a screening assessment clinic, a patient may be discharged even if the original screening abnormality has not yet been explained, provided the M-score is reassuring.  *(True / False)*
+
+3. When documenting interval change, stating 'Stable over 3 years compared with prior study dated...' is considered more clinically useful than vague language such as 'unchanged'.  *(True / False)*
 
 ## Image-guided biopsy: choosing the right approach and ensuring concordance
 
@@ -531,26 +593,26 @@ Clip migration can occur between biopsy and any subsequent procedure — confirm
 
 ### Check your understanding
 
-1. Core biopsy of an M5 spiculated mass returns a B2 (benign) result. What is the correct management?
-   - **A.** Discharge the patient as the biopsy has excluded malignancy
-   - **B.** Arrange routine annual follow-up mammography
-   - **C.** Treat the result as discordant and proceed to repeat biopsy or surgical excision
-   - **D.** Score the imaging as M2 retrospectively to achieve concordance
-   - **E.** Repeat the biopsy only if the patient develops new symptoms
+1. A 54-year-old woman undergoes stereotactic vacuum-assisted biopsy of suspicious microcalcifications (M4). The pathology report returns a B2 (benign) result. What is the correct next step?
+   - **A.** Discharge the patient, as a benign result is reassuring
+   - **B.** Arrange routine two-year mammographic follow-up without further action
+   - **C.** Treat as discordant and arrange repeat biopsy or surgical excision
+   - **D.** Repeat the biopsy only if the radiologist considers the calcifications high-risk morphology
+   - **E.** Refer for MRI to clarify the significance of the calcifications
 
-2. Stereotactic VAB of a cluster of fine pleomorphic calcifications returns a B3 result showing a radial scar. What is the most appropriate next step according to the chapter?
-   - **A.** Discharge with reassurance as radial scar is a benign entity
-   - **B.** Arrange six-monthly mammographic surveillance for two years
-   - **C.** MDT discussion; many UK centres proceed to vacuum-assisted excision given upgrade rates
-   - **D.** Proceed directly to wide local excision without MDT discussion
-   - **E.** Request MRI and only excise if enhancement is present
+2. A radiologist reviews pathology from an ultrasound-guided core biopsy of a sonographically visible mass and receives a B3 result showing a radial scar. Which of the following best describes the appropriate management according to the section?
+   - **A.** Discharge with reassurance as B3 represents a benign concordant result
+   - **B.** Arrange routine annual mammographic surveillance without MDT input
+   - **C.** Proceed directly to wide local excision without MDT discussion
+   - **D.** Discuss at MDT, with many UK centres offering vacuum-assisted excision given upgrade rates of around 10–30%
+   - **E.** Repeat core biopsy at six months to reassess the lesion
 
-3. Which action is essential after stereotactic VAB of a calcification cluster to confirm procedural adequacy?
-   - **A.** Post-procedure ultrasound to confirm haematoma
-   - **B.** Specimen radiograph to confirm calcifications are present in the cores
-   - **C.** Immediate post-procedure MRI
-   - **D.** Cytological smear of the core surface
-   - **E.** Repeat mammogram at 48 hours
+3. Following stereotactic vacuum-assisted biopsy of microcalcifications, which TWO post-procedure steps are specifically highlighted as essential in this section? Select the single best answer that captures both.
+   - **A.** Obtain a specimen radiograph to confirm calcification retrieval and document the extent of remaining calcification on post-procedure imaging
+   - **B.** Obtain a specimen radiograph and arrange MRI to confirm complete excision
+   - **C.** Place a marker clip and arrange ultrasound to confirm clip position in all cases
+   - **D.** Document remaining calcification and request a six-month follow-up mammogram in all cases
+   - **E.** Confirm calcification retrieval on specimen radiograph and discharge the patient if retrieval is confirmed
 
 ## Common benign entities that mimic malignancy
 
@@ -568,19 +630,26 @@ Know these well — they are the most frequent causes of unnecessary biopsy or, 
 
 ### Check your understanding
 
-1. Magnification views show a star-shaped distortion with a central lucency and long, thin spicules. The patient has no history of surgery at this site. What is the most appropriate management?
-   - **A.** Score M2 and reassure, as the central lucency confirms a benign radial scar
-   - **B.** Score M4–M5 and proceed to biopsy, as imaging cannot reliably distinguish radial scar from malignancy
-   - **C.** Score M3 and arrange six-month follow-up, as the 'black star' appearance is pathognomonic of a benign lesion
-   - **D.** Perform MRI; only biopsy if MRI shows enhancement
-   - **E.** Discharge, as the thin spicules exclude carcinoma
+1. A mammogram shows a star-shaped area of architectural distortion with a central lucent zone and long, thin spicules on magnification views. What is the most appropriate next step?
+   - **A.** Return to routine screening in three years, as this is a classic benign radial scar appearance
+   - **B.** Perform a six-month interval mammogram to assess stability
+   - **C.** Proceed to biopsy, as imaging cannot reliably distinguish this from malignancy
+   - **D.** Discharge the patient if there is no palpable abnormality
+   - **E.** Request MRI as the sole investigation before any decision on biopsy
 
-2. A patient with a known history of previous breast surgery presents with distortion at the operative site. Which feature should prompt reassessment rather than dismissal as post-surgical change?
-   - **A.** Distortion that has been stable or is shrinking on serial mammograms
-   - **B.** Tethered skin retraction at the scar site
-   - **C.** Enlarging distortion or new calcifications developing at the known scar site
-   - **D.** Fat lucency within the distortion on magnification views
-   - **E.** Distortion visible on DBT but not on 2D mammography
+2. On a mammogram following wide local excision, an area of architectural distortion is noted at the known operative site. Which finding should prompt reassessment rather than routine dismissal?
+   - **A.** Distortion that has remained stable in size compared with the previous post-operative mammogram
+   - **B.** Distortion that is smaller than on the immediate post-operative mammogram
+   - **C.** Distortion that is enlarging compared with the previous post-operative mammogram
+   - **D.** Distortion with associated skin tethering that was also present post-operatively
+   - **E.** Distortion visible only on the mediolateral oblique view
+
+3. A patient presents with a palpable breast lump. Mammography demonstrates an area of asymmetry with no discrete mass or calcification. Core biopsy is performed and returns a result of pseudoangiomatous stromal hyperplasia (PASH). Which of the following statements best reflects the role of core biopsy in this context?
+   - **A.** Core biopsy was unnecessary as PASH and focal fibrosis have a pathognomonic mammographic appearance
+   - **B.** Core biopsy should have been deferred in favour of a 12-month interval mammogram
+   - **C.** Core biopsy resolves the diagnostic uncertainty that imaging alone cannot provide for PASH and focal fibrosis
+   - **D.** Core biopsy is contraindicated for palpable asymmetries without a discrete mass
+   - **E.** Core biopsy results for PASH always require surgical excision for definitive management
 
 ## A practical approach to a suspicious finding
 
@@ -607,19 +676,26 @@ Use this mental framework for every assessment:
 
 ### Check your understanding
 
-1. At assessment, targeted ultrasound of a quadrant corresponding to a persistent mammographic focal asymmetry identifies a well-circumscribed anechoic lesion. What is the most appropriate next step?
-   - **A.** Proceed to stereotactic biopsy as the mammographic finding requires tissue diagnosis regardless
-   - **B.** Score the mammographic finding as explained by a simple cyst; no further action is required for the cyst
-   - **C.** Request MRI to characterise the cyst further before making any decision
-   - **D.** Perform ultrasound-guided core biopsy of the cyst
-   - **E.** Score M4 and list for surgical excision
+1. During assessment, targeted ultrasound is performed for a suspicious mammographic finding. No sonographic correlate is identified. According to the recommended framework, what is the most appropriate next step?
+   - **A.** Downgrade the M-score and return to routine screening
+   - **B.** Repeat the mammogram in six months to reassess
+   - **C.** Proceed to stereotactic or DBT-guided biopsy
+   - **D.** Request MRI before deciding on further management
+   - **E.** Discharge with clinical follow-up only
 
-2. After assigning an M-score and recommending biopsy, what additional step does the chapter identify as essential to close the diagnostic loop?
-   - **A.** Arranging a follow-up mammogram at six months regardless of biopsy result
-   - **B.** Reviewing biopsy results for radiology–pathology concordance, with MDT discussion for B3 and discordant results
-   - **C.** Requesting MRI to confirm the biopsy result
-   - **D.** Informing the patient of the M-score before the biopsy result is known
-   - **E.** Performing a second biopsy routinely to confirm the first result
+2. A developing asymmetry is identified at assessment mammography. Which step in the recommended framework should be performed first, before any other action?
+   - **A.** Assign a provisional M-score based on the current images
+   - **B.** Perform targeted ultrasound to look for a correlate
+   - **C.** Describe the asymmetry precisely, including whether it persists on spot compression
+   - **D.** Check prior imaging to determine whether the finding is new or changing
+   - **E.** Arrange immediate MDT discussion
+
+3. A biopsy returns a B3 result following assessment of a suspicious mammographic finding. According to the framework, what is the required next step?
+   - **A.** Accept the result as concordant and discharge the patient
+   - **B.** Repeat biopsy immediately without further review
+   - **C.** Review the result for concordance and discuss at MDT
+   - **D.** Downgrade to M2 and return to routine screening
+   - **E.** Refer directly to surgery without MDT input
 
 ## Common misses and how to avoid them
 
@@ -633,14 +709,53 @@ Use this mental framework for every assessment:
 
 ### Check your understanding
 
-1. A well-circumscribed mammographic mass can be assumed benign without ultrasound correlation.  *(True / False)*
+1. A 2D mammogram shows a possible area of distortion in the upper outer quadrant, but overlapping tissue makes interpretation uncertain. What is the most appropriate next step according to best practice?
+   - **A.** Accept the 2D mammogram findings and discharge the patient
+   - **B.** Request a repeat 2D mammogram in a different projection only
+   - **C.** Use digital breast tomosynthesis (DBT) to clarify the finding
+   - **D.** Proceed directly to core biopsy without further imaging
+   - **E.** Request MRI as the first additional investigation
 
-2. DBT should be used liberally in assessment to detect subtle spiculation hidden by overlapping tissue on 2D mammography.  *(True / False)*
+2. A screening mammogram reveals a new, faint cluster of amorphous calcifications in one breast. What is the most appropriate action to avoid missing a significant finding?
+   - **A.** Recall only if the cluster is visible on both projections
+   - **B.** Scrutinise the area with magnification views and compare systematically with prior mammograms
+   - **C.** Discharge, as amorphous calcifications are almost always benign
+   - **D.** Perform ultrasound alone, as calcifications are better assessed sonographically
+   - **E.** Repeat standard 2D views at the next routine screening interval
 
-3. New nipple retraction with subareolar distortion can be dismissed without subareolar imaging if the patient reports no symptoms.  *(True / False)*
+3. A well-circumscribed solid mass is identified on mammography in a 52-year-old woman attending for assessment. The reporting radiographer considers it likely benign due to its smooth margins. What should always be performed next?
+   - **A.** Return to routine screening, as circumscribed masses are reliably benign
+   - **B.** Request only a repeat mammogram in six months
+   - **C.** Perform ultrasound, as some malignancies present as well-circumscribed masses
+   - **D.** Proceed to fine-needle aspiration cytology without ultrasound
+   - **E.** Request MRI as the definitive next investigation
 
 ## Summary
 
 Suspicious mammographic features make sense when you understand the pathology behind them. Desmoplasia produces spiculation; ductal necrosis produces fine linear calcification; infiltrative growth disrupts normal architecture; lymphatic obstruction causes skin and trabecular change. In UK practice, two-view mammography with double reading, structured assessment using DBT and targeted ultrasound, and image-guided biopsy within triple assessment constitute a robust diagnostic pathway.
 
 Your role as a reporter is to match morphology and distribution to the underlying process, actively identify and explain interval change, assign an M-score that genuinely reflects malignancy probability and drives appropriate action, and ensure formal radiology–pathology concordance. Use the scoring system as a structured guide, not a formula — context, priors, and clinical information always matter. When findings are borderline or discordant, escalate through biopsy and MDT discussion rather than relying on a single imaging modality to provide false certainty.
+
+### Check your understanding
+
+1. A radiologist assigns an M3 score to a mammographic finding. According to the summary, what action does this M-score primarily drive?
+   - **A.** Immediate surgical referral without biopsy
+   - **B.** Routine recall at the next screening interval
+   - **C.** Appropriate clinical action guided by malignancy probability
+   - **D.** Automatic discharge from the screening programme
+   - **E.** Repeat mammography in six months as the sole next step
+
+2. A mammographic finding is borderline and imaging results are discordant with the clinical presentation. What does the summary recommend as the correct course of action?
+   - **A.** Rely on ultrasound alone to resolve the discordance
+   - **B.** Discharge the patient if two imaging modalities agree
+   - **C.** Escalate through biopsy and MDT discussion
+   - **D.** Reassign a lower M-score to avoid unnecessary intervention
+   - **E.** Repeat the mammogram using DBT before any further action
+
+3. Which pathological process is cited in the summary as the direct cause of spiculation on a mammogram?
+   - **A.** Lymphatic obstruction
+   - **B.** Ductal necrosis
+   - **C.** Infiltrative growth
+   - **D.** Desmoplasia
+   - **E.** Periductal fibrosis
+

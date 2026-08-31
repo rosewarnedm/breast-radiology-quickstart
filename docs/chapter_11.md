@@ -23,11 +23,11 @@ The goal is not flawlessness but a reliable system that improves continuously. W
 
 ### Check your understanding
 
-1. In the UK, quality assurance in breast imaging is a mandatory requirement rather than an optional best-practice recommendation.  *(True / False)*
+1. Under IR(ME)R, justification, optimisation, and clinical evaluation are all required for every medical exposure in breast imaging.  *(True / False)*
 
-2. Poor quality assurance in breast imaging leads exclusively to missed cancers, with no impact on false-positive or recall rates.  *(True / False)*
+2. The Ionising Radiations Regulations (IRR) are primarily concerned with protecting patients from excessive radiation dose.  *(True / False)*
 
-3. The PERFORMS scheme provides objective external feedback on the individual reading performance of breast screening readers.  *(True / False)*
+3. The goal of QA in breast imaging is to achieve a flawless system with zero errors.  *(True / False)*
 
 ## 11.2 The UK Framework
 
@@ -50,26 +50,26 @@ Understanding who does what matters in practice:
 
 ### Check your understanding
 
-1. A screening unit has two radiologists who disagree on the management of a mammographic finding. What feature of the NHSBSP is specifically designed to manage this situation?
-   - **A.** Recall of all discordant cases directly to surgical clinic
-   - **B.** Mandatory triple assessment for all screening recalls
-   - **C.** Double reading with arbitration of discordant opinions
-   - **D.** Automatic upgrade to urgent two-week wait referral
-   - **E.** Mandatory tomosynthesis for all equivocal cases
+1. A woman aged 58 is recalled from the NHSBSP screening programme after a suspicious finding is identified. Which feature of the NHSBSP reading model most directly supports the decision to recall her?
+   - **A.** Triple assessment combining clinical examination, imaging, and biopsy
+   - **B.** Double reading of her mammograms with arbitration of discordant opinions
+   - **C.** Mandatory percutaneous biopsy at the time of screening
+   - **D.** Annual mammography to detect interval change
+   - **E.** Personal dosimetry monitoring of the screening radiographers
 
-2. A symptomatic patient has a clinical examination score of P3, a mammographic score of M3, and a core biopsy B code of B2. What is the most appropriate interpretation of this triple assessment?
-   - **A.** Concordant benign result; discharge to routine follow-up
-   - **B.** Concordant uncertain result; no further action required
-   - **C.** Discordant result; the benign histology does not explain the imaging and clinical findings, requiring escalation
-   - **D.** Concordant result; B2 histology overrides imaging uncertainty
-   - **E.** Concordant result; P3 and M3 scores are within normal limits
+2. A symptomatic patient is referred on a two-week wait pathway. Her imaging score is reassuring but her percutaneous biopsy result is suspicious. According to the triple assessment framework described, what is the appropriate response to this discordance?
+   - **A.** Accept the reassuring imaging result as it carries greater diagnostic weight than histology
+   - **B.** Discharge the patient as two out of three components are concordant
+   - **C.** Flag the discordance and escalate, as disagreement between components reduces diagnostic confidence
+   - **D.** Repeat the mammogram before making any further decision
+   - **E.** Apply the PERFORMS scheme to review the imaging independently
 
-3. Under IR(ME)R, which of the following represents a legal duty for every medical exposure rather than an aspirational standard?
-   - **A.** Achieving a PGMI score of Perfect for every mammographic view
-   - **B.** Justification of the exposure, optimisation of dose, and documented clinical evaluation
-   - **C.** Double reading of all symptomatic mammograms
-   - **D.** Performing tomosynthesis as an adjunct to all 2D screening
-   - **E.** Completion of a PERFORMS proficiency test before each reading session
+3. During an NHSBSP external QA visit, an individual screening reader's performance is being evaluated objectively. Which scheme specifically provides this proficiency testing and external feedback?
+   - **A.** IR(ME)R employer's procedures
+   - **B.** BMUS guidance framework
+   - **C.** The PERFORMS scheme
+   - **D.** IRR personal dosimetry programme
+   - **E.** RCR reporting standards review
 
 ## 11.3 Image Quality Assurance: Getting the Images Right
 
@@ -158,26 +158,26 @@ The primary purpose of specimen imaging is to confirm that the radiological targ
 
 ### Check your understanding
 
-1. A mammographer consistently produces MLO views on which the pectoralis major does not reach the posterior nipple line. What is the primary patient safety consequence of this recurring positioning error?
+1. A radiographer reviewing DBT images notices a curvilinear high-attenuation structure at a tissue interface that was not present on the prior 2D mammogram. Which tomosynthesis-specific artefact should be considered first?
+   - **A.** Out-of-plane blur from an adjacent slice
+   - **B.** Staircase artefact at a high-contrast interface mimicking calcification
+   - **C.** Skin fold producing architectural distortion
+   - **D.** AEC miscalibration causing exposure banding
+   - **E.** Subtraction misregistration from patient movement
+
+2. During a screening session, a radiographer notes that several CC views show inadequate posterior tissue inclusion. According to the section, what is the most direct clinical consequence of this positioning error?
    - **A.** Increased average glandular dose per view
-   - **B.** Increased false-positive recall rate due to skin fold artefacts
-   - **C.** Failure to image posterior fibroglandular tissue, increasing the risk of missed cancers and interval cancers
-   - **D.** Degraded microcalcification morphology due to motion blur
-   - **E.** Reduced compression force leading to increased tissue overlap
+   - **B.** Skin folds mimicking architectural distortion
+   - **C.** Missed posterior cancers contributing to false negatives and interval cancers
+   - **D.** Reduced AEC reproducibility across the session
+   - **E.** Motion blur softening microcalcification morphology
 
-2. A radiographer reviewing a digital breast tomosynthesis (DBT) acquisition notices a curvilinear high-contrast artefact at a tissue interface that could be misinterpreted as microcalcification. Which DBT-specific artefact best explains this appearance?
-   - **A.** Out-of-plane blur
-   - **B.** Staircase artefact
-   - **C.** Reverberation artefact
-   - **D.** Subtraction misregistration
-   - **E.** AEC calibration drift
-
-3. A breast MRI is scheduled for a premenopausal woman being assessed for extent of disease. To minimise the risk of background parenchymal enhancement obscuring pathology, on which week of the menstrual cycle should the examination ideally be performed?
-   - **A.** First week
-   - **B.** Second week
-   - **C.** Third week
-   - **D.** Fourth week
-   - **E.** Timing of the cycle has no influence on background parenchymal enhancement
+3. A unit upgrades its tomosynthesis software and resumes clinical screening the same day without re-testing. Which specific risk does the section identify for this practice?
+   - **A.** Increased patient radiation dose above DRL thresholds on all subsequent examinations
+   - **B.** Changes in reconstruction algorithms that may alter the appearance of enhancement kinetics
+   - **C.** Loss of DICOM GSDF calibration on primary diagnostic monitors
+   - **D.** Degraded AEC reproducibility undetected across the entire caseload
+   - **E.** Slice sensitivity profile errors causing out-of-plane blur on all views
 
 ## 11.4 Radiation Protection and Contrast Safety
 
@@ -224,11 +224,26 @@ Mammography and stereotactic rooms are adequately shielded; staff should not be 
 
 ### Check your understanding
 
-1. Shellfish or seafood allergy is a reliable predictor of iodinated contrast reaction and should on its own preclude contrast-enhanced mammography.  *(True / False)*
+1. A patient referred for contrast-enhanced mammography (CEM) mentions a significant shellfish allergy. According to radiation protection and contrast safety guidance, what is the most appropriate action?
+   - **A.** Decline CEM and proceed with non-contrast mammography only, as shellfish allergy reliably predicts iodinated contrast reaction
+   - **B.** Proceed with CEM after a standard pre-assessment, noting that shellfish allergy alone is not a reliable predictor of iodinated contrast reaction
+   - **C.** Substitute gadolinium-based contrast for iodinated contrast to avoid the risk associated with shellfish allergy
+   - **D.** Administer a mandatory steroid premedication regimen before CEM due to the confirmed cross-reactivity between shellfish and iodinated contrast
+   - **E.** Refer the patient for MRI with gadolinium instead, as iodinated contrast is absolutely contraindicated in shellfish allergy
 
-2. Gadolinium-based contrast agents are excreted into breast milk in negligible quantities, and under current UK guidance breastfeeding need not be interrupted after gadolinium administration.  *(True / False)*
+2. A breast imaging service introduces digital breast tomosynthesis (DBT) alongside conventional 2D mammography. What does this section advise regarding radiation dose management in this setting?
+   - **A.** DBT reduces per-examination dose compared with conventional 2D mammography and no dose mitigation strategy is needed
+   - **B.** Tomosynthesis dose increase is offset entirely by the use of AEC; no further action is required
+   - **C.** Synthesised 2D images can partially offset the increased dose from tomosynthesis if they replace rather than supplement conventional 2D acquisition
+   - **D.** The additional dose from tomosynthesis is acceptable provided AGD is monitored annually rather than per examination
+   - **E.** Tomosynthesis and CEM both reduce per-examination dose and are preferred modalities for dose optimisation
 
-3. Significant accidental or unintended exposures (SAUEs) under IR(ME)R must be investigated under local Employer's Procedures, with root-cause analysis focusing on systems and human factors rather than individual blame.  *(True / False)*
+3. A pregnant patient presents with a palpable breast lump. Which statement best reflects the guidance in this section regarding imaging and contrast agent use in pregnancy?
+   - **A.** Mammography is absolutely contraindicated in pregnancy because foetal dose from breast imaging is significant
+   - **B.** MRI with gadolinium is the preferred investigation in pregnancy as it avoids ionising radiation
+   - **C.** Ultrasound is first-line; mammography can be justified when clinically indicated; MRI without gadolinium is safe; gadolinium should generally be avoided unless benefit clearly outweighs risk, with macrocyclic agents preferred if used
+   - **D.** Gadolinium-based contrast agents are safe in pregnancy and can be administered routinely for breast MRI
+   - **E.** Ultrasound is contraindicated in pregnancy and mammography should be the first-line investigation
 
 ## 11.5 Procedural Safety: Biopsy, Localisation and Aftercare
 
@@ -287,26 +302,26 @@ In lactating patients, increased vascularity and ductal dilatation increase the 
 
 ### Check your understanding
 
-1. A patient taking dual antiplatelet therapy following coronary stent insertion three weeks ago is listed for vacuum-assisted biopsy (VAB) of suspicious calcifications. What is the most appropriate course of action regarding her antiplatelet medication?
-   - **A.** Stop both antiplatelet agents five days before the procedure to reduce bleeding risk
-   - **B.** Proceed with VAB without any medication adjustment as aspirin alone does not increase biopsy risk
-   - **C.** Seek specialist cardiology or haematology input before stopping dual antiplatelet therapy, as the thrombotic risk may far exceed the procedural bleeding risk
-   - **D.** Substitute VAB with standard core biopsy, which carries equivalent bleeding risk and requires no medication change
-   - **E.** Delay the procedure for six months until dual antiplatelet therapy is complete
+1. A patient on dual antiplatelet therapy (aspirin plus clopidogrel) following coronary stenting three weeks ago requires vacuum-assisted biopsy (VAB) of a suspicious calcification cluster. What is the most appropriate next step regarding her antiplatelet medication?
+   - **A.** Stop both antiplatelet agents for five days before the procedure
+   - **B.** Stop clopidogrel only, as aspirin alone is sufficient for VAB
+   - **C.** Seek specialist input before stopping clopidogrel, because the thrombotic risk may exceed the procedural bleeding risk
+   - **D.** Proceed with VAB on full dual antiplatelet therapy without further consultation
+   - **E.** Defer biopsy indefinitely until antiplatelet therapy is no longer required
 
-2. Following stereotactic VAB of microcalcifications, a marker clip is deployed. Before the patient leaves the department, what is the essential immediate action regarding the clip?
-   - **A.** Arrange a follow-up mammogram at six months to confirm clip position
-   - **B.** Re-image to confirm clip position relative to the biopsy cavity and document this, as clip migration can occur
-   - **C.** Inform the patient verbally that the clip has been placed and no further imaging is required
-   - **D.** Perform ultrasound to confirm calcifications have been adequately sampled
-   - **E.** Request urgent MRI to confirm clip placement within the target lesion
+2. During a stereotactic VAB for microcalcifications, the operator retrieves multiple cores. Before the patient leaves the room, what must be confirmed?
+   - **A.** That a post-procedure mammogram shows no haematoma has formed
+   - **B.** That calcifications are present in the specimen radiographs and that the marker clip position has been documented on re-imaging
+   - **C.** That the patient's INR is within agreed limits, regardless of her anticoagulation status
+   - **D.** That the patient has had no vasovagal episode during the procedure
+   - **E.** That a second-look ultrasound has identified the biopsy cavity
 
-3. During an ultrasound-guided core biopsy near the chest wall, a patient becomes pale, diaphoretic, and nauseated with a falling heart rate. What is the most appropriate immediate management?
-   - **A.** Administer intramuscular adrenaline and call the resuscitation team
-   - **B.** Position the patient supine, elevate her legs, and monitor; most vasovagal episodes resolve without intervention
-   - **C.** Apply high-flow oxygen and obtain intravenous access for fluid resuscitation
-   - **D.** Sit the patient upright to reduce venous pressure and improve cardiac output
-   - **E.** Abandon the procedure immediately and transfer to the emergency department
+3. After an ultrasound-guided core needle biopsy, a patient is told her biopsy site marker is in situ. She asks whether the clip is safe for future MRI and whether she needs to carry any documentation. What is the correct response based on the section?
+   - **A.** Modern biopsy site markers are rarely MRI compatible, so future breast MRI should be avoided
+   - **B.** The clip is virtually always MRI compatible and she should carry written documentation because it may trigger airport security detectors
+   - **C.** She needs no documentation as biopsy clips do not trigger airport security systems
+   - **D.** MRI compatibility of clips is unknown and she should contact the manufacturer directly
+   - **E.** She should carry documentation only if she intends to travel outside the United Kingdom
 
 ## 11.6 Pathway Safety: Interpretation, Concordance and Failsafe
 
@@ -350,26 +365,26 @@ Monitor and audit **upgrade rates** for B3 and B4 lesions. For B3 categories —
 
 ### Check your understanding
 
-1. A spiculated mass scores M4 on mammography and U4 on ultrasound. Core biopsy returns a B2 (benign fibrocystic change) result. What is the correct management?
-   - **A.** Accept the B2 result as it represents the most definitive tissue diagnosis available
-   - **B.** Discharge with one-year imaging follow-up as the benign biopsy provides reassurance
-   - **C.** Re-sample with VAB or proceed to surgical excision, as the benign histology does not explain the imaging findings
-   - **D.** Repeat the core biopsy using the same technique after a six-week interval
-   - **E.** Upgrade to B5b based on imaging features alone and refer for surgery
+1. A spiculated mass is scored M4/U4 on imaging. Core biopsy returns a B2 (benign) result. What is the most appropriate next step?
+   - **A.** Accept the benign result and discharge the patient to routine follow-up
+   - **B.** Repeat imaging in six months to assess for interval change
+   - **C.** Re-sample the lesion, ideally by vacuum-assisted biopsy, or proceed to surgical excision
+   - **D.** Downgrade the imaging score to M2/U2 to achieve concordance
+   - **E.** Refer to the MDT for a decision to proceed directly to mastectomy
 
-2. Which audit metric most directly measures the miss rate of a breast screening programme?
+2. Which of the following metrics is described as the most direct measure of the screening miss rate?
    - **A.** Recall rate
-   - **B.** Benign biopsy rate
-   - **C.** Positive predictive value of recall (PPV1)
+   - **B.** Positive predictive value of recall (PPV1)
+   - **C.** Small cancer rate (<15 mm invasive)
    - **D.** Interval cancer rate
-   - **E.** PGMI distribution
+   - **E.** Invasive:DCIS ratio
 
-3. A symptomatic service notes that several patients with abnormal imaging findings have experienced delayed diagnoses. Review reveals the patients attended their first appointment but did not return for follow-up. What system failure most commonly underlies this pattern according to the chapter?
-   - **A.** Incorrect M and U scoring at the initial assessment
-   - **B.** Failure in tracking patients who do not attend safety-net appointments
-   - **C.** Insufficient double reading of symptomatic mammograms
-   - **D.** Absence of a structured pre-procedure time-out
-   - **E.** Inadequate PERFORMS proficiency testing of reporting radiologists
+3. A radiologist is reviewing B3 biopsy results for a series of calcification cases. Which sampling technique does the section identify as providing superior diagnostic yield for calcification assessment?
+   - **A.** Fine-needle aspiration cytology
+   - **B.** Standard 14-gauge core biopsy
+   - **C.** Vacuum-assisted biopsy
+   - **D.** Surgical open biopsy
+   - **E.** Punch biopsy under ultrasound guidance
 
 ## 11.7 Human Factors, Communication and Patient Experience
 
@@ -387,11 +402,26 @@ Most diagnostic errors and procedural incidents in radiology have a human factor
 
 ### Check your understanding
 
-1. Under the Duty of Candour, when patient harm occurs the primary focus should be on identifying and disciplining the individual responsible.  *(True / False)*
+1. A transgender woman (assigned male at birth) presents for breast assessment. According to the principles outlined, on what basis should her screening and diagnostic pathway be determined?
+   - **A.** Gender marker recorded in the hospital IT system
+   - **B.** Self-reported gender identity alone
+   - **C.** Anatomy and individual risk, regardless of gender marker
+   - **D.** Standard male breast pathway as the default
+   - **E.** Referral to a specialist gender clinic before any imaging
 
-2. For transgender and non-binary patients, screening and diagnostic pathways should be based on anatomy and individual risk rather than gender marker alone.  *(True / False)*
+2. A patient receives no communication after a screening mammogram and later discovers a delayed cancer diagnosis. Which principle from this section was most clearly violated?
+   - **A.** Duty of Candour
+   - **B.** Pre-procedure time-out policy
+   - **C.** Results communication policy, as 'no news is good news' is not a safe approach
+   - **D.** Chaperone documentation requirements
+   - **E.** Laterality labelling standardisation
 
-3. A policy of 'no news is good news' for communicating imaging results to patients is considered a safe and acceptable approach in breast radiology services.  *(True / False)*
+3. Following a procedural complication during image-guided biopsy, the team considers how to respond to the affected patient. Which combination of actions best reflects the Duty of Candour as described in this section?
+   - **A.** Apologise verbally only and await a formal complaint before documenting
+   - **B.** Say sorry, explain what is known, outline next steps, document, and focus on learning rather than blame
+   - **C.** Refer to the medicolegal team before speaking to the patient
+   - **D.** Provide a written apology without direct verbal explanation to avoid distress
+   - **E.** Disclose only if the complication results in permanent harm
 
 ## 11.8 Equipment Lifecycle, IT and Data Safety
 
@@ -407,11 +437,11 @@ Data governance under UK GDPR and the Caldicott Principles requires role-based a
 
 ### Check your understanding
 
-1. Re-testing of mammography equipment following a major software update is mandatory before returning to clinical use.  *(True / False)*
+1. After a major software update to imaging equipment, re-testing against the baseline established at acceptance is mandatory before returning to clinical use.  *(True / False)*
 
-2. Sharing breast imaging across sites for MDT or second opinion purposes may be performed using any convenient file transfer method without specific governance requirements.  *(True / False)*
+2. A display monitor that fails periodic physics testing should be reported and tolerated until a scheduled replacement cycle, rather than replaced promptly.  *(True / False)*
 
-3. A mammography display monitor that fails its periodic physics test should be replaced promptly rather than reported and tolerated.  *(True / False)*
+3. Under UK GDPR and the Caldicott Principles, sharing images across sites for MDT or second opinion purposes should use IHE-conformant or equivalent secure methods.  *(True / False)*
 
 ## 11.9 Mobile Screening and Workplace Safety
 
@@ -423,9 +453,11 @@ Ergonomics deserves emphasis: radiographers performing mammography and sonograph
 
 ### Check your understanding
 
-1. Access control to a mobile mammography unit during exposures need not be as rigorous as in a fixed facility, provided the vehicle is parked away from the public.  *(True / False)*
+1. Access control during exposures in a mobile mammography unit may be enforced less rigorously than in a fixed facility, provided a risk assessment is documented.  *(True / False)*
 
 2. Radiographers performing mammography and sonographers performing breast ultrasound are at substantially elevated risk of work-related musculoskeletal injury.  *(True / False)*
+
+3. Formal ergonomics training, adjustable equipment, task rotation, and micro-breaks are described as essential measures rather than optional luxuries for staff performing mammography and breast ultrasound.  *(True / False)*
 
 ## 11.10 Audit and Continuous Improvement
 
@@ -454,19 +486,26 @@ When adopting DBT, CEM, AI-assisted reading, or novel biopsy devices, apply form
 
 ### Check your understanding
 
-1. A breast screening unit is planning to introduce AI-assisted reading. According to the chapter, what is the correct approach to adopting this new technology?
-   - **A.** Implement immediately across all sessions to maximise efficiency gains
-   - **B.** Apply formal change control: risk assessment, staff training, pilot audit with prospective data collection, and staged roll-out
-   - **C.** Rely on published trial data to determine the expected impact on recall and cancer detection rates
-   - **D.** Obtain agreement from a majority of radiologists and commence use without a formal pilot
-   - **E.** Introduce the technology only for tomosynthesis cases where AI evidence is strongest
+1. A breast imaging unit is planning to introduce AI-assisted reading into its screening programme. According to the principles of introducing new technology, which of the following approaches is most appropriate?
+   - **A.** Implement AI-assisted reading immediately across all reading sessions, relying on published trial data to confirm expected performance gains.
+   - **B.** Apply formal change control including risk assessment, staff training, a pilot audit with prospective data collection, and staged roll-out, monitoring local impact.
+   - **C.** Introduce AI-assisted reading without a pilot phase, but review recall rates retrospectively after six months of full service use.
+   - **D.** Delegate implementation planning entirely to the AI vendor, as published trial data is sufficient to confirm safety and efficacy in any setting.
+   - **E.** Prioritise monitoring reading times and dose only, as cancer detection rates are adequately predicted by published multicentre trial results.
 
-2. Which of the following metrics is listed in the chapter as an appropriate audit measure specifically for symptomatic breast services?
-   - **A.** Interval cancer rate
-   - **B.** PERFORMS proficiency scores
-   - **C.** Benign open biopsy rate and VAB utilisation
-   - **D.** Invasive to DCIS ratio
-   - **E.** Proportion of screens achieving a PGMI score of Perfect
+2. A breast unit's clinical governance lead wants to structure peer review of discrepant cases. Which of the following best reflects the requirement described in this section?
+   - **A.** Peer review should be informal and verbal, allowing open discussion without creating a paper trail that could be used in litigation.
+   - **B.** Peer review should cover a single modality only to ensure consistency of comparison between readers.
+   - **C.** Peer review should be structured, cover discrepancies across modalities and between readers, and produce documented action logs.
+   - **D.** Peer review is optional if the unit's recall rate and cancer detection rate are within national benchmarks.
+   - **E.** Peer review of discrepant cases should be conducted annually during the unit's appraisal cycle.
+
+3. A symptomatic breast unit is reviewing its audit metrics to identify areas for quality improvement. Which of the following is listed as an audit metric specifically relevant to symptomatic services in this section?
+   - **A.** PGMI distribution and reject/repeat analysis
+   - **B.** Small invasive cancer rate below 15 mm
+   - **C.** Average glandular dose distribution and outliers
+   - **D.** B3/B4 upgrade rates and concordance rates
+   - **E.** Interval cancer rate and PPV1/PPV2
 
 ## 11.11 Pitfalls, Misses and How to Avoid Them
 
@@ -500,26 +539,26 @@ These are the most instructive cases in any breast radiology service. The follow
 
 ### Check your understanding
 
-1. On a CC mammogram, a curvilinear density is noted at the skin surface and raises the possibility of architectural distortion. What is the most appropriate immediate radiographic action to distinguish a true distortion from a skin fold artefact?
-   - **A.** Request urgent MRI to characterise the finding
-   - **B.** Score as M4 and recall for assessment
-   - **C.** Confirm taut skin and straightened folds at the time of acquisition, and use spot compression views and DBT to distinguish true distortion
-   - **D.** Request ultrasound correlation at the next available appointment
-   - **E.** Compare with the prior mammogram and discharge if the finding was present previously
+1. During stereotactic vacuum-assisted biopsy of a cluster of microcalcifications, what is the recommended action to confirm clip placement?
+   - **A.** Schedule a follow-up mammogram at six weeks to check clip position
+   - **B.** Perform post-biopsy imaging to document clip position before the patient leaves
+   - **C.** Rely on the intra-procedural scout image as confirmation of clip deployment
+   - **D.** Obtain an ultrasound at the next available appointment to localise the clip
+   - **E.** Document the intended clip position in the report without additional imaging
 
-2. During ultrasound of a palpable lump, a lesion appears to have an antiparallel orientation. What is the most important technical adjustment to make before recording this orientation?
-   - **A.** Increase the gain setting to improve margin visualisation
-   - **B.** Switch to a lower-frequency transducer to reduce near-field artefact
-   - **C.** Apply heel-toe and rocking adjustments to ensure the transducer is truly perpendicular to the lesion before assigning orientation
-   - **D.** Apply colour Doppler to confirm intralesional vascularity before characterising orientation
-   - **E.** Reduce focal zone depth to improve lateral resolution at the lesion margin
+2. A radiographer notices that architectural distortion is visible on a mammogram but is uncertain whether it represents a true lesion or a summation artefact from Cooper's ligaments. Which combination of strategies does this section recommend to resolve the ambiguity?
+   - **A.** Repeat the standard MLO view and review with a second reader
+   - **B.** Proceed directly to ultrasound-guided core biopsy without further imaging
+   - **C.** Use spot compression views and DBT to distinguish true distortion from summation
+   - **D.** Apply additional manual compression during the initial acquisition and rescore
+   - **E.** Request MRI as the next step before any further mammographic views
 
-3. A radiologist is assessing mammographic microcalcifications but finds the morphology difficult to evaluate due to motion unsharpness on the magnification views. Which combination of technical measures does the chapter recommend to reduce this problem?
-   - **A.** Increase kV and use compound imaging
-   - **B.** Stabilise the breast effectively, use short exposure times, and apply correct magnification geometry
-   - **C.** Reduce compression force to improve patient tolerance and cooperation
-   - **D.** Switch to tomosynthesis as the primary modality without standard magnification views
-   - **E.** Request MRI to characterise calcification morphology without motion artefact
+3. When reporting breast MRI in a premenopausal woman, background parenchymal enhancement (BPE) is potentially masking pathology. According to this section, which scheduling strategy helps minimise BPE?
+   - **A.** Scan in the first week of the menstrual cycle when oestrogen levels are lowest
+   - **B.** Scan in the second week of the menstrual cycle when BPE is typically lowest
+   - **C.** Scan in the luteal phase to allow direct comparison with prior studies
+   - **D.** Avoid contrast-enhanced MRI in premenopausal women entirely
+   - **E.** Schedule the scan at any point and correct for BPE during post-processing
 
 ## 11.12 Summary
 
@@ -534,3 +573,12 @@ Quality assurance and safety are woven into every step of UK breast imaging — 
 - **Audit continuously.** Where practice varies — and it does — make the reasoning explicit, measure the impact, and adjust.
 
 By understanding the *why* as well as the *how*, you will be equipped to apply safe, high-quality practice to new technologies, unfamiliar cases, and complex clinical scenarios — sustaining the trust that underpins the NHS breast screening and symptomatic pathway.
+
+### Check your understanding
+
+1. Under IR(ME)R, the operator performing a mammogram is obliged to justify and optimise every exposure, including understanding what constitutes a Significant Accidental or Unintended Exposure (SAUE).  *(True / False)*
+
+2. When histology and imaging findings are discordant, it is acceptable to accept the histology result provided the P/M/U/B scoring was consistent at the time of sampling.  *(True / False)*
+
+3. Quality assurance in UK breast imaging is concerned solely with equipment physics and dose metrics, rather than with people and processes.  *(True / False)*
+

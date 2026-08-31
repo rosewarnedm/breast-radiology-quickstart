@@ -19,11 +19,26 @@ In UK breast practice, every report must dovetail with the triple assessment fra
 
 ### Check your understanding
 
-1. Structured breast reporting supports imaging–pathology concordance review and provides data for NHSBSP audit metrics such as recall positive predictive values and interval cancer rates.  *(True / False)*
+1. A breast assessment clinic report assigns a mammographic category and a clinical examination category but does not specify a management plan. According to the structured reporting framework described, what is the principal shortcoming of this report?
+   - **A.** It fails to include a histological B category, which is mandatory for every report
+   - **B.** It does not fulfil the purpose of structured reporting, which requires a clear management plan that can be enacted at the MDT or assessment clinic
+   - **C.** It cannot be used for NHSBSP audit because recall positive predictive values require ultrasound categories
+   - **D.** It is acceptable provided the radiologist verbally communicates the management plan at the MDT meeting
+   - **E.** It is only a shortcoming if the mammographic category is M3 or above
 
-2. In UK breast practice, the primary purpose of the M1–M5 scoring system is description of findings rather than driving a management decision.  *(True / False)*
+2. A breast radiology department is reviewing the value of structured reporting for its NHSBSP audit programme. Which of the following audit metrics is explicitly cited in this section as being supported by structured reporting data?
+   - **A.** Sensitivity and specificity of digital breast tomosynthesis
+   - **B.** Radiographer versus radiologist recall rates
+   - **C.** Recall positive predictive values and interval cancer rates
+   - **D.** Proportion of cases requiring second-look ultrasound
+   - **E.** Time from screening to surgical referral
 
-3. Clinical examination in the UK triple assessment framework is scored on a five-point scale designated P1–P5.  *(True / False)*
+3. A trainee radiographer asks why structured reporting is considered beneficial beyond simply documenting findings. Which reason is stated in this section?
+   - **A.** It allows reports to be generated without radiologist oversight in straightforward cases
+   - **B.** It standardises image acquisition parameters across screening units
+   - **C.** It reduces errors of omission and encodes a systematic approach that transfers across modalities and case types
+   - **D.** It replaces the need for MDT discussion in cases with concordant triple assessment categories
+   - **E.** It ensures histological sampling is performed for all M3 lesions
 
 ## Where structured reporting fits in the UK pathway
 
@@ -39,19 +54,26 @@ Understanding the context before you report is essential, because the structure 
 
 ### Check your understanding
 
-1. A 58-year-old woman is recalled from the NHSBSP. Which statement best describes what the screening assessment report must achieve?
-   - **A.** Provide a detailed narrative of all parenchymal changes without necessarily assigning an M or U category.
-   - **B.** Integrate M and U scores with the clinical P-score, state whether biopsy is indicated, and once histology returns document imaging–pathology concordance with an explicit plan.
-   - **C.** Restrict reporting to a binary recall or no-recall decision only, without further clinical detail.
-   - **D.** Defer to the symptomatic pathway report format because the patient has now entered triple assessment.
-   - **E.** Focus exclusively on MRI findings if tomosynthesis was used during the assessment.
+1. A 58-year-old woman attends the symptomatic breast clinic for triple assessment. The radiologist has completed imaging and the report is being finalised before the multidisciplinary team discussion later that day. Which of the following is the most complete description of what the imaging report must provide in this setting?
+   - **A.** A binary recall or no-recall decision with a specific reason, codeable into the NBSS
+   - **B.** M and U scores, a statement on whether biopsy is indicated, and — once histology is available — documentation of imaging–pathology concordance with an explicit plan
+   - **C.** M and U scores only, with clinical management left to the referring clinician
+   - **D.** A description of targeted imaging and biopsy findings with a discharge or referral decision
+   - **E.** An integrated MRI impression covering extent of disease, with M and U scores
 
-2. For which of the following indications is breast MRI most appropriate according to the structured reporting pathway described?
-   - **A.** Routine three-yearly screening of all women aged 50–70 invited through the NHSBSP.
-   - **B.** First-line assessment of a symptomatic palpable lump in a 45-year-old woman.
-   - **C.** Extent of disease assessment in a known cancer, particularly lobular carcinoma, and neoadjuvant response assessment.
-   - **D.** Replacement of ultrasound for axillary nodal assessment in any proven malignancy.
-   - **E.** Characterisation of all M3 mammographic findings before biopsy is considered.
+2. A radiographer advanced practitioner is reporting screening mammograms within the NHSBSP. Which of the following best describes the primary requirement for a screening report at this stage of the pathway?
+   - **A.** M and U scores integrated with the clinical P-score and a biopsy recommendation
+   - **B.** A detailed description of all benign findings to allow complete discharge documentation
+   - **C.** A concise report, codeable into the NBSS, communicating a binary recall or no-recall decision with a specific reason for recall
+   - **D.** An integrated impression from tomosynthesis and MRI contributing to a single conclusion
+   - **E.** Documentation of imaging–pathology concordance and an explicit management plan
+
+3. A woman with newly diagnosed invasive lobular carcinoma is referred for further imaging to establish the extent of disease prior to surgery. According to the section, which modality is specifically indicated for this purpose?
+   - **A.** Digital breast tomosynthesis (DBT) alone
+   - **B.** Repeat two-view mammography
+   - **C.** Ultrasound with M and U scoring
+   - **D.** MRI
+   - **E.** Contrast-enhanced spectral mammography
 
 ## Principles of a good breast report
 
@@ -68,11 +90,11 @@ Before reaching for a template, internalise these principles:
 
 ### Check your understanding
 
-1. Assigning an M3 category is appropriate when the reporting radiographer wishes to avoid the discomfort of committing to an M4 category for a finding that warrants biopsy.  *(True / False)*
+1. A breast report that assigns a category but omits a recommended action is considered complete.  *(True / False)*
 
-2. A breast imaging report that provides a detailed description of findings but does not include a category or recommended action is considered incomplete.  *(True / False)*
+2. Assigning M3 when the evidence points to M4, in order to avoid commitment, is explicitly identified as poor practice.  *(True / False)*
 
-3. Active comparison with prior imaging and cross-modality correlation are optional elements that can be omitted when a finding appears clearly benign.  *(True / False)*
+3. The primary purpose of correlating findings across modalities and with pathology is to identify where findings correlate and where they do not.  *(True / False)*
 
 ## The UK 5-point scoring systems
 
@@ -99,26 +121,26 @@ The **M3/U3 category** deserves particular emphasis because it is where judgemen
 
 ### Check your understanding
 
-1. A core biopsy targeted at a U5 lesion returns a B1 result reported as 'insufficient'. What is the most appropriate next step?
-   - **A.** Discharge, as a B1 result is normal tissue confirming the lesion is benign.
-   - **B.** Short-interval ultrasound follow-up in six months to assess stability.
-   - **C.** Repeat sampling, because a B1 'insufficient' from a suspicious target mandates re-biopsy.
-   - **D.** Proceed directly to surgical excision without further sampling.
-   - **E.** Assign concordance and close the case, as B1 and U5 are both end-point categories.
+1. A core biopsy targeting a U4 lesion returns a B1 result reported as 'insufficient sample'. What is the most appropriate next step?
+   - **A.** Discharge the patient as no malignant cells were identified
+   - **B.** Downgrade the imaging to U3 and arrange six-month follow-up
+   - **C.** Repeat sampling of the target lesion
+   - **D.** Proceed directly to wide local excision without further biopsy
+   - **E.** Accept the result as concordant with a benign lesion
 
-2. Which of the following histological diagnoses would be correctly classified as B3?
-   - **A.** Invasive ductal carcinoma, grade 2.
-   - **B.** Fibroadenoma with no atypia.
-   - **C.** Atypical ductal hyperplasia.
-   - **D.** Normal fibroglandular tissue on adequate cores.
-   - **E.** DCIS without evidence of invasion.
+2. A radiographer reports a mammographic finding as M3. On review, the finding is genuinely suspicious and would warrant biopsy. According to the UK 5-point scoring guidance, what is the most appropriate action?
+   - **A.** Retain the M3 score and arrange short-interval follow-up mammography
+   - **B.** Retain the M3 score but add a free-text recommendation for biopsy
+   - **C.** Upgrade the score to M4 and recommend biopsy
+   - **D.** Downgrade the score to M2 as the finding is probably benign
+   - **E.** Assign M5 because any lesion requiring biopsy must be highly suspicious
 
-3. A reporting radiographer repeatedly assigns M3 to findings that, on review, meet criteria for M4. What is the most likely consequence for clinical practice?
-   - **A.** Reduced recall rates with no effect on patient outcomes.
-   - **B.** Under-calling of suspicious findings, potentially delaying biopsy and diagnosis.
-   - **C.** Improved specificity of the screening programme with an acceptable reduction in sensitivity.
-   - **D.** Increased arbitration workload without affecting recall positive predictive values.
-   - **E.** No consequence, as the MDT can upgrade categories at the multidisciplinary meeting.
+3. A pathology report returns a B3 result on a vacuum-assisted biopsy specimen. Which of the following statements best reflects how this result should be handled according to the UK scoring guidance?
+   - **A.** B3 is a uniform category and all cases should be managed identically with six-month imaging follow-up
+   - **B.** B3 encompasses a heterogeneous group of lesions and management should reflect the specific lesion type and local MDT policy
+   - **C.** B3 is equivalent to B2 and no further intervention is required
+   - **D.** B3 automatically mandates immediate diagnostic surgical excision regardless of lesion type
+   - **E.** B3 should be re-reported as B4 if lobular neoplasia is identified, as this carries malignant potential
 
 ## Core components of a structured breast imaging report
 
@@ -205,26 +227,26 @@ If imaging and clinical findings are discordant, say so explicitly and propose h
 
 ### Check your understanding
 
-1. When documenting the location of a breast lesion in a structured report, which set of descriptors is most complete?
-   - **A.** Laterality and quadrant only.
-   - **B.** Laterality, clockface position, distance from nipple in centimetres, and depth.
-   - **C.** Laterality, size in two planes, and mammographic density.
-   - **D.** Clockface position and a single maximum diameter in millimetres.
-   - **E.** Quadrant, depth, and echogenicity on ultrasound.
+1. A 28-year-old woman who is 20 weeks pregnant is referred with a hypoechoic breast mass. Which component of the structured report most directly explains why her management differs from that of a 65-year-old post-menopausal woman with an identical sonographic finding?
+   - **A.** Breast composition / density statement
+   - **B.** Systematic description of findings — ultrasound mass descriptors
+   - **C.** Administrative and clinical details, specifically relevant history
+   - **D.** Prior comparison section
+   - **E.** Impression and category assignment
 
-2. On MRI, which combination of non-mass enhancement (NME) features is described as the classic appearance of DCIS?
-   - **A.** Focal distribution with homogeneous internal enhancement and persistent kinetics.
-   - **B.** Regional distribution with heterogeneous internal enhancement and washout kinetics.
-   - **C.** Segmental distribution with clumped or clustered ring internal enhancement.
-   - **D.** Diffuse distribution with rim-enhancing masses and rapid initial enhancement.
-   - **E.** Linear distribution with homogeneous internal enhancement and T2 hypointensity.
+2. When reporting MRI in a premenopausal patient, which factor related to technique must be documented because it directly reduces the specificity of the examination?
+   - **A.** Field strength of the MRI scanner
+   - **B.** Quality of fat suppression
+   - **C.** Timing of the scan within the menstrual cycle
+   - **D.** Presence of motion artefact
+   - **E.** Whether contrast agent was administered
 
-3. A 32-year-old pregnant woman presents with a new hypoechoic breast mass. Which contextual factors documented in the report would most influence her management compared with a 65-year-old with the same finding?
-   - **A.** Menopausal status, hormonal status, and whether pregnancy or lactation is present.
-   - **B.** Mammographic density category and prior screening round result.
-   - **C.** Axillary nodal cortical thickness and hilar fat status.
-   - **D.** MRI background parenchymal enhancement level and kinetic curve type.
-   - **E.** Whether the mass is multifocal or multicentric on mammography.
+3. A radiographer reporting a mammogram identifies two separate enhancing masses in different quadrants of the same breast. How should this be described in the structured report, and why does it matter?
+   - **A.** Multifocal disease, because foci in separate quadrants influence surgical planning
+   - **B.** Multicentric disease, because foci in separate quadrants influence surgical planning
+   - **C.** Multifocal disease, because foci in the same quadrant influence surgical planning
+   - **D.** Multicentric disease, because the total lesion span determines radiotherapy field size
+   - **E.** Multiple lesions — the distinction between multifocal and multicentric need not be stated explicitly
 
 ## Structured reporting in screening
 
@@ -254,11 +276,26 @@ The assessment report should:
 
 ### Check your understanding
 
-1. A first reader and second reader who disagree at double reading should default to the more cautious reader's decision without the arbitrating reader applying independent judgement.  *(True / False)*
+1. A radiographer completing a recall assessment report documents a 14 mm irregular mass in the left lower inner quadrant, 6 cm from the nipple, and performs ultrasound-guided core biopsy. Before histology returns, what additional step does structured reporting require?
+   - **A.** Defer all further documentation until the MDT meeting
+   - **B.** State a provisional concordance expectation to help the MDT anticipate discordance
+   - **C.** Issue an immediate provisional diagnosis of malignancy
+   - **D.** Record only the biopsy guidance modality and needle gauge
+   - **E.** Await the pathologist's report before assigning an M or U category
 
-2. After stereotactic vacuum-assisted biopsy of calcifications, the post-procedure report should state whether the clip was deployed and document its distance from the target on post-procedure mammography.  *(True / False)*
+2. During double reading, the first reader codes a case as normal and the second reader codes it as recall. Which of the following best describes the requirement for the arbitration report?
+   - **A.** The arbitration report need only record the final outcome — recall or no recall
+   - **B.** The most cautious reader's opinion should automatically take precedence without further documentation
+   - **C.** The arbitration report should record the deciding rationale, not just the outcome
+   - **D.** Arbitration documentation is optional if both readers are of equivalent seniority
+   - **E.** The case should be referred directly to the MDT without an arbitration report
 
-3. Labelling a finding as a 'developing asymmetry' is acceptable even when prior mammograms have not been reviewed, provided the finding is new to the current reader.  *(True / False)*
+3. A structured recall reason is being written for a new density seen on screening mammography. Which phrasing best meets the requirements described in this section?
+   - **A.** Possible mass, right breast
+   - **B.** Area of concern, upper breast, right side
+   - **C.** Asymmetric density — clinical correlation advised
+   - **D.** 10 mm oval density, right UOQ, 7 cm from nipple, new compared with 2022
+   - **E.** Developing asymmetry, right breast — priors reviewed
 
 ## Structured reporting in symptomatic triple assessment
 
@@ -295,26 +332,26 @@ Some centres assign a U category to nodes; others simply state "morphologically 
 
 ### Check your understanding
 
-1. A 52-year-old woman has a P5 palpable lump. Mammography is reported as M1. What is the correct management?
-   - **A.** Discharge, as a normal mammogram excludes malignancy.
-   - **B.** Routine recall mammography in three years.
-   - **C.** State the discordance between P5 and M1, and escalate to targeted ultrasound and biopsy if appropriate.
-   - **D.** Repeat mammography with additional views before any further action.
-   - **E.** Refer for MRI as the primary next investigation.
+1. A patient presents with a palpable right breast lump scored P4. Mammography is reported as M1 (normal). What is the most appropriate next step according to structured reporting principles?
+   - **A.** Discharge the patient, as a normal mammogram effectively excludes malignancy
+   - **B.** Document the normal mammogram and arrange routine follow-up in 12 months
+   - **C.** State the discordance between P4 and M1, and escalate to targeted ultrasound and, if appropriate, biopsy
+   - **D.** Downgrade the clinical P-score to P2 to reflect the reassuring mammogram
+   - **E.** Proceed directly to diagnostic surgical excision without further imaging
 
-2. A right UOQ spiculated mass is reported M5. Core biopsy returns B2 fat necrosis. Which statement best describes the correct response?
-   - **A.** Concordant — discharge with safety-netting as fat necrosis is a benign diagnosis.
-   - **B.** Concordant — arrange six-month ultrasound follow-up.
-   - **C.** Discordant — imaging is highly suspicious with benign histology; repeat sampling with vacuum-assisted device or surgical excision recommended, with MDT discussion.
-   - **D.** Discordant — repeat mammography only, as the biopsy may have been technically adequate.
-   - **E.** Concordant — fat necrosis is a known mimic of malignancy and no further action is required.
+2. A right upper outer quadrant spiculated mass is reported as M5. Core biopsy returns B2 fat necrosis. Which action best reflects the structured reporting guidance for this scenario?
+   - **A.** Accept the benign histology as definitive and discharge with safety-netting
+   - **B.** Document concordance and refer to the MDT for surgical planning
+   - **C.** Downgrade the imaging score to M3 to achieve concordance with the histology
+   - **D.** Document discordance and recommend repeat biopsy with a vacuum-assisted device or diagnostic surgical excision, with MDT discussion
+   - **E.** Arrange six-month mammographic follow-up to monitor for interval change
 
-3. When reporting axillary nodes in the context of proven breast malignancy, which morphological feature is most important to document?
-   - **A.** Node level (I–III), cortical thickness in millimetres, focal versus diffuse hypertrophy, and hilum status.
-   - **B.** Node size in a single maximum diameter only.
-   - **C.** Presence or absence of nodes at level III exclusively.
-   - **D.** Signal characteristics on MRI only, as ultrasound is insufficient for nodal staging.
-   - **E.** Whether nodes are bilateral, as unilateral nodes are always benign.
+3. When documenting axillary ultrasound findings in the structured report for a patient with a newly diagnosed breast malignancy, which of the following elements is specifically required by the guidance given in this section?
+   - **A.** The patient's body mass index and arm lymphoedema history
+   - **B.** Cortical thickness in millimetres, hilum status, and whether needle sampling was performed
+   - **C.** A formal BI-RADS category for every visualised node regardless of morphology
+   - **D.** Doppler flow characteristics and vascular resistance index of each node
+   - **E.** The total number of nodes visible on ultrasound, including morphologically normal nodes
 
 ## Modality-specific structured elements
 
@@ -361,26 +398,26 @@ MRI is a problem-solver and extent-assessor, not a screening tool (outside high-
 
 ### Check your understanding
 
-1. Which calcification morphology and distribution combination should raise the highest suspicion for high-grade DCIS on mammography?
-   - **A.** Coarse 'popcorn' calcifications in a regional distribution.
-   - **B.** Fine linear and branching calcifications in a segmental distribution.
-   - **C.** Lucent-centred calcifications diffusely distributed bilaterally.
-   - **D.** Amorphous calcifications in a scattered distribution across both breasts.
-   - **E.** Vascular calcifications in a linear distribution along vessel walls.
+1. On MRI, a segmental region of clumped enhancement is identified in a patient with known DCIS. No mammographic correlate is present. What is the most appropriate next step?
+   - **A.** Recommend follow-up MRI in six months to assess stability
+   - **B.** Perform MRI-guided biopsy as there is no mammographic or ultrasound correlate
+   - **C.** Assign benign status because the kinetic curve shows persistent enhancement
+   - **D.** Request second-look ultrasound and, if a correlate is found, proceed to stereotactic biopsy
+   - **E.** Discharge as the MRI finding is consistent with background parenchymal enhancement
 
-2. On ultrasound, which feature most strongly suggests a lesion is growing across, rather than along, normal tissue planes — a hallmark of infiltrative behaviour?
-   - **A.** Posterior acoustic enhancement.
-   - **B.** Homogeneous hypoechoic echotexture.
-   - **C.** Non-parallel (taller-than-wide) orientation.
-   - **D.** Thin, imperceptibly smooth wall.
-   - **E.** Parallel orientation with circumscribed margins.
+2. A radiographer is reporting an ultrasound of a symptomatic area and finds no focal abnormality. Which approach is most consistent with best practice as described in this section?
+   - **A.** Report 'no focal abnormality' and discharge the patient
+   - **B.** Recommend mammography as the primary investigation instead
+   - **C.** Document precisely which area was examined and acknowledge any limitations of the examination
+   - **D.** Assign U1 without further comment, as this is sufficient for audit purposes
+   - **E.** Perform only two orthogonal measurements of any incidental finding before reporting
 
-3. An MRI is performed on day 12 of a premenopausal woman's menstrual cycle and shows marked background parenchymal enhancement. What is the most appropriate action?
-   - **A.** Report as normal, as marked BPE is always physiological and excludes pathology.
-   - **B.** Recommend immediate MRI-guided biopsy of all enhancing foci.
-   - **C.** Acknowledge in the report that marked BPE reduces specificity and consider whether repeat timing within the cycle would improve the examination.
-   - **D.** Upgrade all enhancing lesions to the highest suspicion category to compensate for reduced sensitivity.
-   - **E.** Abandon the MRI report and rely solely on mammography findings.
+3. During stereotactic clip placement for a cluster of fine linear branching calcifications, how should correct clip positioning be confirmed?
+   - **A.** A single post-procedure mammographic view centred on the biopsy site
+   - **B.** A post-procedure two-view mammogram documenting the clip's distance from the calcification in millimetres
+   - **C.** Immediate repeat stereotactic images at the time of the procedure only
+   - **D.** Ultrasound correlation on the day after the procedure
+   - **E.** Triangulation on the pre-procedure images is sufficient; post-procedure imaging is optional
 
 ## Image-guided biopsy: documenting what matters
 
@@ -404,11 +441,11 @@ A complete biopsy report includes:
 
 ### Check your understanding
 
-1. For a calcification-targeted biopsy, specimen radiography must be performed and the report should state whether target morphology is represented within the cores.  *(True / False)*
+1. A complete biopsy report should include a provisional expectation of benign or malignant histology so that the MDT can identify discordance.  *(True / False)*
 
-2. When B2 histology is returned against M5 or U5 imaging, the findings should be documented as concordant and the patient may be discharged with routine safety-netting.  *(True / False)*
+2. For calcification targets, specimen radiography documentation need only confirm that cores were obtained, without commenting on whether the target morphology is represented.  *(True / False)*
 
-3. Including a provisional expectation of benign or malignant histology in the biopsy report helps the MDT anticipate and identify imaging–pathology discordance.  *(True / False)*
+3. B2 histology against M4 imaging should be recorded as concordant, and routine follow-up recommended.  *(True / False)*
 
 ## Correlation, concordance, and MDT
 
@@ -422,11 +459,26 @@ A complete biopsy report includes:
 
 ### Check your understanding
 
-1. If no ultrasound correlate is identified for suspicious mammographic calcifications, the report should explicitly state this, confirming that stereotactic guidance is required for biopsy.  *(True / False)*
+1. When reporting suspicious mammographic calcifications with no ultrasound correlate, what should the radiologist explicitly state in the report?
+   - **A.** That the calcifications are probably benign and no further action is required
+   - **B.** That ultrasound is unreliable for detecting calcifications and should not be used
+   - **C.** That the absence of an ultrasound correlate confirms stereotactic guidance is required for biopsy
+   - **D.** That MRI should be performed before any biopsy decision is made
+   - **E.** That the calcifications should be recalled for repeat mammography in six months
 
-2. Imaging–pathology concordance may be communicated implicitly within the overall narrative of the report, without a specific written concordance statement.  *(True / False)*
+2. When presenting a known cancer at the MDT, which combination of information does this section identify as essential for surgical and oncological treatment planning?
+   - **A.** Tumour dimensions, BI-RADS category, reporter's name, and date of examination
+   - **B.** Tumour dimensions, multifocality, nipple–tumour distance, skin or chest wall involvement, nodal status, and factors influencing conservation versus mastectomy
+   - **C.** Tumour dimensions, background parenchymal density, and patient age
+   - **D.** Lesion morphology, ACR density grade, and recommended follow-up interval
+   - **E.** Tumour dimensions, contralateral breast findings, and previous imaging comparison
 
-3. When presenting a known cancer at MDT, the imaging summary should include tumour dimensions, multifocality, nipple–tumour distance, skin or chest wall involvement, and nodal status.  *(True / False)*
+3. Regarding imaging–pathology concordance, what does this section state is the appropriate approach when there is any uncertainty?
+   - **A.** Assume concordance unless the pathologist contacts the radiologist directly
+   - **B.** Repeat the biopsy immediately without further discussion
+   - **C.** Document concordance verbally during the biopsy procedure only
+   - **D.** Flag the uncertainty for MDT discussion and record this in writing
+   - **E.** Defer to the clinician's clinical judgement without radiological comment
 
 ## Benign versus suspicious: structured reasoning
 
@@ -443,19 +495,26 @@ When features conflict — a circumscribed mass on mammography that is angular o
 
 ### Check your understanding
 
-1. Which pathophysiological process underlies the mammographic appearance of spiculated margins around a malignant mass?
-   - **A.** Calcified intraluminal debris within necrotic ducts.
-   - **B.** Desmoplastic stromal reaction to infiltrative tumour growth.
-   - **C.** Reactive inflammatory oedema of surrounding fibroglandular tissue.
-   - **D.** Lymphatic obstruction causing trabecular thickening.
-   - **E.** Tumour growth along, rather than across, normal tissue planes.
+1. A mass appears circumscribed on mammography but demonstrates angular margins and non-parallel orientation on ultrasound. Applying the structured reasoning principle described in this section, what is the most appropriate next action?
+   - **A.** Return the patient to routine screening, as circumscribed mammographic margins indicate benignity
+   - **B.** Perform a short-interval follow-up at six months to assess stability
+   - **C.** Acknowledge the discordance and proceed to biopsy to resolve the uncertainty
+   - **D.** Dismiss the ultrasound findings as artefactual if the mammogram appears benign
+   - **E.** Request MRI as the definitive investigation before any further action
 
-2. A mammogram shows a circumscribed mass, but targeted ultrasound reveals the same lesion has angular margins. What is the most appropriate response?
-   - **A.** Accept the more reassuring mammographic appearance and assign M2/U2.
-   - **B.** Dismiss the angular margins as an ultrasound artefact and discharge.
-   - **C.** Acknowledge the cross-modality discordance, explain your reasoning, and proceed to biopsy to resolve the uncertainty.
-   - **D.** Repeat ultrasound in three months to assess for interval change.
-   - **E.** Assign U2 as angular margins are a recognised benign feature of fibroadenomas.
+2. A radiographer is reporting a case in which ultrasound shows a lesion orientated taller than wide. According to the pathophysiological reasoning outlined in this section, why is this orientation suspicious?
+   - **A.** It indicates rapid cellular proliferation causing internal necrosis
+   - **B.** It reflects calcified intraluminal debris within high-grade DCIS
+   - **C.** It suggests the lesion is growing across tissue planes, a hallmark of infiltrative behaviour
+   - **D.** It represents a desmoplastic stromal reaction identical to spiculation on mammography
+   - **E.** It is associated with segmental ductal distribution of calcifications
+
+3. A mammogram demonstrates fine linear and branching calcifications in a segmental distribution. Which explanation for this morphology is provided in this section?
+   - **A.** Dystrophic calcification within fat necrosis following trauma
+   - **B.** Calcified secretions within benign sclerosing adenosis
+   - **C.** Calcium deposited within the desmoplastic stroma surrounding an invasive tumour
+   - **D.** Calcified intraluminal debris in necrotic high-grade DCIS reflecting ductal anatomy
+   - **E.** Vascular calcification following radiotherapy to the breast
 
 ## Common interpretive and technical pitfalls
 
@@ -470,11 +529,26 @@ When features conflict — a circumscribed mass on mammography that is angular o
 
 ### Check your understanding
 
-1. Reporting 'no focal abnormality' on ultrasound is acceptable even if the symptomatic area was not specifically interrogated, provided no lesion was seen in the area examined.  *(True / False)*
+1. A radiographer reporting a screening mammogram notes an asymmetry on the current study. Prior imaging from another centre is unavailable. Which of the following statements best reflects the recommended approach?
+   - **A.** Assign BI-RADS 1 (negative) as there is no confirmed lesion on the current images
+   - **B.** Describe the asymmetry and state 'no reliable comparison available; developing asymmetry cannot be excluded'
+   - **C.** Recall the patient immediately for biopsy, as all new asymmetries require tissue sampling
+   - **D.** Defer to the next screening round, as asymmetries are rarely significant without prior comparison
+   - **E.** Document the asymmetry but omit a management plan until priors are obtained
 
-2. Tomosynthesis (DBT) can help resolve equivocal architectural distortion that appears ambiguous on two-dimensional mammography.  *(True / False)*
+2. A report describes a cluster of calcifications in detail but concludes without a BI-RADS category or recommended action. According to the common pitfalls outlined, how should this report be characterised?
+   - **A.** Acceptable, provided the description is thorough and precise
+   - **B.** Incomplete, because a description without a category and management plan is insufficient
+   - **C.** Acceptable only if the calcifications are clearly benign in morphology
+   - **D.** Incomplete only if the patient has a personal history of breast cancer
+   - **E.** Acceptable, as the referring clinician is responsible for determining the management plan
 
-3. Documenting technical limitations such as dense parenchyma or patient discomfort is a legitimate and important part of the structured report.  *(True / False)*
+3. On a 2D mammogram, a possible area of architectural distortion is identified but summation artefact cannot be excluded. What is the recommended next step according to the pitfalls described in this section?
+   - **A.** Proceed directly to ultrasound-guided biopsy
+   - **B.** Dismiss the finding if it is not visible on both projections
+   - **C.** Use digital breast tomosynthesis (DBT) to resolve whether the finding is real or a summation artefact
+   - **D.** Apply a skin marker and repeat the standard two-view mammogram
+   - **E.** Report as BI-RADS 3 and arrange six-month follow-up imaging
 
 ## Structured report templates and example phrases
 
@@ -509,6 +583,29 @@ These are starting points — adapt them to your local reporting system and the 
 
 ---
 
+### Check your understanding
+
+1. A screening mammogram shows a new group of amorphous microcalcifications in the left upper outer quadrant spanning approximately 25 mm. Which structured report phrase best reflects the recommended next step according to the example templates?
+   - **A.** Routine recall with no further imaging anticipated
+   - **B.** Recall for assessment with magnification views and stereotactic biopsy likely required
+   - **C.** Immediate MRI-guided biopsy without further mammographic workup
+   - **D.** Ultrasound-guided core biopsy at next available symptomatic clinic
+   - **E.** Discharge with advice to re-present if change
+
+2. Following second-look ultrasound after MRI, no correlate is found for a 45 mm segmental non-mass enhancement with clumped internal pattern in the right upper outer quadrant. What does the structured report template recommend?
+   - **A.** Discharge with six-month MRI surveillance
+   - **B.** Ultrasound-guided core biopsy of the breast at the area of concern
+   - **C.** MRI-guided biopsy if technically feasible; otherwise discuss targeted stereotactic sampling of any mammographic correlate at MDT
+   - **D.** Fine-needle aspiration of the right axilla followed by MDT discussion
+   - **E.** Reassure and advise routine annual screening
+
+3. A symptomatic patient has P2 discrete nodularity at 2 o'clock in the right breast. Mammography is M1 and targeted ultrasound at 2 o'clock, 3–6 cm from the nipple shows no focal lesion. Which conclusion and management is described in the example template?
+   - **A.** U3; recommend core biopsy to exclude occult malignancy
+   - **B.** U2; offer follow-up ultrasound in six months
+   - **C.** U1; benign nodularity — reassure and advise to re-present if change
+   - **D.** U1; refer for MRI given dense background parenchyma
+   - **E.** U2; discharge with no further follow-up required
+
 ## Special scenarios
 
 **Post-operative and post-radiotherapy breast:** expect skin thickening, trabecular oedema, seromas, and evolving fat necrosis. Describe these changes, note their evolution over time, and anchor clip positions. Be alert to new or increasing distortion or calcifications in the treated field — these may represent recurrence and should be categorised and biopsied where suspicious.
@@ -525,26 +622,26 @@ These are starting points — adapt them to your local reporting system and the 
 
 ### Check your understanding
 
-1. A 70-year-old man is referred with a unilateral eccentric solid retroareolar mass. What is the most appropriate management approach?
-   - **A.** Discharge without imaging, as male breast cancer is too rare to warrant investigation.
-   - **B.** Reassure that the finding is consistent with benign gynaecomastia and discharge.
-   - **C.** Assign M and U categories and recommend biopsy for any suspicious solid mass.
-   - **D.** Proceed directly to surgical referral without imaging assessment.
-   - **E.** Request MRI as the first-line investigation for all male breast masses.
+1. A patient with DCIS has completed neoadjuvant chemotherapy. Post-treatment MRI shows complete resolution of enhancement, but mammography demonstrates persisting calcifications within the treated field. Which statement best reflects the correct reporting approach?
+   - **A.** Persisting calcifications confirm residual viable tumour and the patient should proceed directly to mastectomy
+   - **B.** Persisting calcifications should be described and their extent documented, but should not be interpreted as evidence of viable tumour without histological correlation
+   - **C.** Calcifications that persist after treatment are always benign and require no further comment in the report
+   - **D.** Persisting calcifications indicate that the MRI response assessment is unreliable and should be disregarded
+   - **E.** The extent of calcifications should replace MRI measurement as the primary marker of residual disease
 
-2. Following neoadjuvant chemotherapy, mammography shows persisting calcifications in the treated breast. Which interpretation is most accurate?
-   - **A.** Persisting calcifications confirm viable residual tumour and mandate immediate re-biopsy.
-   - **B.** Calcifications from DCIS often persist after treatment even when tumour has responded and should not be interpreted as evidence of viable tumour without correlating histology.
-   - **C.** All calcifications in the treated field should be reported as M5 until proven otherwise.
-   - **D.** Persisting calcifications indicate treatment failure and the chemotherapy regimen should be changed.
-   - **E.** Calcifications that persist after neoadjuvant therapy can be safely ignored if the enhancing mass has resolved on MRI.
+2. A radiographer is reporting a screening mammogram on a man who has a unilateral eccentric solid mass in the right breast. What is the most appropriate next step according to the guidance for male breast assessment?
+   - **A.** Reassure the patient, as male breast cancer is too rare to warrant further investigation
+   - **B.** Categorise as benign because gynecomastia is the commonest cause of male breast change
+   - **C.** Assign M and U categories and recommend biopsy for the suspicious solid mass
+   - **D.** Request a six-month follow-up mammogram to assess for interval change before deciding on biopsy
+   - **E.** Document the finding as symmetrical subareolar flame-shaped gynecomastia and discharge
 
-3. When assessing a woman with breast implants on MRI, which finding specifically indicates intracapsular rupture?
-   - **A.** Peri-implant fluid on ultrasound with an intact outer shell.
-   - **B.** Extracapsular silicone deposits in the axilla.
-   - **C.** The linguine sign — collapsed implant shell within the silicone envelope.
-   - **D.** Capsular calcification on mammography.
-   - **E.** Subglandular rather than subpectoral implant position.
+3. When reporting MRI in a patient with silicone breast implants, which finding specifically indicates intracapsular rupture?
+   - **A.** Peri-implant fluid visible on ultrasound
+   - **B.** Subpectoral implant location
+   - **C.** The linguine sign on MRI
+   - **D.** Extracapsular silicone deposits in the axilla
+   - **E.** Absence of Eklund displacement views on mammography
 
 ## Quality, audit, and language
 
@@ -558,11 +655,11 @@ Treat peer review and double reading variance as learning, not criticism. Arbitr
 
 ### Check your understanding
 
-1. Ambiguous or uncategorised reports break the audit chain, preventing meaningful measurement of recall rates and recall positive predictive values.  *(True / False)*
+1. Consistent application of M/U/B scoring categories is necessary to enable meaningful audit of recall rates and positive predictive values.  *(True / False)*
 
-2. Arbitration decisions at double reading should be recorded with rationale as well as outcome, to support collective standard improvement.  *(True / False)*
+2. When a radiographer is uncertain about a finding, vague hedging language in the report is an acceptable alternative to assigning a scored category such as M3/U3.  *(True / False)*
 
-3. Using hedging language such as 'there may possibly be a subtle asymmetry which could perhaps warrant further evaluation' is acceptable when the reporter is genuinely uncertain about a finding.  *(True / False)*
+3. Arbitration decisions following double-reading variance should record only the final outcome, without the rationale, to keep reports concise.  *(True / False)*
 
 ## Putting it together: a mental checklist
 
@@ -580,3 +677,12 @@ Before signing off any breast report, run through this:
 - [ ] Safety-netting provided if discharging?
 
 Structured reporting is a scaffold, not a straitjacket. Use it to ensure completeness and clarity; apply judgement when findings do not fit neatly into a category. When you explain your reasoning in the report — why you called M4 rather than M3, why you regard the imaging and histology as discordant — you make the MDT more effective and your future self more accountable. That is what good radiology looks like.
+
+### Check your understanding
+
+1. According to the mental checklist, a single overall M and/or U category must be assigned in addition to a category for each individual finding.  *(True / False)*
+
+2. The mental checklist requires that histology concordance assessment is included within the initial procedural report rather than documented in a subsequent addendum.  *(True / False)*
+
+3. Structured reporting should be applied rigidly so that all findings are assigned to a predefined category without exception.  *(True / False)*
+

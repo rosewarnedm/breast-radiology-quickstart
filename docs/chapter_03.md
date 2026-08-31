@@ -23,11 +23,11 @@ As a core trainee, your role is not merely to read images but to recognise when 
 
 ### Check your understanding
 
-1. In the NHSBSP, asymptomatic women aged 50–70 are invited for two-view mammography every three years with double reading and arbitration.  *(True / False)*
+1. In the NHSBSP, women aged 50–70 are invited for two-view mammography with double reading and arbitration every three years.  *(True / False)*
 
-2. In breast screening, single-episode image adequacy is more important than consistency of positioning across successive screening rounds.  *(True / False)*
+2. A skin fold misread as architectural distortion is described in this section as a potential cause of a false negative result.  *(True / False)*
 
-3. A core trainee's role includes recognising when an imaging appearance is technical rather than pathological.  *(True / False)*
+3. In symptomatic clinics, image quality underpins the rigour of triple assessment and meaningful P, M, U, and B scoring.  *(True / False)*
 
 ## Foundations of Image Quality
 
@@ -58,11 +58,26 @@ Reconstruction techniques (tomosynthesis, MRI) add their own blur through slice 
 
 ### Check your understanding
 
-1. Detector quantum efficiency (DQE) describes how efficiently a detector converts incident radiation into useful signal.  *(True / False)*
+1. A borderline visible lesion on mammography appears masked by grainy, random variation in the image background. Which property is most directly responsible for this limitation?
+   - **A.** Poor subject contrast due to dense fibroglandular tissue
+   - **B.** Geometric unsharpness from a large focal spot
+   - **C.** Quantum noise reducing signal-to-noise ratio
+   - **D.** Inappropriate image processing degrading image contrast
+   - **E.** Motion blur from an extended exposure time
 
-2. Geometric unsharpness in mammography is reduced on magnification views by using a standard focal spot and a grid.  *(True / False)*
+2. A magnification view is performed to assess microcalcification morphology, but the resultant image shows smeared edges and an apparent double-edge appearance to some calcifications. What is the most likely cause?
+   - **A.** Excessive voxel dimensions reducing spatial resolution
+   - **B.** Scatter degrading image contrast
+   - **C.** A low detector quantum efficiency (DQE)
+   - **D.** Patient or breast motion during the exposure
+   - **E.** Inappropriate post-processing algorithm
 
-3. Motion blur can produce a characteristic double-edge appearance and is the commonest cause of failed magnification views.  *(True / False)*
+3. When comparing two digital mammography detectors operating at the same radiation dose, which property best predicts which detector will produce the superior signal-to-noise ratio?
+   - **A.** Focal spot size
+   - **B.** Detector quantum efficiency (DQE)
+   - **C.** Subject contrast of the imaged tissue
+   - **D.** Beam width and transducer frequency
+   - **E.** Reconstruction slice thickness
 
 ## Mammography: Positioning, Compression, and Exposure
 
@@ -157,26 +172,26 @@ However, DBT introduces new pitfalls:
 
 ### Check your understanding
 
-1. During a screening MLO view, you notice the inframammary fold is closed. What is the most important consequence of this finding?
-   - **A.** The axillary tail of Spence is not included
-   - **B.** The pectoral muscle cannot be assessed
-   - **C.** Inferior breast tissue is lost from the image
-   - **D.** The nipple will not be in profile
-   - **E.** The AEC chamber will be misplaced
+1. On a mediolateral oblique (MLO) mammogram, the inframammary fold appears closed and inferior breast tissue is absent. What is the most likely cause of this finding?
+   - **A.** The AEC chamber was positioned over fatty tissue rather than dense tissue
+   - **B.** The MLO angle was too steep for the patient's body habitus
+   - **C.** The breast was not adequately lifted and supported during positioning
+   - **D.** The receptor height was set too high, above the inframammary fold
+   - **E.** Compression was applied before tissue mobilisation was complete
 
-2. A patient with a displaceable silicone implant attends for screening mammography. Which technique should be used to image the anterior glandular tissue most effectively?
-   - **A.** Standard CC and MLO views with increased compression force
-   - **B.** Eklund (implant-displaced) views pushing the implant posteriorly
-   - **C.** Spot compression views over the implant surface
-   - **D.** Magnification views with the implant in situ
-   - **E.** Single-view MLO only to reduce radiation dose
+2. A patient with a displaceable silicone implant attends for screening mammography. Which technique should be used to maximise imaging of the anterior glandular tissue?
+   - **A.** Spot compression views over the implant to thin it focally
+   - **B.** Eklund (implant-displaced) views, pushing the implant posteriorly
+   - **C.** Standard CC and MLO views with increased kVp to penetrate the implant
+   - **D.** Magnification views with the grid removed to reduce scatter from the implant
+   - **E.** Additional mediolateral views to image tissue lateral to the implant
 
-3. You are reviewing a DBT study and notice that a cluster of microcalcifications appears less sharp than expected. What is the most appropriate next step?
-   - **A.** Increase the number of DBT projection angles and repeat the sweep
-   - **B.** Obtain synthetic 2D images from the DBT dataset and assess on those
-   - **C.** Accept the DBT appearances as adequate for calcification assessment
-   - **D.** Proceed directly to stereotactic biopsy without further imaging
-   - **E.** Obtain true 2D magnification views for definitive calcification morphology assessment
+3. A mammographer is reviewing digital breast tomosynthesis (DBT) images of a patient recalled for microcalcifications. What is the most important additional imaging step for definitive morphological assessment of the calcifications?
+   - **A.** Increase the reconstruction slice thickness to improve calcification sharpness on DBT
+   - **B.** Review the synthetic 2D images, as these replicate true 2D calcification rendering
+   - **C.** Obtain true 2D magnification views, as DBT and synthetic 2D are insufficient for calcification morphology
+   - **D.** Repeat the DBT acquisition with the patient coached to hold still to eliminate motion artefact
+   - **E.** Apply spot compression on the DBT to reduce tissue overlap over the calcification cluster
 
 ## Common Mammographic Artefacts and Interpretive Traps
 
@@ -214,26 +229,26 @@ Missed posterior tissue near the pectoral margin and missed inferior tissue at t
 
 ### Check your understanding
 
-1. At screening, a reader identifies a focal density in the upper outer quadrant of the right breast on the MLO view. On a rolled CC view, the density completely disperses. What is the most likely explanation?
-   - **A.** A spiculated carcinoma hidden by overlying fibroglandular tissue
-   - **B.** A skin fold projected over the breast parenchyma
-   - **C.** A summation shadow from overlapping fibroglandular tissue
-   - **D.** Deodorant residue producing a focal opacity
-   - **E.** An intraductal lesion within a dilated lactiferous sinus
+1. A patient is recalled following a screening mammogram showing an apparent focal density on the MLO view only. The density is not visible on the CC view. Which single action is most appropriate to determine whether this represents a true lesion?
+   - **A.** Proceed directly to ultrasound-guided core biopsy
+   - **B.** Obtain a rolled CC or XCCL view to change the projection angle
+   - **C.** Repeat the standard MLO view with increased compression
+   - **D.** Request MRI of the breast
+   - **E.** Apply a radiopaque BB to the area and repeat the MLO
 
-2. A patient attends for mammography and a cluster of irregular superficial specks is noted, potentially mimicking microcalcifications. She reports using talcum powder that morning. What is the most appropriate initial action?
-   - **A.** Mark the area with a radiopaque BB and proceed with standard views
-   - **B.** Obtain a tangential view with the suspicious area at the skin surface
-   - **C.** Proceed directly to magnification views to assess morphology
-   - **D.** Recall the patient for repeat mammography after further history
-   - **E.** Request urgent ultrasound to characterise the calcifications
+2. During a routine mammogram, a patient is noted to have worn deodorant. The images show irregular superficial specks that could represent microcalcifications. Which view should be obtained to confirm or refute a dermal location?
+   - **A.** Magnification CC view
+   - **B.** Lateral view with spot compression
+   - **C.** Tangential view with the suspicious area at the skin surface
+   - **D.** Rolled CC view
+   - **E.** XCCL view
 
-3. A known seborrhoeic keratosis is visible on a patient's breast skin. How should this be managed before mammographic acquisition?
-   - **A.** No action required as skin lesions are easily identified on the image
-   - **B.** Document the location in the patient notes after imaging
-   - **C.** Mark the lesion with a radiopaque BB before acquisition
-   - **D.** Obtain a tangential view post-acquisition to characterise it
-   - **E.** Exclude the area from compression to avoid trauma to the lesion
+3. An apparent mass is seen in the retroareolar region on mammography. Which imaging approach does this section recommend to distinguish duct ectasia from a discrete intraductal or periductal lesion?
+   - **A.** MRI with gadolinium contrast in the prone position
+   - **B.** Spot compression magnification views in two projections
+   - **C.** Galactography to opacify the ductal system
+   - **D.** Targeted ultrasound in radial and anti-radial planes looking for tubular continuity with the nipple
+   - **E.** DBT to assess tissue overlap in the subareolar region
 
 ## Ultrasound: Optimisation and Artefact Management
 
@@ -278,26 +293,26 @@ Use **radial and anti-radial planes** centred on the nipple — these follow the
 
 ### Check your understanding
 
-1. During ultrasound assessment of the breast, you identify a hypoechoic area with apparent spiculated margins at a site of mammographic concern. When you adjust the insonation angle by 15°, the hypoechogenicity and spiculation persist. What is the most appropriate interpretation?
-   - **A.** The finding is an anisotropy artefact and can be disregarded
-   - **B.** The finding is likely a fat lobule border and requires no further action
-   - **C.** The persistent appearance raises suspicion for a pathological lesion
-   - **D.** Compound imaging should be applied to confirm the artefactual nature
-   - **E.** Edge shadowing from a fibroadenoma is the most likely cause
+1. During breast ultrasound of a 3 mm superficial lesion just beneath the skin surface, the structure is poorly visualised due to near-field clutter. Which of the following is the most appropriate corrective action?
+   - **A.** Reduce the transducer frequency to improve penetration
+   - **B.** Increase the overall gain to bring the lesion into view
+   - **C.** Use a standoff pad, thick gel, or a high-frequency transducer with a short focus
+   - **D.** Switch to compound imaging to reduce speckle
+   - **E.** Reposition the focal zone to the chest wall
 
-2. A mammographic lesion is identified in the posterior third of the breast. Targeted ultrasound using a 15 MHz transducer cannot demonstrate any correlate. What is the most appropriate next step?
-   - **A.** Dismiss the mammographic lesion as a summation shadow
-   - **B.** Proceed directly to MR-guided biopsy
-   - **C.** Try a lower-frequency probe, adjust depth, and consider MRI if still not found
-   - **D.** Increase gain and TGC settings and review the same images
-   - **E.** Apply a standoff pad to improve near-field resolution
+2. A radiographer is scanning a smoothly contoured fibroadenoma and notes symmetrical thin linear shadows arising from both lateral margins. What is the correct interpretation of this finding?
+   - **A.** Posterior acoustic shadowing consistent with a scirrhous tumour
+   - **B.** A refraction artefact called edge shadowing, expected for a smoothly curved lesion
+   - **C.** Side-lobe artefact that can be reduced by switching to fundamental imaging mode
+   - **D.** Anisotropy that will resolve with a 10–15° change in insonation angle
+   - **E.** Posterior acoustic enhancement indicating a fluid-filled structure
 
-3. A radiographer is scanning a breast and notices that what appears to be posterior acoustic enhancement is present behind a solid-looking lesion. How should this posterior feature influence the assessment?
-   - **A.** It confirms the lesion is a benign simple cyst and no further action is needed
-   - **B.** It excludes a high-grade carcinoma, which always produces posterior shadowing
-   - **C.** It supports but does not override assessment of margin and internal echo characteristics
-   - **D.** It indicates the lesion is fatty and can be dismissed
-   - **E.** It confirms adequate gain settings and the assessment is complete
+3. A breast ultrasound reveals a lesion with a hypoechoic, apparently spiculated appearance. The radiographer suspects anisotropy. What is the recommended first step, and what finding would suggest the lesion is more likely pathological?
+   - **A.** Increase probe pressure to improve contact; resolution of spiculation confirms pathology
+   - **B.** Switch to tissue harmonic imaging; persistence of enhancement indicates malignancy
+   - **C.** Adjust the insonation angle by 10–15°; persistence of hypoechogenicity and spiculated margins through angle change suggests pathology
+   - **D.** Reduce transducer frequency to 9 MHz; lesion enlargement on lower frequency confirms pathology
+   - **E.** Apply colour Doppler; absence of vascularity confirms the finding is artefactual
 
 ## MRI: Acquisition Quality and Interpretive Traps
 
@@ -329,26 +344,26 @@ Patients are imaged **prone** in a dedicated bilateral breast coil. The breast s
 
 ### Check your understanding
 
-1. A breast MRI performed at 3T shows regional non-uniform fat suppression causing patchy signal across both breasts, potentially masking non-mass enhancement. Which fat suppression strategy is most likely to address this problem?
-   - **A.** Increase the repetition time (TR) to improve fat saturation uniformity
-   - **B.** Switch to a Dixon-based fat suppression method
-   - **C.** Reduce the field-of-view to focus on one breast at a time
-   - **D.** Use a frequency-selective fat saturation pulse at a higher bandwidth
-   - **E.** Repeat the sequence with the patient supine to reduce B₁ inhomogeneity
+1. A breast MRI examination performed at 3T in a patient with large, asymmetric breasts shows regional areas of incomplete fat suppression, masking possible non-mass enhancement on the subtracted images. Which fat suppression technique is most likely to be robust in this situation?
+   - **A.** Frequency-selective fat saturation (CHESS)
+   - **B.** Dixon-based method (e.g. IDEAL or DIXON)
+   - **C.** Short-tau inversion recovery (STIR) for the DCE sequence
+   - **D.** Increasing the repetition time to allow full fat relaxation
+   - **E.** Applying a surface coil with a narrower field of view
 
-2. On reviewing a breast MRI DWI sequence, a lesion appears to show restricted diffusion on the high-b-value image. The ADC map has not yet been reviewed. What artefact must be excluded before concluding true diffusion restriction is present?
-   - **A.** Chemical shift artefact at the lesion boundary
-   - **B.** Gibbs ringing from a large voxel size
-   - **C.** T2 shine-through making a benign cyst appear to restrict
-   - **D.** Susceptibility artefact from a nearby biopsy clip
-   - **E.** Background parenchymal enhancement masking the ADC value
+2. On a breast DWI sequence, a round lesion appears bright on the high-b-value image, suggesting restricted diffusion. The radiographer reports it as suspicious. Which additional step does the section specifically recommend to avoid a diagnostic error in this scenario?
+   - **A.** Repeat the DWI acquisition with a lower b-value to confirm signal persistence
+   - **B.** Correlate with the early post-contrast phase subtraction images only
+   - **C.** Review the ADC map to exclude T2 shine-through
+   - **D.** Increase the b-value to 1500 s/mm² to suppress all T2 signal
+   - **E.** Dismiss DWI findings and rely on DCE morphology alone
 
-3. Background parenchymal enhancement (BPE) on breast MRI is found to be high, making interpretation of non-mass enhancement difficult. Which of the following would most reduce BPE at the time of scanning?
-   - **A.** Administering a higher dose of gadolinium contrast
-   - **B.** Scanning in the second week of the menstrual cycle
-   - **C.** Using a shorter echo time (TE) to reduce T2 weighting
-   - **D.** Increasing the number of dynamic post-contrast phases
-   - **E.** Applying a higher b-value on the DWI sequence
+3. During reporting of a breast MRI in a patient with a biopsy clip in situ, a small signal void with local geometric distortion is identified adjacent to the known clip site. What is the most appropriate interpretation of this finding?
+   - **A.** Necrosis within a tumour at the clip site
+   - **B.** Intracapsular implant rupture
+   - **C.** Susceptibility artefact from the biopsy clip, correlated with mammographic clip position
+   - **D.** Chemical shift artefact requiring bandwidth adjustment
+   - **E.** Gibbs ringing at a fat–water interface
 
 ## Modality Correlation and Diagnostic Judgement
 
@@ -368,19 +383,26 @@ In the **screening context**, the threshold for additional investigation must ac
 
 ### Check your understanding
 
-1. Architectural distortion is identified on DBT in the right breast. Targeted ultrasound using optimal technique reveals no correlate. What is the most appropriate next management step?
-   - **A.** Discharge with routine recall in three years as the ultrasound is negative
-   - **B.** Repeat the ultrasound in six months to assess for interval change
-   - **C.** Proceed to DBT-guided or stereotactic biopsy of the mammographic distortion
-   - **D.** Obtain MRI and defer biopsy pending MRI result
-   - **E.** Reclassify the mammographic finding as a summation shadow
+1. A woman is recalled from screening with architectural distortion on mammography. Targeted ultrasound is performed with optimal technique but no correlate is identified. What is the most appropriate next step?
+   - **A.** Reassure and return to routine screening
+   - **B.** Repeat ultrasound in six months
+   - **C.** Proceed to MR-guided biopsy
+   - **D.** Perform DBT-guided or stereotactic biopsy
+   - **E.** Repeat mammography in three months
 
-2. A lesion is identified on breast MRI that has no mammographic correlate. Targeted second-look ultrasound demonstrates a subtle hypoechoic area that correlates in position. What is the preferred next step for tissue diagnosis?
-   - **A.** MR-guided biopsy as the lesion was originally identified on MRI
-   - **B.** Ultrasound-guided biopsy of the ultrasound correlate
-   - **C.** Stereotactic biopsy under mammographic guidance
-   - **D.** Excision biopsy without further imaging guidance
-   - **E.** Repeat MRI in three months to assess for kinetic change
+2. A symptomatic patient has a U3 ultrasound finding that correlates with an M3 mammogram. MRI has not been performed. What is the most appropriate management?
+   - **A.** Arrange MRI before any biopsy decision
+   - **B.** Perform core biopsy, as B scoring directly informs MDT management
+   - **C.** Repeat imaging in six weeks to reassess
+   - **D.** Discharge with safety-netting as neither finding is suspicious
+   - **E.** Proceed to excision biopsy without prior core biopsy
+
+3. An MRI detects a lesion in a patient undergoing staging. No correlate was identified at the time of MRI. What is the correct sequence of further investigation?
+   - **A.** Proceed directly to MR-guided biopsy to avoid delay
+   - **B.** Perform supplemental DBT to characterise the lesion before biopsy
+   - **C.** Perform targeted second-look ultrasound; if a correlate is found, use US-guided biopsy
+   - **D.** Perform magnification mammography to assess for associated calcification before biopsy
+   - **E.** Repeat MRI in three months to confirm persistence before biopsy
 
 ## Technical Pitfalls: False Negatives and False Positives
 
@@ -411,11 +433,26 @@ For any equivocal finding, apply the same mental framework: **does it persist ac
 
 ### Check your understanding
 
-1. An anisotropy artefact on ultrasound, causing a fibrous structure to appear hypoechoic, can typically be resolved by adjusting the insonation angle.  *(True / False)*
+1. A patient returns for assessment of apparent fine calcifications seen on screening mammography. A tangential view demonstrates that the specks lie within the skin. What was the most likely source of the false-positive finding?
+   - **A.** Summation shadow from superimposed fibroglandular tissue
+   - **B.** Motion blur during the original exposure
+   - **C.** Deodorant or talc on the skin surface
+   - **D.** Skin fold creating a curvilinear opacity
+   - **E.** Inadequate compression causing tissue overlap
 
-2. A finding that disappears entirely on a rolled CC view or spot compression can confidently be treated as a true lesion requiring biopsy.  *(True / False)*
+2. On ultrasound, a radiographer identifies a hypoechoic area within fibrous breast tissue that raises concern for a solid lesion. After adjusting the transducer angle, the finding disappears. According to the section, what is the most likely explanation?
+   - **A.** The lesion is too deep for the selected frequency
+   - **B.** Anisotropy causing a fibrous structure to appear hypoechoic at certain insonation angles
+   - **C.** High background parenchymal enhancement masking the true lesion
+   - **D.** Summation of overlapping tissue planes
+   - **E.** Fat-saturation failure producing residual signal
 
-3. Failure of fat suppression on breast MRI, causing residual fat signal, is listed as a mechanism for false negative results due to masking of non-mass enhancement.  *(True / False)*
+3. A radiographer reviews a mammogram showing an area of possible architectural distortion. Rolled views and spot compression cause the finding to disappear completely. Applying the framework described in the section, what is the most appropriate conclusion?
+   - **A.** The finding is suspicious and requires ultrasound correlation
+   - **B.** A supplementary MLO view should be taken to assess posterior tissue
+   - **C.** The finding was almost certainly never real, as it dissolved with a technical modification
+   - **D.** MRI is indicated because the finding could not be confirmed
+   - **E.** The case should be recalled for tomosynthesis as the finding may represent NME
 
 ## Quality Assurance and Governance
 
@@ -444,11 +481,11 @@ Peer review of positioning, side-by-side comparison with prior rounds, and share
 
 ### Check your understanding
 
-1. Reject and retake analysis, with causes classified and fed back into training cycles, is described as one of the most powerful quality improvement tools available.  *(True / False)*
+1. Reject and retake analysis is described in the NHSBSP QA framework as one of the most powerful quality improvement tools available.  *(True / False)*
 
-2. In NHSBSP-accredited units, diagnostic monitor calibration is optional provided ambient lighting conditions are controlled.  *(True / False)*
+2. In NHSBSP-accredited units, display quality assurance is optional provided that ambient lighting is adequately controlled.  *(True / False)*
 
-3. Mean glandular dose in the NHSBSP is benchmarked against NHSBSP and EUREF reference levels, with individual and equipment-level outliers investigated.  *(True / False)*
+3. When technical recall cannot be avoided, the NHSBSP requires that the reason is documented alongside a clear, targeted corrective plan.  *(True / False)*
 
 ## Practical Checklists
 
@@ -485,6 +522,14 @@ Peer review of positioning, side-by-side comparison with prior rounds, and share
 
 ---
 
+### Check your understanding
+
+1. During breast MRI acquisition, if motion artefact is identified on the initial series, the protocol requires the sequence to be repeated rather than proceeding with non-diagnostic data.  *(True / False)*
+
+2. For DBT, 2D magnification views are obtained as part of the standard acquisition sweep and do not need to be performed separately.  *(True / False)*
+
+3. On an MLO mammographic view, the inframammary fold (IMF) should be open and the pectoral muscle should extend to the nipple level or below.  *(True / False)*
+
 ## Summary
 
 Image quality is not a bureaucratic requirement — it is the operational substrate upon which every breast imaging interpretation rests. Whether you are working in NHSBSP screening with two-view mammography and double reading, or in a symptomatic clinic applying triple assessment and B scoring, the diagnostic confidence of your report depends on what the acquisition actually shows.
@@ -492,3 +537,12 @@ Image quality is not a bureaucratic requirement — it is the operational substr
 Understanding why contrast, resolution, and noise behave as they do; why positioning and compression transform diagnostic yield; and how artefacts arise and can be corrected gives you the capacity to prevent pitfalls, reduce false outcomes, and report with genuine confidence. Where practice legitimately varies — DBT protocols, specific MLO angles, choice of fat suppression method — the governing principles remain constant: include all the tissue, separate and stabilise it, choose parameters that reveal the lesion without adding artefact, and correlate systematically across modalities.
 
 When something looks wrong, ask whether the image was acquired correctly before you decide what it means.
+
+### Check your understanding
+
+1. According to this summary, diagnostic confidence in mammographic reporting is dependent on the quality of image acquisition.  *(True / False)*
+
+2. This summary states that governing principles for image acquisition vary between DBT protocols and standard two-view mammography.  *(True / False)*
+
+3. The summary advises that when an image appearance is unexpected, the radiographer should first consider whether the image was acquired correctly before drawing interpretive conclusions.  *(True / False)*
+
